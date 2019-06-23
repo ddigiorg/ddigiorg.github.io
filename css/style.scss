@@ -23,11 +23,11 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 1;
 
     overflow-x: hidden;
-    color: #000000;
     background-color: #f1f1f1;    
 }
 
 #sidenav h2 {
+    color: #000000;
     font-size:21px;
     padding-left:16px;
     margin:-4px 0 4px 0;
@@ -35,13 +35,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #sidenav a {
+    color: #000000;
     text-decoration:none;
     display:block;
     padding:2px 1px 1px 16px
 }
 
 #sidenav a:hover {
-    color: #000000;
     background-color: #cccccc;
 }
 
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
     /*background-repeat: no-repeat;*/
     font-size: 14px;
     width: 91%;
-    padding: 6px 6px 6px 40px;
+    padding: 6px;
     border: 1px solid #ddd;
     margin: 0 0 20px 10px;
 }
