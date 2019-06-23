@@ -14,14 +14,14 @@
             <a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a>
         {% endif %}
         {% if item.group %}
-        <button class="dropdown-btn">Dropdown 
-            <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="dropdown-container">
-            {% for subitem in item.subitems %}
-                <a href="{{site.baseurl}}{{subitem.url}}">{{subitem.page}}</a>
-            {% endfor %}
-        </div>
+            <button class="dropdown-btn">Dropdown 
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-container">
+                {% for subitem in item.subitems %}
+                    <a href="{{site.baseurl}}{{subitem.url}}">{{subitem.page}}</a>
+                {% endfor %}
+            </div>
         {% endif %}
     {% endfor %}
 </div>

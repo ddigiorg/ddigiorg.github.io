@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #242931;
 }
 
-/* The sidebar menu */
+/* Side navigation menu */
 .sidenav {
     height: 100%;
     width: 200px;
@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 20px;
 }
 
-/* The navigation menu links */
-.sidenav a {
+/* Side navigation menu links and dropdown buttons */
+.sidenav a, .dropdown-btn {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 14px;
@@ -40,20 +40,12 @@ h1, h2, h3, h4, h5, h6 {
     outline: none;
 }
 
-/* On mouse-over*/
-.sidenav a:hover {
+/* Mouse-over menu items*/
+.sidenav a:hover, .dropdown-btn:hover {
   color: #f1f1f1;
 }
 
-/* Style page content */
-.content {
-    margin-left: 200px;
-    padding: 0px 10px;
-}
-
-
-
-/* Add an active class to the active dropdown button */
+/* Dropdown button active */
 .active {
     background-color: green;
     color: white;
@@ -66,8 +58,16 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 8px;
 }
 
-/* Optional: Style the caret down icon */
+/* Caret down icon */
 .fa-caret-down {
     float: right;
     padding-right: 8px;
+}
+
+
+
+/* Page content */
+.content {
+    margin-left: 200px;
+    padding: 0px 10px;
 }
