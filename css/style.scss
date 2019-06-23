@@ -12,7 +12,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #242931;
 }
 
-/* Side navigation box */
 #sidenav {
     height: 100%;
     width: 200px;
@@ -25,31 +24,31 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 20px;
 }
 
-/* Side navigation menu links and dropdown buttons */
-#sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 14px;
-    color: #ba87cf;
-    display: block;
-    border: none;
-    background: none;
-    width: 100%;
-    text-align: left;
-    cursor: pointer;
-    outline: none;
-}
-
-/* Mouse-over menu items*/
-#sidenav a:hover {
-  color: #f1f1f1;
-}
-
 #sidenav h2 {
-    color: #ba87cf;
+    font-size:21px;
+    padding-left:16px;
+    margin:-4px 0 4px 0;
+    width:204px;
 }
 
-/* Search box */
+#sidenav a {
+    text-decoration:none;
+    display:block;
+    padding:2px 1px 1px 16px
+}
+
+#sidenav a:hover {
+    color: #000000;
+    background-color: #cccccc;
+}
+
+#sidenav a.active
+{
+    color:#ffffff;
+    background-color:#4CAF50;
+}
+
+
 .searchinput {
     xbackground-image: url('/css/searchicon.png'); /*TODO!!!*/
     xbackground-position: 8px 6px;
@@ -62,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* Page content */
+
 #content {
     margin-left: 200px;
     padding: 0px 10px;
