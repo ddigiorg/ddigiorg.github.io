@@ -1,17 +1,10 @@
 items:
-- page: Test Link
+- page: Thing 1
   url: /pages/a/doc.html
-- group: Group 1
-  subitems:
-  - page: Thing 1
-    url: /pages/a/doc.html
-  - page: Thing 2
-    url: /pages/b/doc.html
-  - page: Thing 3
-    url: /pages/c/doc.html
-- group: Group 2
-  subitems:
-  - page: Thing 8
-    url: /pages/b/doc.html
-  - page: Thing 9
-    url: /pages/c/doc.html
+- heading: Heading 1
+- page: Thing 1
+  url: /pages/a/doc.html
+- page: Thing 2
+  url: /pages/b/doc.html
+- page: Thing 3
+  url: /pages/c/doc.html

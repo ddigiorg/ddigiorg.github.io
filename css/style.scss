@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Side navigation menu links and dropdown buttons */
-.sidenav a, .dropdown-btn {
+.sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 14px;
@@ -41,30 +41,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Mouse-over menu items*/
-.sidenav a:hover, .dropdown-btn:hover {
+.sidenav a:hover {
   color: #f1f1f1;
 }
-
-/* Dropdown button active */
-.active {
-    background-color: #ba87cf;
-    color: #f1f1f1;
-}
-
-/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
-.dropdown-container {
-    display: none;
-    background-color: #000000;
-    padding-left: 8px;
-}
-
-/* Caret down icon */
-.caret-down {
-    float: right;
-    padding-right: 8px;
-}
-
-
 
 /* Page content */
 .content {
