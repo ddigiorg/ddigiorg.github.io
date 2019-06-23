@@ -1,10 +1,12 @@
 items:
-- page: Thing 1
+- page: Thing x
   url: /pages/a/doc.html
 - heading: Heading 1
 - page: Thing 1
   url: /pages/a/doc.html
 - page: Thing 2
   url: /pages/b/doc.html
-- page: Thing 3
+- page: Cats 1
+  url: /pages/c/doc.html
+- page: Cats 2
   url: /pages/c/doc.html

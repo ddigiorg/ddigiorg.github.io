@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #242931;
 }
 
-/* Side navigation menu */
+/* Side navigation box */
 #sidenav {
     height: 100%;
     width: 200px;
@@ -25,26 +25,6 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 20px;
 }
 
-/* Side navigation menu links and dropdown buttons */
-#sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 14px;
-    color: #ba87cf;
-    display: block;
-    border: none;
-    background: none;
-    width: 100%;
-    text-align: left;
-    cursor: pointer;
-    outline: none;
-}
-
-/* Mouse-over menu items*/
-#sidenav a:hover {
-  color: #f1f1f1;
-}
-
 /* Search box */
 #mySearch {
   width: 100%;
@@ -52,6 +32,26 @@ h1, h2, h3, h4, h5, h6 {
   padding: 11px;
   border: 1px solid #ddd;
 }
+
+/* Navigation menu */
+#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myMenu li a {
+  padding: 12px;
+  text-decoration: none;
+  color: black;
+  display: block
+}
+
+#myMenu li a:hover {
+  background-color: #eee;
+}
+
+
 
 /* Page content */
 #content {
