@@ -13,15 +13,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #sidenav {
-    height: 100%;
-    width: 200px;
     position: fixed;
-    z-index: 1;
     top: 0;
     left: 0;
+    padding-top: 20px;
+    height: 100%;
+    width: 220px;
+    
+    z-index: 1;
     background-color: #190629;
     overflow-x: hidden;
-    padding-top: 20px;
 }
 
 #sidenav h2 {
