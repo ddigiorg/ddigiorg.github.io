@@ -51,19 +51,19 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .searchinput {
-    xbackground-image: url('/css/searchicon.png'); /*TODO!!!*/
-    xbackground-position: 8px 6px;
-    xbackground-repeat: no-repeat;
-    width: 91%;
+    /*background-image: url('/css/searchicon.png');*/
+    /*background-position: 8px 6px;*/
+    /*background-repeat: no-repeat;*/
+    /*width: 91%;*/
     font-size: 14px;
     padding: 6px 6px 6px 40px;
     border: 1px solid #ddd;
-    margin: 0 0 20px 10px;
+    margin: 0 10px 20px 10px;
 }
 
 
 
 #content {
-    margin-left: 200px;
+    margin-left: 220px;
     padding: 0px 10px;
 }
