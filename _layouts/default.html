@@ -10,7 +10,7 @@
 <div class="sidenav">
     <ul>
         {% for item in site.data.sidenav.docs %}
-            <li><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
+            <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
         {% endfor %}
     </ul>
 </div>
