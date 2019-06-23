@@ -21,8 +21,10 @@ h1, h2, h3, h4, h5, h6 {
     width: 220px;
     
     z-index: 1;
-    background-color: #190629;
+
     overflow-x: hidden;
+    color: #000000;
+    background-color: #f1f1f1;    
 }
 
 #sidenav h2 {
@@ -49,14 +51,13 @@ h1, h2, h3, h4, h5, h6 {
     background-color:#4CAF50;
 }
 
-
 .searchinput {
     /*background-image: url('/css/searchicon.png');*/
     /*background-position: 8px 6px;*/
     /*background-repeat: no-repeat;*/
     font-size: 14px;
     width: 91%;
-    padding: 6px;
+    padding: 6px 6px 6px 40px;
     border: 1px solid #ddd;
     margin: 0 0 20px 10px;
 }
