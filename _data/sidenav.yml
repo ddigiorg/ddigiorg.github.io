@@ -1,0 +1,7 @@
+docs:
+- title: a
+  url: /docs/a/doc.md
+- title: b
+  url: /docs/b/doc.md
+- title: c
+  url: /docs/c/doc.md
