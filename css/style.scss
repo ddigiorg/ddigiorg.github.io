@@ -47,12 +47,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Search box */
 .searchinput {
-    width: 90%;
+    xbackground-image: url('/css/searchicon.png'); /*TODO!!!*/
+    xbackground-position: 8px 6px;
+    xbackground-repeat: no-repeat;
+    width: 91%;
     font-size: 14px;
+    padding: 6px 6px 6px 40px;
     padding: 6px;
     border: 1px solid #ddd;
     margin: 0 0 20px 10px;
 }
+
 
 /* Page content */
 #content {
