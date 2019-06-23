@@ -11,8 +11,6 @@ items:
     url: /pages/c/doc.html
 - group: Group 2
   subitems:
-  - page: Thing 7
-    url: /pages/a/doc.html
   - page: Thing 8
     url: /pages/b/doc.html
   - page: Thing 9
