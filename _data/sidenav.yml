@@ -1,7 +1,7 @@
 docs:
 - title: a
-  url: /docs/a/doc.md
+  url: /pages/a/doc.html
 - title: b
-  url: /docs/b/doc.md
+  url: /pages/b/doc.html
 - title: c
-  url: /docs/c/doc.md
+  url: /pages/c/doc.html
