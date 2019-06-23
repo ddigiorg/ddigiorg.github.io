@@ -28,6 +28,20 @@
 </div>
 
 <script>
+var sideNavContainer = document.getElementsByClassName('sidenav');
+var links = sideNavContainer.getElementsByTagName("a");
+
+for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener("click", function() {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";  
+    });
+}
+
+</script>
+
+<script>
 function filterContent(elmnt) {
     var x, i, val, show, showh2, showbr;
     val = elmnt.value;
