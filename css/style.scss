@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Side navigation menu */
-.sidenav {
+#sidenav {
     height: 100%;
     width: 200px;
     position: fixed;
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Side navigation menu links and dropdown buttons */
-.sidenav a {
+#sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 14px;
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Mouse-over menu items*/
-.sidenav a:hover {
+#sidenav a:hover {
   color: #f1f1f1;
 }
 
@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Page content */
-.content {
+#content {
     margin-left: 200px;
     padding: 0px 10px;
 }
