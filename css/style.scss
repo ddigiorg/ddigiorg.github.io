@@ -22,7 +22,6 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     background-color: #190629;
     overflow-x: hidden;
-    overflow-y: auto;
     padding-top: 20px;
 }
 
@@ -33,14 +32,21 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 14px;
     color: #ba87cf;
     display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
 }
 
-/* When you mouse over the navigation links, change their color */
+/* On mouse-over*/
 .sidenav a:hover {
   color: #f1f1f1;
 }
 
 /* Style page content */
 .content {
-    margin-left: 210px;
+    margin-left: 200px;
+    padding: 0px 10px;
 }

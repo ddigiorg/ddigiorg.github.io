@@ -1,7 +1,11 @@
-docs:
-- title: a
+items:
+- page: Test Link
   url: /pages/a/doc.html
-- title: b
-  url: /pages/b/doc.html
-- title: c
-  url: /pages/c/doc.html
+- dropdown: Group 1
+  entries:
+  - page: Thing 1
+    url: /pages/a/doc.html
+  - page: Thing 2
+    url: /pages/b/doc.html
+  - page: Thing 3
+    url: /pages/c/doc.html
