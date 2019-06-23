@@ -10,14 +10,18 @@
 <!-- Side navigation -->
 <div id="sidenav">
     <input type="text" id="mySearch" onkeyup="searchFunc()" placeholder="Search.." title="Type in a category">
+    
+    <ul id="myMenu">
     {% for item in site.data.sidenav.items %}
         {% if item.heading %}
+            <br>
             <h2>{{item.heading}}</h2>
         {% endif %}
         {% if item.page %}
-            <a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a>
+            <li><a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a></li>
         {% endif %}
     {% endfor %}
+    </ul>
 </div>
 
 <!-- Page content -->
