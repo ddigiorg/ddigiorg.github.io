@@ -12,7 +12,8 @@
     {% for item in site.data.sidenav.items %}
         {% if item.page %}
             <a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a>
-        {% elseif item.group %}
+        {% endif %}
+        {% if item.group %}
             {% for subitem in item.subitems %}
                 <a href="{{site.baseurl}}{{subitem.url}}">{{subitem.page}}</a>
             {% endfor %}
