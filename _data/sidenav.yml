@@ -1,12 +1,12 @@
 items:
 - page: Blarg
-  url: /pages/blarg.tml
+  url: /pages/blarg.html
 
 - heading: Heading 1
 - page: Thing 1
   url: /pages/heading-1/thing-1.html
 - page: Thing 2
-  url: /pages/heading-2/thing-2.html
+  url: /pages/heading-1/thing-2.html
 
 - heading: Heading 2
 - page: Cats 1
