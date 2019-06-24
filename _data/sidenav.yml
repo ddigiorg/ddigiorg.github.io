@@ -1,15 +1,15 @@
 items:
-- page: Thing x
-  url: /pages/a/doc.html
+- page: Blarg
+  url: /pages/blarg.tml
 
 - heading: Heading 1
 - page: Thing 1
-  url: /pages/a/doc.html
+  url: /pages/heading-1/thing-1.html
 - page: Thing 2
-  url: /pages/b/doc.html
+  url: /pages/heading-2/thing-2.html
 
 - heading: Heading 2
 - page: Cats 1
-  url: /pages/c/doc.html
+  url: /pages/heading-2/stuff-1.html
 - page: Cats 2
-  url: /pages/c/doc.html
+  url: /pages/heading-2/stuff-2.html
