@@ -28,17 +28,17 @@
 </div>
 
 <script>
+
 var sideNavContainer = document.getElementsById('sidenav');
 var links = sideNavContainer.getElementsByTagName("a");
+var active = 0;
 
 for (var i = 0; i < links.length; i++) {
-    links[i].addEventListener("click", function() {
-        var current = document.getElementsByClassName("active");
-        current[0].className = current[0].className.replace(" active", "");
-        this.className += " active";  
-    });
+    if (document.links[i].href === document.URL) {
+        active = i;
+    }
 }
-
+links[active].className = 'active';
 </script>
 
 <script>
