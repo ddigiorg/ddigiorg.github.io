@@ -9,7 +9,7 @@ items:
   url: /pages/heading-1/thing-2.html
 
 - heading: Heading 2
-- page: Cats 1
+- page: Stuff 1
   url: /pages/heading-2/stuff-1.html
-- page: Cats 2
+- page: Stuff 2
   url: /pages/heading-2/stuff-2.html
