@@ -1,6 +1,8 @@
 items:
 - page: Blarg
   url: /pages/blarg.html
+- page: Three Branches of Philosophy
+  url: /pages/three-branches-of-philosophy.html
 
 - heading: Heading 1
 - page: Thing 1
