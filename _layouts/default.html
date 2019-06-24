@@ -34,7 +34,7 @@ var links = sideNavContainer.getElementsByTagName("a");
 var active = 0;
 
 for (var i = 0; i < links.length; i++) {
-    if (document.links[i].href === document.URL) {
+    if (links[i].href === window.location.href) {
         active = i;
     }
 }
