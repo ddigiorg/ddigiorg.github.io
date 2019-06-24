@@ -29,16 +29,16 @@
 
 <script>
 
-var sideNavContainer = document.getElementsById('sidenav');
+var sideNavContainer = document.getElementsById("sidenav");
 var links = sideNavContainer.getElementsByTagName("a");
 var active = 0;
 
 for (var i = 0; i < links.length; i++) {
-    if (links[i].href === window.location.href) {
+    if (links[i].href == window.location.href) {
         active = i;
     }
 }
-links[active].className = 'active';
+links[active].className = "active";
 </script>
 
 <script>
