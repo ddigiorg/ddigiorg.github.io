@@ -33,12 +33,17 @@ var sideNavContainer = document.getElementsById("sidenav");
 var links = sideNavContainer.getElementsByTagName("a");
 var active = 0;
 
+console.log(links.length);
+
 for (var i = 0; i < links.length; i++) {
     if (links[i].href == window.location.href) {
         active = i;
     }
 }
-links[active].className = "active";
+
+console.log(active);
+
+links[active].className = " active";
 </script>
 
 <script>
