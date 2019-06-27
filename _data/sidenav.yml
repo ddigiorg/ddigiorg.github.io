@@ -1,16 +1,8 @@
 items:
 
-- heading: Heading 1
-- page: Thing 1
-  url: /pages/heading-1/thing-1.html
-- page: Thing 2
-  url: /pages/heading-1/thing-2.html
-
-- heading: Heading 2
-- page: Stuff 1
-  url: /pages/heading-2/stuff-1.html
-- page: Stuff 2
-  url: /pages/heading-2/stuff-2.html
+- heading: Theology
+- page: Trinity
+  url: /pages/theology/trinity.html
   
 - heading: Unsorted
 - page: Three Branches of Philosophy
