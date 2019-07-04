@@ -8,3 +8,5 @@ A website for displaying notes.
 - https://www.w3schools.com/howto/howto_js_dropdown_sidenav.asp
 - https://shopify.github.io/liquid/
 - https://cssgradient.io/
+
+- change "heading" to "section" in sidenav.yml
