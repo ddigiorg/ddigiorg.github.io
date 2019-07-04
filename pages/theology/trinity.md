@@ -8,20 +8,26 @@
 
 test test test test test test test test test 
 
-<div class="box" markdown="1">    
-And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..." 
-<br>-- Genesis 1:26
+<div class="box" markdown="1">
+And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..."
+<br><br>-- Genesis 1:26
 </div>
 
-- We don't know what it was like in Eden because the only world we've experienced is the fallen world.  The status of things in Eden were not the same as they are now after the fall because of what was revealed in scripture. [1]
+One of the first explicit Theophany:
 
-- One of the first explicit Theophany: "And they heard the sound of the Lord God walking in the garden..." Genesis 3:8
+<div class="box" markdown="1">
+And they heard the sound of the Lord God walking in the garden... -- Genesis 3:8
+</div>
 
-- If God is an absolutely simple, invisible(all attributes are one, no parts, etc), spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1]
+If God is an absolutely simple, invisible(all attributes are one, no parts, etc), spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1]
 
-- Note: it is forbidden to worship creatures.  A lot of these theophanies are worshipped. [1]
+Note: it is forbidden to worship creatures.  A lot of these theophanies are worshipped. [1]
 
-- Angel of the Lord is itentified here as God and interacted with Hagar: 'Then the Angel of the Lord said to her, 'I will multiply your descendants exceedingly, so that they shall not be counted for multitude.'" Genesis 16:11... 13 Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees; for she said, “Have I also here seen (the back of) Him who sees me?” 14 Therefore the well was called Beer Lahai Roi(Well of the One Who Lives and Sees Me) -Genesis 16:13-14
+Angel of the Lord is itentified here as God and interacted with Hagar:
+
+<div class="box" markdown="1">
+Then the Angel of the Lord said to her, "I will multiply your descendants exceedingly, so that they shall not be counted for multitude." --Genesis 16:11... 13 Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees; for she said, “Have I also here seen (the back of) Him who sees me?” 14 Therefore the well was called Beer Lahai Roi(Well of the One Who Lives and Sees Me) -Genesis 16:13-14
+</div>
 
 - Note this: Take your sandals off your feet, for the place where you stand is holy ground. Exodus 3:5
 
@@ -43,6 +49,12 @@ STOPPED AT 41:32
 
 [1] https://www.youtube.com/watch?v=y_uBaARATqs
 [2] ADD KEN AMMI'S TRINITY BOOK TO SOURCES
+
+Other notes:
+
+- We don't know what it was like in Eden because the only world we've experienced is the fallen world.  The status of things in Eden were not the same as they are now after the fall because of what was revealed in scripture. [1]
+
+
 
 
 
