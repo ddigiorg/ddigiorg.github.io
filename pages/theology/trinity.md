@@ -1,9 +1,9 @@
 # Trinity
 
-Note: it is forbidden to worship creatures (need citation), but the theophanies are worshipped
+Note: it is forbidden to worship creatures (need citation), but the theophanies are worshipped [^1]
 
 The use of plurel:
-> 26 And God said, "Let Us make mankind in Our image, according to Our likeness;..."
+> 26 And God said, "Let Us make mankind in Our image, according to Our likeness;..."  
 > -- Genesis 1:26 NKJV
 
 One of the earliest Theophany:
@@ -28,7 +28,7 @@ check out what St. Paul says in 2 Corinthians 3 (written 55-56 AD) Glory of the 
 
 STOPPED AT 41:32
 
-[1] https://www.youtube.com/watch?v=y_uBaARATqs
+[^1] https://www.youtube.com/watch?v=y_uBaARATqs
 [2] ADD KEN AMMI'S TRINITY BOOK TO SOURCES
 
 Other notes:
