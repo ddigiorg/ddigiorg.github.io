@@ -4,8 +4,8 @@
 
 - "And God said, 'Let **Us** make mankind in **Our** image, according to **Our** likeness;...'" (Genesis 1:26 NKJV).
 
-> And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness;..." (Genesis 1:26 NKJV).
-
+> And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness;..."  
+> -- *Genesis 1:26 NKJV*
 
 - "And they heard the sound of the Lord God **walking** in the garden..." (Genesis 3:8 NKJV).
 
