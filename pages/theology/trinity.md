@@ -19,6 +19,10 @@ One of the first explicit Theophany:
 And they heard the sound of the Lord God walking in the garden... -- Genesis 3:8
 </div>
 
+<div class="box" markdown="1">
+And they heard the sound of the Lord God walking in the garden... -- Genesis 3:8
+</div>
+
 If God is an absolutely simple, invisible(all attributes are one, no parts, etc), spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1]
 
 Note: it is forbidden to worship creatures.  A lot of these theophanies are worshipped. [1]
