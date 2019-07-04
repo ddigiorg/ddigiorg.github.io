@@ -10,3 +10,6 @@ A website for displaying notes.
 - https://cssgradient.io/
 
 - change "heading" to "section" in sidenav.yml
+
+<div class="box" markdown="1">
+</div>
