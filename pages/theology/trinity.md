@@ -9,7 +9,7 @@
 test test test test test test test test test 
 
 <div class="box" markdown="1">    
-And God said, "Let __**Us**__ make mankind in __**Our**__ image, according to **Our** likeness..." 
+And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..." 
 <br>-- Genesis 1:26
 </div>
 
