@@ -11,13 +11,13 @@
 > And God said, "Let Us make mankind in Our image, according to Our likeness..."
 > - Genesis 1:26
 
-    And God said, "Let Us make mankind in Our image, according to Our likeness..."
-    - Genesis 1:26
+    And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..."
+    -- Genesis 1:26
 
-<pre>
-And God said, "Let Us make mankind in Our image, according to Our likeness..."
-- Genesis 1:26
-</pre>
+<code>
+And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..."
+-- Genesis 1:26
+</code>
 
 - We don't know what it was like in Eden because the only world we've experienced is the fallen world.  The status of things in Eden were not the same as they are now after the fall because of what was revealed in scripture. [1]
 
