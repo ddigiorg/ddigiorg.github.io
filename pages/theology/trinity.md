@@ -1,16 +1,21 @@
 # Trinity
 
-Note: it is forbidden to worship creatures (need citation), but the theophanies are worshipped
+- Note: it is forbidden to worship creatures (need citation), but the Theophanies are worshipped
 
-"And God said, 'Let Us make mankind in Our image, according to Our likeness;...'" (Genesis 1:26 NKJV).
+- "And God said, 'Let **Us** make mankind in **Our** image, according to **Our** likeness;...'" (Genesis 1:26 NKJV).[^1]
 
-"And they heard the sound of the Lord God **walking** in the garden..." (Genesis 3:8 NKJV).
+[^1]: test
 
-Angel of the Lord interacts with Hagar and is itentified as God: "Then the Angel of the Lord said to her, 'I will multiply your descendants exceedingly, so that they shall not be counted for multitude.'" (Genesis 16:10 NKJV)... "Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees [Heb. El Roi]; for she said, 'Have I also here seen [the back of] Him who sees me?' 14 Therefore the well was called Beer Lahai Roi[Well of the One Who Lives and Sees Me]." (Genesis 16:13-14 NKJV).
+> "And God said, 'Let **Us** make mankind in **Our** image, according to **Our** likeness;...'" (Genesis 1:26 NKJV).
 
-Note this: Take your sandals off your feet, for the place where you stand is holy ground. Exodus 3:5
 
-"And God said to Moses, "I AM WHO I AM." And He said, "Thus you shall say to the children of Israel, 'I AM has sent me to you.'"" (Exodus 3:14 NKJV).
+- "And they heard the sound of the Lord God **walking** in the garden..." (Genesis 3:8 NKJV).
+
+- Angel of the Lord interacts with Hagar and is itentified as God: "Then the Angel of the Lord said to her, 'I will multiply your descendants exceedingly, so that they shall not be counted for multitude.'" (Genesis 16:10 NKJV)... "Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees [Heb. El Roi]; for she said, 'Have I also here seen [the back of] Him who sees me?' 14 Therefore the well was called Beer Lahai Roi[Well of the One Who Lives and Sees Me]." (Genesis 16:13-14 NKJV).
+
+- Note this: Take your sandals off your feet, for the place where you stand is holy ground. Exodus 3:5
+
+- "And God said to Moses, "I AM WHO I AM." And He said, "Thus you shall say to the children of Israel, 'I AM has sent me to you.'"" (Exodus 3:14 NKJV).
 
 "Behold, I send an Angel before you to keep you in the way and to bring you into the place which I have prepared. 21 Beware of Him and obey His voice; do not provoke Him, for He will not pardon your transgressions; for My name (Yahweh) is in Him." - Exodus 23:20-21
 
