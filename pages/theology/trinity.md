@@ -1,26 +1,12 @@
 # Trinity
 
-Note: it is forbidden to worship creatures (need citation), but the theophanies are worshipped [^1]
+Note: it is forbidden to worship creatures (need citation), but the theophanies are worshipped
 
-The use of plurel:
-<div class="box" markdown="1">
-26 And God said, "Let Us make mankind in Our image, according to Our likeness;..."
-<br><br>(Genesis 1:26 NKJV)
-</div>
+"And God said, 'Let Us make mankind in Our image, according to Our likeness;...'" (Genesis 1:26 NKJV).
 
-One of the earliest Theophany:
-> 8 And they heard the sound of the Lord God **walking** in the garden..."  
-> -- Genesis 3:8 NKJV
+"And they heard the sound of the Lord God **walking** in the garden..." (Genesis 3:8 NKJV).
 
-Angel of the Lord interacts with Hagar and is itentified as God:
-> "Then the Angel of the Lord said to her, 'I will multiply your descendants exceedingly, so that they shall not be counted for multitude.'" (Genesis 16:10 NKJV)... 
-
-<div class="box" markdown="1">
-13 Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees [Heb. El Roi]; for she said, "Have I also here seen [the back of] Him who sees me?" 14 Therefore the well was called Beer Lahai Roi[Well of the One Who Lives and Sees Me];"
-<br><br>(Genesis 16:13-14 NKJV).
-</div>
-
-> 
+Angel of the Lord interacts with Hagar and is itentified as God: "Then the Angel of the Lord said to her, 'I will multiply your descendants exceedingly, so that they shall not be counted for multitude.'" (Genesis 16:10 NKJV)... "Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees [Heb. El Roi]; for she said, 'Have I also here seen [the back of] Him who sees me?' 14 Therefore the well was called Beer Lahai Roi[Well of the One Who Lives and Sees Me]." (Genesis 16:13-14 NKJV).
 
 Note this: Take your sandals off your feet, for the place where you stand is holy ground. Exodus 3:5
 
@@ -38,7 +24,7 @@ check out what St. Paul says in 2 Corinthians 3 (written 55-56 AD) Glory of the 
 
 STOPPED AT 41:32
 
-[^1] https://www.youtube.com/watch?v=y_uBaARATqs
+[1] https://www.youtube.com/watch?v=y_uBaARATqs
 [2] ADD KEN AMMI'S TRINITY BOOK TO SOURCES
 
 Other notes:
@@ -56,7 +42,7 @@ Other notes:
 
 There is only 1 uncreated God (3 divine persons)
 
-
+<div class="box" markdown="1"></div>
 
 - Note: "Angel" just means "messengar", it can be human, spiritual, or divine
 
