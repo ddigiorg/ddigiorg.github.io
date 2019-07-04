@@ -16,6 +16,15 @@ sample **sample** sample
 sample <b>sample</b> sample
 </pre>
 
+```
+# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
+```
+
 - We don't know what it was like in Eden because the only world we've experienced is the fallen world.  The status of things in Eden were not the same as they are now after the fall because of what was revealed in scripture. [1]
 
 - One of the first explicit Theophany: "And they heard the sound of the Lord God walking in the garden..." Genesis 3:8
