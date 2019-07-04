@@ -1,31 +1,26 @@
 # Trinity
 
+<div class="box" markdown="1">
+</div>
+
 - Father, the uncreated Godhead
 - Son, the Logos and only-begotten of the Father
 - The Spirit
 
 - Arianism: The heresy denying the divinity of Christ.
 
-test `test` test test test test test test test 
+From the Bible:
 
-<div class="box" markdown="1">
-And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..."
-<br><br>-- Genesis 1:26
-</div>
+- Note: it is forbidden to worship creatures (need citation), but the theophanies are worshipped
 
-One of the first explicit Theophany:
+- And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..." --Genesis 1:26
 
-<div class="box" markdown="1">
-And they heard the sound of the Lord God walking in the garden... -- Genesis 3:8
-</div>
+- And they heard the sound of the Lord God **walking** in the garden... -- Genesis 3:8
 
-<div class="box" markdown="1">
-And they heard the sound of the Lord God walking in the garden... -- Genesis 3:8
-</div>
+- If God is an absolutely simple(all attributes are one, no parts, etc), invisible, spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1] (throw this in ADS vs EE section)
 
-If God is an absolutely simple, invisible(all attributes are one, no parts, etc), spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1]
 
-Note: it is forbidden to worship creatures.  A lot of these theophanies are worshipped. [1]
+
 
 Angel of the Lord is itentified here as God and interacted with Hagar:
 
@@ -58,7 +53,7 @@ Other notes:
 
 - We don't know what it was like in Eden because the only world we've experienced is the fallen world.  The status of things in Eden were not the same as they are now after the fall because of what was revealed in scripture. [1]
 
-
+- Theophany: a visible manifestation to humankind of God (make a "terms" section)
 
 
 
