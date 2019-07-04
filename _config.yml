@@ -1,5 +1,3 @@
 markdown: kramdown
-kramdown:
-    input: GFM
 baseurl: /notes
 exclude: ["README.md"]
