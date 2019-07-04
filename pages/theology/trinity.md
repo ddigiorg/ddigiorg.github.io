@@ -4,8 +4,8 @@ Note: it is forbidden to worship creatures (need citation), but the theophanies 
 
 The use of plurel:
 <div class="box" markdown="1">
-26 And God said, "Let Us make mankind in Our image, according to Our likeness;..."<br>
-(Genesis 1:26 NKJV)
+26 And God said, "Let Us make mankind in Our image, according to Our likeness;..."
+<br><br>(Genesis 1:26 NKJV)
 </div>
 
 One of the earliest Theophany:
@@ -16,9 +16,8 @@ Angel of the Lord interacts with Hagar and is itentified as God:
 > "Then the Angel of the Lord said to her, 'I will multiply your descendants exceedingly, so that they shall not be counted for multitude.'" (Genesis 16:10 NKJV)... 
 
 <div class="box" markdown="1">
-13 Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees [Heb. El Roi]; for she said, "Have I also here seen [the back of] Him who sees me?"<br>
-14 Therefore the well was called Beer Lahai Roi[Well of the One Who Lives and Sees Me];"<br>
-(Genesis 16:13-14 NKJV).
+13 Then she called the name of the Lord who spoke to her, You-Are-the-God-Who-Sees [Heb. El Roi]; for she said, "Have I also here seen [the back of] Him who sees me?" 14 Therefore the well was called Beer Lahai Roi[Well of the One Who Lives and Sees Me];"
+<br><br>(Genesis 16:13-14 NKJV).
 </div>
 
 > 
