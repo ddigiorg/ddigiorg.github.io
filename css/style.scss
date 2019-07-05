@@ -76,3 +76,10 @@ blockquote {
     border-left: 8px solid #bbbbbb;
     padding: 1px 20px;
 }
+
+blockquote cite {
+    color: #999999;
+    font-size: 0.75em;
+    display: block;
+    margin-top: 5px;
+}

@@ -3,7 +3,7 @@
 - Note: it is forbidden to worship creatures (need citation), but clearly the Theophanies are worshipped
 
 > And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..."  
-> -- *Genesis 1:26 NKJV*
+> <cite>-- Genesis 1:26 NKJV</cite>
 
 > And they heard the sound of the Lord God **walking** in the garden...
 >
