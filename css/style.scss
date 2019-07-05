@@ -66,15 +66,16 @@ h1, h2, h3, h4, h5, h6 {
 
 #content {
     margin-left: 220px;
-    padding: 0px 10px;
+    padding: 1px 10px;
 }
 
 
 blockquote {
-    color: #000000;
+    border-left: 7px solid #bbbbbb;
     background-color: #eeeeee;
-    border-left: 8px solid #bbbbbb;
-    padding: 0px 20px;
+    color: #000000;
+    margin: 1em 40px;
+    padding: 5px 20px;
 }
 
 blockquote cite {
