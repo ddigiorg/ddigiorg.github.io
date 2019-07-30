@@ -2,6 +2,10 @@
 
 - Note: it is forbidden to worship creatures (need citation), but clearly the Theophanies are worshipped
 
+```
+26 And God said, "Let Us make mankind in Our image, according to Our likeness..."  
+-- Genesis 1:26 NKJV
+```
 > **26** And God said, "Let **Us** make mankind in **Our** image, according to **Our** likeness..."  
 > -- *Genesis 1:26 NKJV*
 
