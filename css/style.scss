@@ -2,8 +2,8 @@
 # Front matter added to ensure Jekyll processes file.
 ---
 
-.container{
-    display:flex;
+#content {
+    float: left;
 }
 
 #sidenav {
@@ -13,8 +13,6 @@
     float: left;
 
     position: fixed;
-    top: 0;
-    left: 0;
     padding-top: 20px;
     height: 100%;
     width: 220px;
