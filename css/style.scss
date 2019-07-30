@@ -2,10 +2,13 @@
 # Front matter added to ensure Jekyll processes file.
 ---
 
+#background {
+    background-color: #eeeeee;
+}
+
 #content {
     margin: 220px;
     float: left;
-    background-color: #eeeeee;
 }
 
 #sidenav {
