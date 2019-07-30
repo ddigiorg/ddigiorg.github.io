@@ -7,26 +7,24 @@
     <link rel="stylesheet" href="{{site.baseurl}}/css/github-markdown.css">
 </head>
 <body>
-    <div id="back">
-        <!-- Side navigation -->
-        <div id="sidenav">
-            <input class="searchinput" placeholder="Search..." oninput="filterContent(this)">
-            {% for item in site.data.sidenav.items %}
-                {% if item.heading %}
-                    <br>
-                    <h2>{{item.heading}}</h2>
-                {% endif %}
-                {% if item.page %}
-                    <a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a>
-                {% endif %}
-            {% endfor %}
-            </ul>
-        </div>
-        <!-- Page content -->
-        <div id="content">
-            <div class="markdown-body">
-                {{content}}
-            </div>
+    <!-- Side navigation -->
+    <div id="sidenav">
+        <input class="searchinput" placeholder="Search..." oninput="filterContent(this)">
+        {% for item in site.data.sidenav.items %}
+            {% if item.heading %}
+                <br>
+                <h2>{{item.heading}}</h2>
+            {% endif %}
+            {% if item.page %}
+                <a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+    <!-- Page content -->
+    <div id="content">
+        <div class="markdown-body">
+            {{content}}
         </div>
     </div>
 
