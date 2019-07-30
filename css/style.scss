@@ -2,18 +2,9 @@
 # Front matter added to ensure Jekyll processes file.
 ---
 
-/*
-body {
-    font-family: 'Public Sans','Helvetica Neue',sans-serif;
-    color: #3a414e;
+.container{
+    display:flex;
 }
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: Metropolis,'Helvetica Neue',sans-serif;
-    color: #242931;
-}
-*/
-
 
 #sidenav {
     font-family: 'Public Sans','Helvetica Neue',sans-serif;
@@ -69,13 +60,6 @@ h1, h2, h3, h4, h5, h6 {
     border: 1px solid #ddd;
     margin: 0 0 20px 10px;
 }
-
-
-
-#content {
-    float: right;
-}
-
 
 /*
 blockquote {
