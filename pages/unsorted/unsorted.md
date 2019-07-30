@@ -35,3 +35,13 @@
 - Secret Affairs, Mark Curtis
 - Search for the Manchurian Candidate, John Marks
 - Brave New World, Aldous Huxley
+
+### Todo
+- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.rusjournal.org/wp-content/uploads/2016/09/Lossky.pdf
+- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://editions-hache.com/essais/pdf/kaczynski2.pdf
+- https://en.wikipedia.org/wiki/Sobornost
+- https://en.wikipedia.org/wiki/Distributism
+- https://en.wikipedia.org/wiki/Solipsism
+- https://en.wikipedia.org/wiki/Gene_Callahan
+- https://en.wikipedia.org/wiki/Antony_C._Sutton
+- https://www.youtube.com/watch?v=dum7q6UXiCE

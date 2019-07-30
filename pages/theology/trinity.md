@@ -26,8 +26,8 @@ check out what St. Paul says in 2 Corinthians 3 (written 55-56 AD) Glory of the 
 
 STOPPED AT 41:32
 
-[1] https://www.youtube.com/watch?v=y_uBaARATqs
-[2] ADD KEN AMMI'S TRINITY BOOK TO SOURCES
+[1]: https://www.youtube.com/watch?v=y_uBaARATqs
+[2]: ADD KEN AMMI'S TRINITY BOOK TO SOURCES
 
 Other notes:
 
