@@ -3,12 +3,13 @@
 <head>
     <meta charset="utf-8">
     <title>notes</title>
-    <link rel="stylesheet" href="{{site.baseurl}}/css/style.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/github-markdown.css">
 </head>
 <body>
 
 <!-- Side navigation -->
-<div id="sidenav">
+<div id="sidenav" class="markdown-body">
     <input class="searchinput" placeholder="Search..." oninput="filterContent(this)">
     {% for item in site.data.sidenav.items %}
         {% if item.heading %}
