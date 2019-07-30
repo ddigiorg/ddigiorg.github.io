@@ -9,7 +9,7 @@
 <body>
 
 <!-- Side navigation -->
-<div id="sidenav" class="markdown-body">
+<div id="sidenav">
     <input class="searchinput" placeholder="Search..." oninput="filterContent(this)">
     {% for item in site.data.sidenav.items %}
         {% if item.heading %}
@@ -24,7 +24,7 @@
 </div>
 
 <!-- Page content -->
-<div id="content">
+<div id="content" class="markdown-body">
     {{content}}
 </div>
 
