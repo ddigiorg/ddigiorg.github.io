@@ -23,7 +23,7 @@ body {
 #topbar {
     position:fixed;
     width: 100%;
-    background: #5f5f5f;
+    background: #292929;
     display: flex;
     align-items: center;
     line-height: 1em;
@@ -57,14 +57,14 @@ body {
 
 #leftbar {
     position: fixed;
-    top: 45px;
+    top: 42px;
     left: -250px;
     width: 250px;
     height: 100%;
     padding-top: 20px;  
     z-index: 1;
     overflow-x: hidden;
-    background: #000000;
+    background: #292929;
     color: #ffffff;
 }
 
@@ -96,25 +96,7 @@ body {
     background:#4CAF50;
 }
 
-
-
-#content {
-    top: 45px;
-    
-    
-    /*box-sizing: border-box;*/
-    min-width: 200px;
-    max-width: 980px;
-    margin: 0 auto 220px auto;
-    padding: 45px;
-    
-    background: #ffffff;
-}
-
-
-
-
-.searchInput {
+#leftbar.searchInput {
     /*background-image: url('/css/searchicon.png');*/
     /*background-position: 8px 6px;*/
     /*background-repeat: no-repeat;*/
@@ -123,4 +105,19 @@ body {
     padding: 6px;
     border: 1px solid #ddd;
     margin: 0 20px 0px 20px;
+}
+
+
+
+#content {
+    top: 42px;
+    
+    
+    /*box-sizing: border-box;*/
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto 220px auto;
+    padding: 42px;
+    
+    background: #ffffff;
 }
