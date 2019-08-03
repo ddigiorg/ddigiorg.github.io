@@ -2,9 +2,13 @@
 # Front matter added to ensure Jekyll processes file.
 ---
 
-html {
+body {
     /*background-color: #eeeeee;*/
+    padding: 0;
+    margin: 0;
 }
+
+
 
 .markdown-body {
     top: 31px;
