@@ -28,7 +28,7 @@ body {
     color: #ffffff;
 }
 
-#topbar.toggle-button {
+#topbar.toggleButton {
     position: fixed;
 }
 
@@ -95,13 +95,13 @@ body {
 
 
 
-.searchinput {
+.searchInput {
     /*background-image: url('/css/searchicon.png');*/
     /*background-position: 8px 6px;*/
     /*background-repeat: no-repeat;*/
     font-size: 14px;
-    width: 91%;
+    /*width: 91%;*/
     padding: 6px;
     border: 1px solid #ddd;
-    margin: 0 0 20px 10px;
+    margin: 0 20px 0px 20px;
 }
