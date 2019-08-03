@@ -52,7 +52,7 @@ body {
     height: 100%;
     
     top: 40px;
-    left: -250px;
+    /*left: -250px;*/
    
     padding-top: 20px;
     
@@ -65,8 +65,8 @@ body {
     background: #eeeeee;
 }
 
-#leftbar .test {
-    left: 0px;
+#leftbar .active {
+    left: -250px;
 }
 
 #leftbar h2 {
