@@ -6,6 +6,8 @@ body {
     padding: 0;
     margin: 0;
     background: #eeeeee;
+    font-family: Arial, Helvetica, sans-serif;
+    /*font-family: 'Public Sans','Helvetica Neue',sans-serif;*/
 }
 
 /*
@@ -23,7 +25,6 @@ body {
     left:0;
     right:0;
     height: 40px;
-    
     background: #000000;
     color: #ffffff;
 }
@@ -37,17 +38,16 @@ body {
 
 
 #leftbar {
-    font-family: 'Public Sans','Helvetica Neue',sans-serif;
     position: fixed;
-    width: 250px;
-    height: 100%;
     top: 40px;
     left: -250px;
+    width: 250px;
+    height: 100%;
     padding-top: 20px;  
     z-index: 1;
     overflow-x: hidden;
-    color: #3a414e;
-    background: #eeeeee;
+    background: #000000;
+    color: #ffffff;
 }
 
 #leftbar.active {
@@ -55,7 +55,6 @@ body {
 }
 
 #leftbar h2 {
-    color: #000000;
     font-size:21px;
     padding-left:16px;
     margin:-4px 0 4px 0;
