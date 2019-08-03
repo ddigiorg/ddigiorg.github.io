@@ -27,6 +27,8 @@ body {
     }
 }
 
+
+
 #topbar {
     position:absolute;
     left:0;
@@ -40,6 +42,8 @@ body {
 #topbar .toggle-button {
     position: fixed;
 }
+
+
 
 #leftbar {
     font-family: 'Public Sans','Helvetica Neue',sans-serif;
@@ -61,7 +65,7 @@ body {
     background: #eeeeee;
 }
 
-#leftbar active {
+#leftbar .active {
     left: 0px;
 }
 
