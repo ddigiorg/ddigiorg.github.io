@@ -23,7 +23,7 @@ body {
 #topbar {
     position:fixed;
     width: 100%;
-    background: #292929;
+    background: #a1a1a1;
     display: flex;
     align-items: center;
     line-height: 1em;
@@ -39,7 +39,7 @@ body {
 }
 
 #topbar a:hover {
-    background-color: #000000;
+    background-color: #5a5a5a;
 }
 
 #topbar.active {
@@ -57,7 +57,7 @@ body {
 
 #leftbar {
     position: fixed;
-    top: 42px;
+    top: 40px;
     left: -250px;
     width: 250px;
     height: 100%;
