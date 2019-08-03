@@ -7,7 +7,12 @@
 </div>
 
 <script>
-function toggleLeftBar(){
-    document.getElementById("leftbar").classList.toggle("active");
-}
+function toggleLeftBar() {
+    var x = document.getElementById("leftbar");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+        }
+    }
 </script>
