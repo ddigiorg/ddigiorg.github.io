@@ -24,14 +24,14 @@ html {
 }
 
 #topbar {
-    color: #000000;
+    position:absolute;
+    left:0;
+    right:0;
     height: 30px;
-    width: 100%;
-    position: fixed;    
 }
 
 #sidenav {
-    top: 31px;
+    top: 30px;
     
     font-family: 'Public Sans','Helvetica Neue',sans-serif;
     color: #3a414e;
