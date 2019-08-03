@@ -60,21 +60,21 @@ body {
 }
 
 #leftbar h2 {
-    font-size:21px;
-    padding-left:16px;
-    margin:-4px 0 4px 0;
-    width:204px;
+    font-size: 21px;
+    padding-left: 16px;
+    margin: 8px 0 4px 0;
+    /*width: 100%;*/
 }
 
 #leftbar a {
-    color: #000000;
     text-decoration:none;
     display:block;
-    padding:2px 1px 1px 16px
+    padding:2px 1px 1px 16px;
+    color: #ffffff;
 }
 
 #leftbar a:hover {
-    background: #cccccc;
+    background: #5a5a5a;
 }
 
 #leftbar a.active
