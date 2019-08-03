@@ -50,17 +50,12 @@ body {
     position: fixed;
     width: 250px;
     height: 100%;
-    
     top: 40px;
     left: -250px;
-   
     padding-top: 20px;
-    
-    
+    transition: all 500ms linear;     
     z-index: 1;
-
     overflow-x: hidden;
-    
     color: #3a414e;
     background: #eeeeee;
 }
