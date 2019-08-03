@@ -29,6 +29,22 @@ body {
     color: #ffffff;
 }
 
+#topbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#topbar a:hover {
+    background-color: #000000;
+}
+
+#topbar.active {
+    background-color: #4CAF50;
+}
+
 /*
 #topbar.toggleButton {
     border: none;
