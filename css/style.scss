@@ -52,7 +52,7 @@ body {
     height: 100%;
     
     top: 40px;
-    /*left: -250px;*/
+    left: -250px;
    
     padding-top: 20px;
     
@@ -66,7 +66,7 @@ body {
 }
 
 #leftbar .active {
-    left: -250px;
+    left: 0px;
 }
 
 #leftbar h2 {
