@@ -3,7 +3,7 @@
 ---
 
 body {
-    /*background-color: #eeeeee;*/
+    /*background: #eeeeee;*/
     padding: 0;
     margin: 0;
 }
@@ -13,7 +13,7 @@ body {
 .markdown-body {
     top: 31px;
     
-    background-color:white;
+    background:white;
     box-sizing: border-box;
     min-width: 200px;
     max-width: 980px;
@@ -33,27 +33,30 @@ body {
     right:0;
     height: 50px;
     
-    background-color: #000000;
+    background: #000000;
     color: #ffffff;
 }
 
 #sidenav {
-    top: 50px;
-    
     font-family: 'Public Sans','Helvetica Neue',sans-serif;
-    color: #3a414e;
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    
+    top: 50px;
 
     float: left;
 
-    position: fixed;
+    
     padding-top: 20px;
-    height: 100%;
-    width: 220px;
+    
     
     z-index: 1;
 
     overflow-x: hidden;
-    background-color: #eeeeee;
+    
+    color: #3a414e;
+    background: #eeeeee;
 }
 
 #sidenav h2 {
@@ -72,13 +75,13 @@ body {
 }
 
 #sidenav a:hover {
-    background-color: #cccccc;
+    background: #cccccc;
 }
 
 #sidenav a.active
 {
     color:#ffffff;
-    background-color:#4CAF50;
+    background:#4CAF50;
 }
 
 .searchinput {
@@ -95,7 +98,7 @@ body {
 /*
 blockquote {
     border-left: 7px solid #bbbbbb;
-    background-color: #eeeeee;
+    background: #eeeeee;
     color: #000000;
     margin: 1em 40px;
     padding: 8px 20px;
