@@ -1,6 +1,6 @@
-<div id="sidenav">
+<div id="leftbar">
     <input class="searchinput" placeholder="Search..." oninput="filterContent(this)">
-    {% for item in site.data.sidenav.items %}
+    {% for item in site.data.leftbar.items %}
         {% if item.heading %}
             <br>
             <h2>{{item.heading}}</h2>
@@ -13,8 +13,8 @@
 </div>
 
 <script>
-var sideNavContainer = document.getElementById("sidenav");
-var links = sideNavContainer.getElementsByTagName("a");
+var leftbarContainer = document.getElementById("leftbar");
+var links = leftbarContainer.getElementsByTagName("a");
 for (var i = 0; i < links.length; i++) {
     if (links[i].href == window.location.href) {
         links[i].className = " active";
@@ -24,7 +24,7 @@ for (var i = 0; i < links.length; i++) {
 function filterContent(elmnt) {
     var x, i, val, show, showh2, showbr;
     val = elmnt.value;
-    x = document.getElementById("sidenav").getElementsByTagName("*");
+    x = document.getElementById("leftbar").getElementsByTagName("*");
     for (i = 1; i < x.length; i++) {
         if (x[i].tagName == "H2") {
             if (showh2) {
