@@ -58,7 +58,7 @@
 - https://www.nytimes.com/1977/07/21/archives/cia-data-show-14year-project-on-controlling-human-behavior-data.html
 - https://www.economist.com/science-and-technology/2018/06/23/some-science-journals-that-claim-to-peer-review-papers-do-not-do-so
 
-# Politics
+### Politics
 - https://thinkrealty.com/generational-housing-bubble-forming/
 
 ### Psychedelics
@@ -85,7 +85,7 @@
 - https://www.claremont.org/crb/article/giving-up-darwin/
 - https://www.youtube.com/watch?v=noj4phMT9OE
 
-# Self Sufficincy
+### Self Sufficincy
 - how to make a water distiller
 - http://www.thesurvivalpodcast.com/
 
