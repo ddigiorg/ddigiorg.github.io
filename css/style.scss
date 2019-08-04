@@ -99,11 +99,11 @@ body {
 
 
 #content {
-    /*box-sizing: border-box;*/
+    box-sizing: border-box;
+    top: 40px;
     min-width: 200px;
     max-width: 980px;
-    margin: 40px auto 120px auto;
+    margin: 0 auto 120px auto;
     padding: 42px;
-    
     background: #ffffff;
 }
