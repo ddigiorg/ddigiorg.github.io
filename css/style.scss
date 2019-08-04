@@ -99,7 +99,9 @@ body {
 
 
 #content {
-    top: 42px;
+    display: block;
+    position: relative;
+    top: 40px;
     
     
     /*box-sizing: border-box;*/
