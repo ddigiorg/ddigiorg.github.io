@@ -17,5 +17,11 @@ items:
   url: /pages/theology/trinity.html
 
 - heading: Tabletop Games
+- page: Warhammer 30k
+  url: /pages/tabletop-games/warhammer-30k.html
+- page: Warhammer 40k
+  url: /pages/tabletop-games/warhammer-40k.html
 - page: Warhammer Fantasy
   url: /pages/tabletop-games/warhammer-fantasy.html
+- page: Star Wars Legion
+  url: /pages/tabletop-games/star-wars-legion.html
