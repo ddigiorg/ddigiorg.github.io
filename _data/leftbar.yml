@@ -1,5 +1,11 @@
 items:
 
+- heading: Unsorted
+- page: Unsorted
+  url: /pages/unsorted/unsorted.html
+- page: Markdown Cheatsheet
+  url: /pages/unsorted/markdown-cheatsheet.html
+
 - heading: Philosophy
 - page: Three Branches of Philosophy
   url: /pages/philosophy/three-branches-of-philosophy.html
@@ -10,8 +16,6 @@ items:
 - page: Trinity
   url: /pages/theology/trinity.html
 
-- heading: Unsorted
-- page: Unsorted
-  url: /pages/unsorted/unsorted.html
-- page: Markdown Cheatsheet
-  url: /pages/unsorted/markdown-cheatsheet.html
+- heading: Tabletop Games
+- page: Warhammer Fantasy
+  url: /pages/tabletop-games/warhammer-fantasy.html
