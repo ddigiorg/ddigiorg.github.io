@@ -22,11 +22,14 @@ body {
 
 #topbar {
     position:fixed;
+    top: 0px;
+    left: 0px;
     width: 100%;
     background: #111111;
     display: flex;
     align-items: center;
     line-height: 1em;
+    z-index: 1;
 }
 
 #topbar a {
@@ -47,15 +50,15 @@ body {
 
 
 #leftbar {
-    display: block;
     position: fixed;
+    display: block;
     top: 40px;
     width: 250px;
     height: 100%;
     padding-top: 20px;  
-    z-index: 1;
     overflow-x: hidden;
     background: #111111;
+    z-index: 1;
 }
 
 #leftbar h2 {
@@ -100,11 +103,11 @@ body {
 
 #content {
     position: relative;
-    box-sizing: border-box;
     top: 40px;
     min-width: 200px;
     max-width: 980px;
     margin: 0 auto 120px auto;
     padding: 42px;
     background: #ffffff;
+    box-sizing: border-box;
 }
