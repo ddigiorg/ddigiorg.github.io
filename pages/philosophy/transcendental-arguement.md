@@ -1,13 +1,13 @@
 # Transcendental Arguement
 
 ## Transcendentals/Preconditions 
-- Transcendentals MUST exist for even the possibility of having knowledge at all in this world
-- Transcendental can NOT be emperically proven or investigated
-- Emperical investigation is PRESUPPOSED BY transcendentals
-- Transcendental arguement says that the deniel of these preconditions leads to absurdity, i.e. the fundamental destruction of knowledge and ourselves.
-- Human experience of the world can not be reduced to one transcendental.  Human experience requires ALL transcendentals that relate to one another and work together.
+- Transcendentals are concepts that MUST exist for even the possibility of humans to exist and to have knowledge.
+- Transcendental can NOT be emperically proven.  In other words, they can not be seen in a microscope.
+- Emperical investigation is PRESUPPOSED BY transcendentals.
+- The Transcendental Arguement says the deniel of these preconditions leads to absurdity (fundamentally the destruction of even having knowledge or arguements).
+- Transcendentals are often used unintentionally to try to disprove transcendentals, which is self refuting.
+- Human experience of the world can not be reduced to a single transcendental ("Oneness" or "the monad").  Human experience requires ALL transcendentals that RELATE to one another and work together.
 - God is the ULTIMATE precondition for all the other preconditions.  God fufills the NECESSARY precondition of relating all transcendentals together.  How do transcendentals work together if there's not a God to hold them together and define what's meaningful?  You need a mind to relate all transcendentals and a finite human mind is not enough to encapsulate and relate all of these transcendentals in all of their different particulars in every different human being's life and existance.
-- Transcendentals are often used unintentionally to try to disprove transcendentals, which leads to absurdity.
 
 ## Example Transcendentals:
 - **Space** -- Space is a mathematical relationship between two concepts or phenomena.  It is presupposed in human worldviews because we are beings that experience things in in relation to one another.  For example, we may sense a ball (matter-energy) is some distance (relationship) from another ball (matter-energy).  Space can not be emperically verified because our senses only detect matter/energy.  Can you reach out and touch space?
@@ -17,6 +17,7 @@
 - **The Past** -- The past is a transcendental category that you can not prove emperically exists and it is assumed in how humans experience time and space.  Memories are always accessed emperically in the ever-present now, never in the past.
 - **Universals** -- No emperical verification of universal categories (all "X").
 - **Identity over Time** -- Concepts that are invariant (all "X" are always "X") and do not change.
+- **The One and the Many** -- WIP
 - **Ethics** -- One must assume they should value X over Y because humans inherently value value judgements.  Where in the microscope/test tube are the ethics?
 - **Numbers** -- WIP
 - **Logic** -- WIP
