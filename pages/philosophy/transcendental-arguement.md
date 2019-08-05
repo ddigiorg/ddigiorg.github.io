@@ -21,7 +21,7 @@
 - **Ethics** -- One must assume they should value X over Y because humans inherently value value judgements.  Where in the microscope/test tube are the ethics?
 - **Numbers** -- WIP
 - **Logic** -- WIP
-    - **The Law of Non-Contradiction (LNC)** -- A proposition cannot be both true and false.  That is, a proposition and its negation cannot both be true.  Aristotle's arguement with the sophists was the LNC can not be made false because to do so would necessarily use the LNC to try to disprove it.
+- **The Law of Non-Contradiction (LNC)** -- An extension of logic that says a proposition cannot be both true and false.  That is, a proposition and its negation cannot both be true.  Aristotle's arguement with the sophists was the LNC can not be made false because to do so would necessarily use the LNC to try to disprove it.
 - **Predicates** -- WIP
 - And many more...
 
