@@ -5,7 +5,7 @@
 - 1 Archmage
 - 20 Lothern Seaguard (count-as Spearmen)
 - 20 Archers
-- 5 Ellyria Reavers
+- 5 Ellyrian Reavers
 - 10 Swordmasters of Hoeth
 
 ### 2k List (8th)(WIP)

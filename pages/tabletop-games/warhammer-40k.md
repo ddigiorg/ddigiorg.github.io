@@ -1,4 +1,4 @@
-# Warhammer Fantasy
+# Warhammer 40k
 
 ## Night Angels
 
