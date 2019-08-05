@@ -10,18 +10,18 @@
 - Transcendentals are often used unintentionally to try to disprove transcendentals, which leads to absurdity.
 
 ## Example transcendentals:
-- **Space**:  Space is a mathematical relationship between two concepts or phenomena.  It is presupposed in human worldviews because we are beings that experience things in in relation to one another.  For example, we may sense a ball (matter-energy) is some distance (relationship) from another ball (matter-energy).  Space can not be emperically verified because our senses only detect matter/energy.  Can you reach out and touch space?
-- **Time**:  Time is another mathematical relationship between two concepts of phenomena, often used to denote change in matter/energy, although time can still progress even if matter/energy does not change.  Time is presupposed in human worldviews because we are beings that experience things from beginning to middle to end, although emperically we can only experience things in the ever-present now.  No one experiences things in reverse and even jumbled memories/thought-patterns are still experienced from one --> another --> another.
-- **Self**: One can not emperically demonstrate he/she has a self, it is presupposed in all actions of cognition/communication/noetics/ratiocination/etc.  No microscope is going to emperically demonstrate the self.
-- **Meaning**: Words have meaning and can convey meaning to other persons.  Theres no emperical verification that you are transmitting the right meaning to another brain.  This must be assumed.
-- **The Past**: The past is a transcendental category that you can not prove emperically exists and it is assumed in how humans experience time and space.  Memories are always accessed emperically in the ever-present now, never in the past.
-- **Universals**: No emperical verification of universal categories (all "X").
-- **Identity over Time**: Concepts that are invariant (all "X" are always "X") and do not change.
-- **Ethics**: One must assume they should value X over Y because humans inherently value value judgements.  Where in the microscope/test tube are the ethics?
-- **Numbers**:
-- **Logic**:
-    - **The Law of Non-Contradiction (LNC)**: A proposition cannot be both true and false.  That is, a proposition and its negation cannot both be true.  Aristotle's arguement with the sophists was the LNC can not be made false because to do so would necessarily use the LNC to try to disprove it.
-- **Predicates**:
+- **Space** -- Space is a mathematical relationship between two concepts or phenomena.  It is presupposed in human worldviews because we are beings that experience things in in relation to one another.  For example, we may sense a ball (matter-energy) is some distance (relationship) from another ball (matter-energy).  Space can not be emperically verified because our senses only detect matter/energy.  Can you reach out and touch space?
+- **Time** -- Time is another mathematical relationship between two concepts of phenomena, often used to denote change in matter/energy, although time can still progress even if matter/energy does not change.  Time is presupposed in human worldviews because we are beings that experience things from beginning to middle to end, although emperically we can only experience things in the ever-present now.  No one experiences things in reverse and even jumbled memories/thought-patterns are still experienced from one -> another -> another.
+- **Self** -- One can not emperically demonstrate he/she has a self, it is presupposed in all actions of cognition/communication/noetics/ratiocination/etc.  No microscope is going to emperically demonstrate the self.
+- **Meaning** -- Words have meaning and can convey meaning to other persons.  Theres no emperical verification that you are transmitting the right meaning to another brain.  This must be assumed.
+- **The Past** -- The past is a transcendental category that you can not prove emperically exists and it is assumed in how humans experience time and space.  Memories are always accessed emperically in the ever-present now, never in the past.
+- **Universals** -- No emperical verification of universal categories (all "X").
+- **Identity over Time** -- Concepts that are invariant (all "X" are always "X") and do not change.
+- **Ethics** -- One must assume they should value X over Y because humans inherently value value judgements.  Where in the microscope/test tube are the ethics?
+- **Numbers** -- WIP
+- **Logic** -- WIP
+    - **The Law of Non-Contradiction (LNC)** -- A proposition cannot be both true and false.  That is, a proposition and its negation cannot both be true.  Aristotle's arguement with the sophists was the LNC can not be made false because to do so would necessarily use the LNC to try to disprove it.
+- **Predicates** -- WIP
 - And many more...
 
 ## Example Trancendental relationships
@@ -32,7 +32,7 @@
 
 ## Mind of God
 - Divine Mind
-- **Logos/logoi**: All logoi (concepts) are in the one Logos (Christ, who is God).  Note: this is much like Platonism but has important differences.  See Theology section for more details.
+- **Logos/logoi** -- All logoi (concepts) are in the one Logos (Christ, who is God).  Note: this is much like Platonism but has important differences.  See Theology section for more details.
 
 ## References
 - [God's Existence & Transcendental Arguments - Jay Dyer](https://www.youtube.com/watch?v=tx3ssbjb3Xs) starts at ~58:00 to ~1:05:00
