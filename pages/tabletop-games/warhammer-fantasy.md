@@ -20,3 +20,5 @@
 - https://1d4chan.org/wiki/Warhammer/Tactics/8th_Edition/High_Elves
 - https://www.dakkadakka.com/dakkaforum/posts/list/470202.page
 - https://www.dakkadakka.com/dakkaforum/posts/list/314029.page
+- http://www.ulthuan.net/forum/viewtopic.php?f=66&t=48198
+- http://www.ulthuan.net/forum/viewtopic.php?f=66&t=33028

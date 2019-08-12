@@ -103,13 +103,14 @@
 ### Fitness
 - convict conditionint
 - occlusion training
-- prison style laddered navy leals 10-to-1 55 reps 165 pushups
+- prison style laddered navy seals 10-to-1 55 reps 165 pushups
 
 ### Home
 - https://michaelbluejay.com/house/basics.html
 
 ### Words
 - pertinacious
+- halcyon
 
 ### MEGA
 - https://mega.nz/#F!Uqw3EQRb!xSvmjBUsADDjHO975w9Imw
@@ -125,3 +126,63 @@
 
 ### Todo
 - watch Gundam Thunderbolt
+
+
+
+---
+## Is Darwinism Collapsing?
+- https://www.youtube.com/watch?v=nz1-Jonr9wI
+
+- Darwinism is a worldview the establishment (particularly Royal Society) has promoted for a long time because of it's social engineering power
+- worldview for man's origins and future
+- Philosophy of science: looks at worldviews and how worldviews function
+- There's no such thing as "brute facts" because we come with a lot of preconcieved notions 
+- Information Theory: DNA/RNA seem to encode information and we dont have any examples of information transfer without some sort of mind (confusing? see ~5:30)
+- Irreducable complexity: no biological system operates independantly of other systems (i.e. heart needs blood, tissue, cells, lungs, nerves, etc).
+- impossibility of Darwinism from a mathematical perspective
+- https://dissentfromdarwin.org/
+- https://www.thecollegefix.com/famed-yale-computer-science-professor-quits-believing-darwins-theories/
+- Thomas Kuhn's book Structures of Scientific Revolution he argued we don't have bare neutral science but that people interpert evidence within a paradigm
+- Kuhn's book any time theres a revolution in the world of science no scientist is a neutral observer of truth.  One does not lose human desires for glory
+- Darwinian theories are hallowed as dogma: skepticists of Darwinism often loses acedemic credibility, their job, tenure, etc.
+- Science is not determined on teh basis of consensus!  It would not matter if 99.99% signed up to a particular view because it has NOTHING to do with its truthfulness
+- Appeal to consensus is a formal fallacy
+- Myth of the history of science: The rise of science is because of the individual and his ability to reason and challenge the existing established dogma
+- Now if you diverge in any way from scientific dogma you're essentially a heretic (you're not going along with what we know is the consensus)
+- Mainstream science has been doing "scientific analysis" of peer review
+- Peer review has been held up as a monolithic standard of consensus for an idea
+- The Lancet medical journal from Oxford: Mass fraud in peer review in science (FIND THIS)
+- The Economist: Some 400k science journals do not do the peeer review they claim they do
+- Peer review is now meaningless because it can now be doubted
+- Joe Rogan show did an experiment by sending junk/nonsence papers (VERIFY)
+- AI generated paper gets "peer reviewed" (VERIFY ~17:45)
+- The whole point of peer review is that ideas should be challenged!
+- Fouqoe (sp?) had a book about the switching of church priests to scientific priests
+- Once God was removed from the sciences by empericists (Locke, Barkly, Hume, etc.) then you had the removal of God in nature so that the imminent causes of nature come from nature itself
+- We only need to look at "what" is happening not "why" its happening.  Toss out all that stuff about why stuff happens 
+- Darwins original book title: Survival of the Preferred Races: Anglo preeminence... an apologetic for the propaganda of the Anglo Empire
+- All the families and people involved in the promotion of this mythology (Huxleys, Galtons, etc.) are all in the same circles (Royal Society, Cold Springs Harbor Rockefeller funded, etc.)
+- The eugenics movement comes from this ideology
+- Darwinism (Survival of the Fittest, Origin of the Species) and Big Bang Theory for the athiest is their creation myth without their creator.  They've transfered from one institutional dogma from the church which they're reacting against to another institutional dogma.  It's a secular miracle.
+- Origin Science: involves a lot of speculation and hypotheses because we do not know what it was line aeons in the past.  What underlines the Darwinian/Big Bang narrative is gigantic aeons of time that are build upon huge amounts of speculation
+- It's not a battle of which evidence is correct (athiest and theist can both make correct scientific discoveries), its actually a battle of 2 different worldviews/paradigms
+- We all come to the table with preconcieved notions about what can/cannot be
+
+stopped at 27:30
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
