@@ -10,7 +10,9 @@ items:
 - page: Three Branches of Philosophy
   url: /pages/philosophy/three-branches-of-philosophy.html
 - page: Transcendental Argument
-  url: /pages/philosophy/transcendental-arguement.html
+  url: /pages/philosophy/transcendental-argument.html
+- page: Basic Logic and Fallacies
+  url: /pages/philosophy/basic-logic-and-fallacies.html
 
 - heading: Theology
 - page: Trinity

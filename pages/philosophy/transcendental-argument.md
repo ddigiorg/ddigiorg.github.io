@@ -1,4 +1,4 @@
-# Transcendental Arguement
+# Transcendental Argument
 
 ## Transcendentals/Preconditions 
 - Transcendentals are concepts that MUST exist for even the possibility of humans to exist and to have knowledge.
