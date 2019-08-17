@@ -37,9 +37,12 @@
 |      1 | Special | Dragon Princes        | Banner     |                  |
 |      3 | Special | Dragon Princes        |            |                  |
 |      3 | Rare    | Repeater Bolt Thrower |            |                  |
+|      5 | Rare    | Siegemen              |            |                  |
 |      2 | Rare    | Great Eagle           |            |                  |
 |     20 | Rare    | Sisters of Avelorn    |            |                  |
 |      1 | Rare    | Flamespyre Phoenix    |            |                  |
+
+Total: 196
 
 ### 2k List (8th)(WIP)
 - Archmage level 4
