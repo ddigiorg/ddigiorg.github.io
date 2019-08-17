@@ -42,4 +42,4 @@ Asking a question that has an assumption built into it so that it can't be answe
 - **Generic Fallacy** -- Presuming something based solely on someone's or something's history, origin, or source rather than its current meaning or context. 
 
 ## References
-- https://www.youtube.com/watch?v=cCd8yRrVYsY
+- https://www.youtube.com/watch?v=cCd8yRrVYsY (stopped at ~20:00)
