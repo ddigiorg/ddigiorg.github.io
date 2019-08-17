@@ -11,14 +11,6 @@
 </div>
 
 <script>
-var leftbarContainer = document.getElementById("leftbar");
-var links = leftbarContainer.getElementsByTagName("a");
-for (var i = 0; i < links.length; i++) {
-    if (links[i].href == window.location.href) {
-        links[i].className = " active";
-    }
-}
-
 function filterContent(elmnt) {
     var x, i, val, show, showh2, showbr;
     val = elmnt.value;
