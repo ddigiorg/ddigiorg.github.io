@@ -42,9 +42,52 @@
 |     20 | Rare    | Sisters of Avelorn    |            |                  |
 |      1 | Rare    | Flamespyre Phoenix    |            |                  |
 
-Total: 196
+### Paints
+
+- kantor blue
+- caledor sky
+- temple guard blue
+- baharroth blue
+- thousand sons blue
+- ahriman blue
+- retrubutor armor
+- leadbelcher
+- runefang silver
+- kieslev flesh
+- morghast bone
+- averland sunset
+- rhinox hide
+- doombull brown
+- mephiston red
+- abaddon black
+- corax white
+- nuln oil
+
+
+### 4.5k (9th Age)
+
+characters max 1800
+core min 1125
+special no limit
+queens bows max 1350
+ordnance max 675
+
+
+- High Prince (Young Dragon) 
+- Mage
+
+- 33 Citizen Spears (Full Command, War Banner of Ryma) 568
+- 33 Citizen Spears (Full Command, War Banner of Ryma) 568
+- 20 Flame Wardens (Full Command, Rending Banner) 605
+- 1 Giant Eagle 100
+- 1 Giant Eagle 100
+- 15 Queen's Bows (Full Command, Spears, Banner of Becalming) 575
+- 1 Sea Guard Reaper 180
+- 1 Sea Guard Reaper 180
+- 1 Sea Guard Reaper 180
 
 ### 2k List (8th)(WIP)
+
 - Archmage level 4
 - Mage level 2?
 - Noble (banner)
@@ -53,6 +96,7 @@ Total: 196
 - 2 Great Eagles
 
 ### Links
+
 - https://1d4chan.org/wiki/Warhammer/Tactics/8th_Edition/High_Elves
 - https://www.dakkadakka.com/dakkaforum/posts/list/470202.page
 - https://www.dakkadakka.com/dakkaforum/posts/list/314029.page

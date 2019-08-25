@@ -13,6 +13,8 @@ items:
   url: /pages/philosophy/transcendental-argument.html
 - page: Fallacies
   url: /pages/philosophy/fallacies.html
+- page: Dillahunty vs Dyer Debate
+  url: /pages/philosophy/dillahunty-dyer-debate.html
 
 - heading: Theology
 - page: Trinity
