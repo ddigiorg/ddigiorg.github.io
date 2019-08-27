@@ -15,6 +15,9 @@ items:
   url: /pages/philosophy/fallacies.html
 - page: Dillahunty vs Dyer Debate
   url: /pages/philosophy/dillahunty-dyer-debate.html
+- page: Terms
+  url: /pages/philosophy/terms.html
+
 
 - heading: Theology
 - page: Trinity
