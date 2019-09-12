@@ -3,11 +3,7 @@
 ---
 # Unsorted Notes
 
-test
-
-<p>this is a paragraph</p>
-
-Mobile 
+* NOTE: ask dyer discord about differences between coherentism and foundationalism, specifically in the case where God is the ultimate authority of transcendentals but not in the foundationalist sense... how?
 
 ### For Website
 
