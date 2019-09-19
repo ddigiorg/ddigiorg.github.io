@@ -5,6 +5,8 @@ items:
   url: /pages/unsorted/unsorted.html
 - page: Markdown Cheatsheet
   url: /pages/unsorted/markdown-cheatsheet.html
+- page: Linux
+  url: /pages/unsorted/linux.html
 
 - heading: Philosophy
 - page: Three Branches of Philosophy
