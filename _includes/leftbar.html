@@ -3,6 +3,7 @@
     {% for page in site.pages %}
         {% assign segments = page.url | split: "/" %}
         {{ segments[0] }}
+        {{ segments[1] }}
         {% if segments[0] contains "pages" %}
             <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
         {% endif %}
