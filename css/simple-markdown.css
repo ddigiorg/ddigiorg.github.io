@@ -97,21 +97,22 @@
 }
 
 .markdown-body code {
-    background-color: #fee9cc;
-    color: rgba(0, 0, 0, 0.75);
-    padding: 1px 3px;
     font-size: 12px;
+    /*color: rgba(0, 0, 0, 0.75);*/
+    background-color: #fee9cc;
+    
+    padding: 1px 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
 
 .markdown-body pre {
+    font-size: 12px;
     display: block;
     padding: 14px;
     margin: 0 0 18px;
     line-height: 16px;
-    font-size: 11px;
     border: 1px solid #d9d9d9;
     white-space: pre-wrap;
     word-wrap: break-word;
