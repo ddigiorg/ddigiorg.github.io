@@ -44,14 +44,13 @@
 }
 
 .markdown-body hr {
-    margin: 0 0 19px;
+    margin-bottom: 18px;
     border: 0;
     border-bottom: 1px solid #ccc;
 }
 
 .markdown-body p {
     margin-bottom: 9px;
-    margin: 0;
     padding: 0;
 }
 
