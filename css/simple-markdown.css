@@ -4,19 +4,18 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6,
-.markdown-body p,
-.markdown-body blockquote {
+.markdown-body p {
     margin: 0;
     padding: 0;
 }
 
 .markdown-body body {
-    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
-    font-size: 13px;
-    line-height: 18px;
-    color: #737373;
-    background-color: white;
-    margin: 10px 13px 10px 13px;
+    /*font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;*/
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
 }
 
 .markdown-body table {
@@ -93,10 +92,11 @@
 }
 
 .markdown-body blockquote{
-    color:#666666;
-    margin:0;
+    color: #666666;
     padding-left: 3em;
     border-left: 0.5em #EEE solid;
+    margin: 0;
+    padding: 0;
 }
 
 .markdown-body code,
@@ -142,12 +142,21 @@
     -webkit-print-color-adjust: exact;
 }
 
+@media (max-width: 767px) {
+    .markdown-body {
+        padding: 15px;
+    }
+}
+
+/*
 @media screen and (min-width: 914px) {
     body {
         width: 854px;
         margin:10px auto;
     }
 }
+*/
+
 @media print {
     body,code,pre code,h1,h2,h3,h4,h5,h6 {
         color: black;
