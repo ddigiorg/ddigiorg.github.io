@@ -94,13 +94,12 @@
 .markdown-body code,
 .markdown-body pre {
     font-family: Monaco, Andale Mono, Courier New, monospace;
+    font-size: 12px;
+    background-color: #fee9cc;
 }
 
 .markdown-body code {
-    font-size: 12px;
-    /*color: rgba(0, 0, 0, 0.75);*/
     background-color: #fee9cc;
-    
     padding: 1px 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -108,7 +107,6 @@
 }
 
 .markdown-body pre {
-    font-size: 12px;
     display: block;
     padding: 14px;
     margin: 0 0 18px;
