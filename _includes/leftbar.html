@@ -1,12 +1,7 @@
 <div id="leftbar">
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
-    
-    <p>{{site.url}}</p>
-    <p>{{site.baseurl}}</p>
-    
     {% for page in site.pages %}
         <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
-        <p>{{page.url}}</p>
     {% endfor %}
     </ul>
 </div>
