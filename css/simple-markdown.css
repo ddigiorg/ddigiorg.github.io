@@ -1,5 +1,5 @@
 .markdown-body body {
-    /*font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;*/
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
     box-sizing: border-box;
     min-width: 200px;
     max-width: 980px;
@@ -7,6 +7,7 @@
     padding: 45px;
 }
 
+/*
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -17,6 +18,7 @@
     margin: 0;
     padding: 0;
 }
+*/
 
 .markdown-body table {
     margin: 10px 0 15px 0;
