@@ -1,3 +1,12 @@
+.markdown-body body {
+    /*font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;*/
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+}
+
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -7,15 +16,6 @@
 .markdown-body p {
     margin: 0;
     padding: 0;
-}
-
-.markdown-body body {
-    /*font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;*/
-    box-sizing: border-box;
-    min-width: 200px;
-    max-width: 980px;
-    margin: 0 auto;
-    padding: 45px;
 }
 
 .markdown-body table {
@@ -56,13 +56,12 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-    color: #404040;
     line-height: 36px;
 }
 
 .markdown-body h1 {
     margin-bottom: 18px;
-    font-size: 30px;
+    font-size: 32px;
 }
 
 .markdown-body h2 {
@@ -70,7 +69,7 @@
 }
 
 .markdown-body h3 {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .markdown-body h4 {
@@ -82,7 +81,7 @@
 }
 
 .markdown-body h6 {
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .markdown-body hr {
@@ -96,7 +95,6 @@
     padding-left: 3em;
     border-left: 0.5em #EEE solid;
     margin: 0;
-    /*padding: 0;*/
 }
 
 .markdown-body code,
