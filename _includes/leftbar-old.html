@@ -1,7 +1,11 @@
 <div id="leftbar">
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
-    {% for node in site.pages %}
-        <a href='{{node.url}}'>{{node.title}}</a>
+    {% for item in site.data.leftbar.items %}
+        {% if item.heading %}
+            <h2>{{item.heading}}</h2>
+        {% elsif item.page %}
+            <a href="{{site.baseurl}}{{item.url}}">{{item.page}}</a>
+        {% endif %}
     {% endfor %}
     </ul>
 </div>
