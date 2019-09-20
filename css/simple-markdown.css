@@ -115,12 +115,9 @@
     word-wrap: break-word;
 }
 
-/*
 .markdown-body pre code {
-    color:#737373;
     padding: 0;
 }
-*/
 
 .markdown-body sup {
     font-size: 0.83em;
