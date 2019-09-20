@@ -19,8 +19,8 @@
 }
 
 .markdown-body h1 {
-    margin-bottom: 18px;
     font-size: 32px;
+    margin-bottom: 18px;
 }
 
 .markdown-body h2 {
@@ -115,10 +115,12 @@
     word-wrap: break-word;
 }
 
+/*
 .markdown-body pre code {
     color:#737373;
     padding: 0;
 }
+*/
 
 .markdown-body sup {
     font-size: 0.83em;
@@ -135,15 +137,6 @@
         padding: 15px;
     }
 }
-
-/*
-@media screen and (min-width: 914px) {
-    body {
-        width: 854px;
-        margin:10px auto;
-    }
-}
-*/
 
 @media print {
     body,code,pre code,h1,h2,h3,h4,h5,h6 {
