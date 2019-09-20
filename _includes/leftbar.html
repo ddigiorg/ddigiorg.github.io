@@ -5,7 +5,7 @@
     <p>{{site.baseurl}}</p>
     
     {% for page in site.pages %}
-        <a href="{{page.url}}">{{page.title}}</a>
+        <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
         <p>{{page.url}}</p>
     {% endfor %}
     </ul>
