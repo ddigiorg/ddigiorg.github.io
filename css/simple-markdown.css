@@ -108,7 +108,7 @@
 .markdown-body pre {
     display: block;
     padding: 14px;
-    margin: 0 0 18px;
+    margin: 18px 18px;
     line-height: 16px;
     border: 1px solid #d9d9d9;
     white-space: pre-wrap;
