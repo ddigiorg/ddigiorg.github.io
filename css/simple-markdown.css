@@ -99,7 +99,7 @@
 
 .markdown-body code,
 .markdown-body pre {
-    font-family: Monaco, Andale Mono, Courier New, monospace;
+    font-family: Hack, monospace;
 }
 
 .markdown-body code {
@@ -120,6 +120,7 @@
 }
 
 .markdown-body pre code {
+    font-size: 12px;
     padding: 0;
     border: none;
 }
