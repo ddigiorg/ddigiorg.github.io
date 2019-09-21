@@ -100,11 +100,10 @@
 .markdown-body code,
 .markdown-body pre {
     font-family: Monaco, Andale Mono, Courier New, monospace;
-    font-size: 12px;
-    background-color: #f6f8fa;
 }
 
 .markdown-body code {
+    font-size: 16px;
     padding: 1px 3px;
     color: #7676f4;
     background-color: #f1f1fe;
@@ -117,6 +116,7 @@
     line-height: 16px;
     white-space: pre-wrap;
     word-wrap: break-word;
+    background-color: #f6f8fa;
 }
 
 .markdown-body pre code {
