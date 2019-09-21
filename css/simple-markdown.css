@@ -1,10 +1,11 @@
 .markdown-body body {
-    font-family: "Public Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;    
+    font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;    
     box-sizing: border-box;
     min-width: 200px;
     max-width: 980px;
     margin: 0 auto;
     padding: 45px;
+    color: #3a414e;
 }
 
 .markdown-body h1,
@@ -13,6 +14,7 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
+    color: #242931;
     line-height: 36px;
     margin: 0;
     padding: 0;
@@ -49,7 +51,7 @@
     border-bottom: 1px solid #ccc;
 }
 
-.markdown-body p {
+.markdown-body p { 
     margin-bottom: 9px;
     padding: 0;
     line-height: 1.5;
