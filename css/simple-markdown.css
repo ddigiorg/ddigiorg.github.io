@@ -106,10 +106,6 @@
 
 .markdown-body code {
     padding: 1px 3px;
-    border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    border: 1px solid #d9d9d9;
     color: #7676f4;
     background-color: #f1f1fe;
 }
