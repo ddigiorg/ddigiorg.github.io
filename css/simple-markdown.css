@@ -54,7 +54,7 @@
 .markdown-body p { 
     margin-bottom: 9px;
     padding: 0;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 .markdown-body a {
@@ -71,7 +71,7 @@
 }
 
 .markdown-body li {
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 .markdown-body td,
