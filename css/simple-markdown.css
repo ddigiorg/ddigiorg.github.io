@@ -1,9 +1,5 @@
 .markdown-body body {
-    /*font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;*/
-    /*font-family: "Metropolis","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    
-    font-family: "Public Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
-    
+    font-family: "Public Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;    
     box-sizing: border-box;
     min-width: 200px;
     max-width: 980px;
@@ -117,7 +113,7 @@
 .markdown-body pre {
     display: block;
     padding: 14px;
-    margin: 18px 18px;
+    margin: 18px 0px;
     line-height: 16px;
     white-space: pre-wrap;
     word-wrap: break-word;
