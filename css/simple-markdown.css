@@ -120,9 +120,10 @@
 }
 
 .markdown-body pre code {
-    font-size: 12px;
+    font-size: 14px;
     padding: 0;
     border: none;
+    color: #767693;
 }
 
 .markdown-body sup {
