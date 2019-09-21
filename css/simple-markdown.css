@@ -124,6 +124,7 @@
     padding: 0;
     border: none;
     color: #767693;
+    background-color: none;
 }
 
 .markdown-body sup {
