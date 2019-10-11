@@ -5,6 +5,16 @@
 
 * NOTE: ask dyer discord about differences between coherentism and foundationalism, specifically in the case where God is the ultimate authority of transcendentals but not in the foundationalist sense... how?
 
+### Aesthetics
+
+- Hair
+	- <https://www.thestandardbarbershop.com/>
+- Heavy Stubble
+	- <https://www.reddit.com/r/AskMen/comments/9zgvel/men_who_have_the_stubble_look_what_do_you_use_to/>
+    - Conair iStubble
+- beard
+    - <https://www.youtube.com/watch?v=OdvgHaqrEWc>
+
 ### For Website
 
 * https://matthewsetter.com/why-antora-is-the-leading-technical-writing-platform/
