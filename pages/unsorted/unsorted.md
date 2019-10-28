@@ -4,16 +4,17 @@
 # Unsorted Notes
 
 * NOTE: ask dyer discord about differences between coherentism and foundationalism, specifically in the case where God is the ultimate authority of transcendentals but not in the foundationalist sense... how?
+* [https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY](https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY "https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY")
 
 ### Aesthetics
 
-- Hair
-	- <https://www.thestandardbarbershop.com/>
-- Heavy Stubble
-	- <https://www.reddit.com/r/AskMen/comments/9zgvel/men_who_have_the_stubble_look_what_do_you_use_to/>
-    - Conair iStubble
-- beard
-    - <https://www.youtube.com/watch?v=OdvgHaqrEWc>
+* Hair
+  * [https://www.thestandardbarbershop.com/](https://www.thestandardbarbershop.com/)
+* Heavy Stubble
+  * [https://www.reddit.com/r/AskMen/comments/9zgvel/men_who_have_the_stubble_look_what_do_you_use_to/](https://www.reddit.com/r/AskMen/comments/9zgvel/men_who_have_the_stubble_look_what_do_you_use_to/)
+  * Conair iStubble
+* beard
+  * [https://www.youtube.com/watch?v=OdvgHaqrEWc](https://www.youtube.com/watch?v=OdvgHaqrEWc)
 
 ### For Website
 
