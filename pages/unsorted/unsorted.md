@@ -6,6 +6,14 @@
 * NOTE: ask dyer discord about differences between coherentism and foundationalism, specifically in the case where God is the ultimate authority of transcendentals but not in the foundationalist sense... how?
 * [https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY](https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY "https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY")
 
+### Creation vs Evolution
+
+* make this page
+* Creation Basics & Beyond
+* Ultimate Proof, Dr. Jason Lisle
+* Darwin's God: Evolution and the Problem of Evil, Cornelius Hunter
+* Genesis, Creation, Early Man, Fr. Seripham Rose
+
 ### Aesthetics
 
 * Hair
