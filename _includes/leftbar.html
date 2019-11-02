@@ -2,8 +2,11 @@
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
     {% for page in site.pages %}
         {% assign segments = page.url | split: "/" %}
+        {% assign prev = "" %}
         {% if segments[1] contains "pages" %}
-            <h1>{{segments[2]}}</h1>
+            {% if segments[2] != prev %}
+                <h2>{{segments[2]}}</h2>
+            {% prev = segments[2] %}
             <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
         {% endif %}
     {% endfor %}
