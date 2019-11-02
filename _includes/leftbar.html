@@ -3,7 +3,8 @@
     {% assign sorted_pages = site.pages | sort:"dir" %}
     {% assign prev = ""%}
     {% for page in sorted_pages %}
-        {% if page.dir contains "pages" %}
+        {% assign split_dir = page.dir | split: "/" %}
+        {% if split_dir[0] contains "pages" %}
             <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
         {% endif %}
     {% endfor %}
