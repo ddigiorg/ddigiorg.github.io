@@ -1,7 +1,7 @@
 <div id="leftbar">
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
     {% assign sorted_pages = site.pages | sort:"dir" %}
-    {% assign prev %}
+    {% assign prev = ""%}
     {% for page in sorted_pages %}
         {% if page.dir contains "pages" %}
             <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
