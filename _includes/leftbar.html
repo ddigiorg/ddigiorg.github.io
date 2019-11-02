@@ -2,7 +2,11 @@
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
     
     {% for page in site.pages %}
+        <p>{{page.dir}}</p>
         <p>{{page.name}}</p>
+        <p>{{page.path}}</p>
+        <p>{{page.url}}</p>
+        <br>
     {% endfor %}
     
     {% for page in site.pages %}
