@@ -1,7 +1,9 @@
 <div id="leftbar">
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
     
-    {% for page in site.pages %}
+    {% assign sorted_pages = site.pages | sort:"dir" %}
+    
+    {% for page in sorted_pages %}
         <p>{{page.dir}}</p>
         <p>{{page.name}}</p>
         <p>{{page.path}}</p>
@@ -9,7 +11,7 @@
         <br>
     {% endfor %}
     
-    {% for page in site.pages %}
+    {% for page in sorted_pages %}
         {% assign segments = page.url | split: "/" %}
         {% if segments[1] contains "pages" %}
             <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
