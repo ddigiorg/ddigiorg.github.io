@@ -1,5 +1,10 @@
 <div id="leftbar">
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
+    
+    {% for page in site.pages %}
+        <p>{{page}}</p>
+    {% endfor %}
+    
     {% for page in site.pages %}
         {% assign segments = page.url | split: "/" %}
         {% if segments[1] contains "pages" %}
