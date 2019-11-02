@@ -1,7 +1,3 @@
----
-category: philosophy
----
-
 # Matt Dillahunty Vs Jay Dyer Debate on Theism
 
 ## Jay Dyer's View

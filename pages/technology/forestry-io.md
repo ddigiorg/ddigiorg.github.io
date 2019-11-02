@@ -1,6 +1,3 @@
----
-
----
 # Forestry 
 
 Use this plugin to hide front matter editor and get full width of text editor:

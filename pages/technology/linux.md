@@ -1,6 +1,3 @@
----
-
----
 # Linux
 
 ## Installation

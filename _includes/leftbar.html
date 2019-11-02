@@ -2,7 +2,7 @@
     <input class="searchInput" placeholder="Search..." oninput="filterContent(this)">
     
     {% for page in site.pages %}
-        <p>{{page}}</p>
+        <p>{{page.name}}</p>
     {% endfor %}
     
     {% for page in site.pages %}
