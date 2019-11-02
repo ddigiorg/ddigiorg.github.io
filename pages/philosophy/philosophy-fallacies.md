@@ -1,4 +1,5 @@
 # Fallacies
+
 Violations of the laws of logic.
 
 ## Strawman
