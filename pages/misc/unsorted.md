@@ -3,8 +3,50 @@
 ---
 # Unsorted Notes
 
+[https://pastebin.com/1yqZ5THg](https://pastebin.com/1yqZ5THg "https://pastebin.com/1yqZ5THg")
+
+[https://www.amazon.com/Darwins-Doubt-Explosive-Origin-Intelligent/dp/0062071483](https://www.amazon.com/Darwins-Doubt-Explosive-Origin-Intelligent/dp/0062071483 "https://www.amazon.com/Darwins-Doubt-Explosive-Origin-Intelligent/dp/0062071483")
+
+[https://m.youtube.com/watch?v=ZD_3_gsgsnk](https://m.youtube.com/watch?v=ZD_3_gsgsnk "https://m.youtube.com/watch?v=ZD_3_gsgsnk")
+
+[http://archive.is/ud0OL](http://archive.is/ud0OL "http://archive.is/ud0OL")
+
+perfidious
+
+[http://www.igibud.com/petron/satyr/satyr01.html](http://www.igibud.com/petron/satyr/satyr01.html "http://www.igibud.com/petron/satyr/satyr01.html")
+
+[https://www.cdapress.com/archive/article-e294e430-9e29-11e6-abd5-9f4bbdfbe1a3.html](https://www.cdapress.com/archive/article-e294e430-9e29-11e6-abd5-9f4bbdfbe1a3.html "https://www.cdapress.com/archive/article-e294e430-9e29-11e6-abd5-9f4bbdfbe1a3.html")
+
+shelby cobra 2014
+
+[https://www.rt.com/usa/467836-darpa-deepfakes-disinfo-malicious-dissent/](https://www.rt.com/usa/467836-darpa-deepfakes-disinfo-malicious-dissent/ "https://www.rt.com/usa/467836-darpa-deepfakes-disinfo-malicious-dissent/")
+
+[https://pastebin.com/R59gRsPM](https://pastebin.com/R59gRsPM "https://pastebin.com/R59gRsPM")
+
+[https://en.m.wikipedia.org/wiki/Nootropic](https://en.m.wikipedia.org/wiki/Nootropic "https://en.m.wikipedia.org/wiki/Nootropic")
+
+[https://www.bbc.com/news/science-environment-39054778](https://www.bbc.com/news/science-environment-39054778 "https://www.bbc.com/news/science-environment-39054778")
+
+prevaricate
+
+[https://www.washingtonpost.com/world/africa/an-african-country-reckons-with-its-history-of-selling-slaves/2018/01/29/5234f5aa-ff9a-11e7-86b9-8908743c79dd_story.html](https://www.washingtonpost.com/world/africa/an-african-country-reckons-with-its-history-of-selling-slaves/2018/01/29/5234f5aa-ff9a-11e7-86b9-8908743c79dd_story.html "https://www.washingtonpost.com/world/africa/an-african-country-reckons-with-its-history-of-selling-slaves/2018/01/29/5234f5aa-ff9a-11e7-86b9-8908743c79dd_story.html")
+
+[https://m.youtube.com/watch?v=ayrZP8O4sf4](https://m.youtube.com/watch?v=ayrZP8O4sf4 "https://m.youtube.com/watch?v=ayrZP8O4sf4")
+
+[https://m.youtube.com/playlist?list=PLYmIBQRIOqKlcj21QqqR6b91UcU7Bj-Ah](https://m.youtube.com/playlist?list=PLYmIBQRIOqKlcj21QqqR6b91UcU7Bj-Ah "https://m.youtube.com/playlist?list=PLYmIBQRIOqKlcj21QqqR6b91UcU7Bj-Ah")
+
+[https://www.amazon.com/John-Courtney-Murray-American-Proposition/dp/0929891155](https://www.amazon.com/John-Courtney-Murray-American-Proposition/dp/0929891155 "https://www.amazon.com/John-Courtney-Murray-American-Proposition/dp/0929891155")
+
+[https://m.youtube.com/watch?v=r4sP1E1Jd_Y](https://m.youtube.com/watch?v=r4sP1E1Jd_Y "https://m.youtube.com/watch?v=r4sP1E1Jd_Y")
+
+[https://wiki.installgentoo.com/wiki/Windows_10](https://wiki.installgentoo.com/wiki/Windows_10 "https://wiki.installgentoo.com/wiki/Windows_10")
+
+[https://archive.md/zK93U](https://archive.md/zK93U "https://archive.md/zK93U")
+
+[https://archive.md/n4UfW](https://archive.md/n4UfW "https://archive.md/n4UfW")
+
 * NOTE: ask dyer discord about differences between coherentism and foundationalism, specifically in the case where God is the ultimate authority of transcendentals but not in the foundationalist sense... how?
-    * Jay answers at 43:00 in this vid <https://www.youtube.com/watch?v=bRCmZhWdyDE&feature=youtu.be>
+  * Jay answers at 43:00 in this vid [https://www.youtube.com/watch?v=bRCmZhWdyDE&feature=youtu.be](https://www.youtube.com/watch?v=bRCmZhWdyDE&feature=youtu.be)
 * [https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY](https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY "https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY")
 
 ### Creation vs Evolution
