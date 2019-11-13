@@ -27,3 +27,7 @@
 - **Apotheosis**:
 - **Anodyne**:
 - **Conflagration**:
+- **Perfidious**:
+- **Prevaricate**:
+- **Pertinacious**:
+- **Halcyon**:

@@ -1,5 +1,7 @@
 # Matt Dillahunty Vs Jay Dyer Debate on Theism
 
+IN DESPERATE NEED OF ORGANIZATION.  THIS WAS QUITE A BIG DEBATE.
+
 ## Jay Dyer's View
 
 Transcendental Arguement for God (see notes)
@@ -439,6 +441,39 @@ pinecreek 103 replies anonymous person
 [https://www.biblegateway.com/passage/?search=John+5%3A31-47&version=NKJV](https://www.biblegateway.com/passage/?search=John+5%3A31-47&version=NKJV "https://www.biblegateway.com/passage/?search=John+5%3A31-47&version=NKJV")
 
 ask about foundational vs coherence
+
+
+
+It's not like that. His argument is what I would call a "consequentialist" argument, in the sense that he compares the consequences of the existence of God with the consequences of his nonexistence. Presupposing that God exists explains a long list of things (everything, in the end) that become absurd when you presuppose the contrary. It's not really a proof, in the sense that it doesn't properly prove the existence of God, but he rather seeks to prove that it makes more rational sense to presuppose God than to negate him, because negating God's existence will inevitably lead you into all sorts of absurd conclusions.
+
+I think you got it. What you call consequentialist is what Dyer means by coherence. What metaphysical assumptions make sense of the most of reality that we experience. Most of the commenters did not get it at all.
+
+Yes, that's right. And he laid it out brilliantly at the beginning, when he concluded that, without presupposing a God, not even debating ideas makes any sense. Then, realizing that he was shooting down the prey before even starting the hunt, backtracked, to allow for the discussion to ensue. Halfway, I believe he got tangled up in Matt's web of rhetorical tricks and didn't seem to realize that Matt was actually proving him right. When Matt says something to the effect that he doesn't deny that the rules of logic need justification, but he's not convinced that they do, he is in fact, shooting down the possibility of a rational debate, because, without saying so, he is retreating from the debate. As a good illusionist, Matt creates the illusion that he holds a position, but when you send your forces (the forces of your rational arguments) against that castle, the castle vanishes into thin air by a rhetorical/magic pass. If you don't realize in time that you're throwing blows to the wind, you can become very frustrated, as Jay did towards the end.
+
+I agree, again.. I think by denying the need for a foundation for the immaterial, universal, unchanging and undemonstrable transcendentals.....Dillahunty was denying the principle of sufficient reason, that everything that exists has an explanation or a cause.......when you deny sufficient reason because it has no sufficient reason you are in absurdity.....then they say God has no "evidence" (using the language of naive empiricism), when they have excluded inference to the best explanation as having any validity: and redefine concluding he exists as an irrational leap. They reason in their own circle to deny God exists, and affirm the world of "brute fact" needs no explanation, because that is their presupposition....their faith.
+
+
+
+That is precisely the problem, and the reason why Matt is not really a true opponent in an intellectual debate on the existence of God. He himself is the straw man. He conjures up the illusion of a position held against his opponent's claim, which is the ineluctable basis for any serious intellectual debate. But soon enough the veil falls out to reveal that he holds no position at all. If you analyse it carefully enough, you will realize that there's a fundamental lack of honesty in his posturing an atheism that doesn't really deny the existence of God, drawing theists to debates as moths to that illusory flame. But no debate is possible when no opposing positions are held. Matt wants to have his cake and eat it too. He wants to be able to debate the claim that God exists and at the same time able to refuse to deny that God exists.
+
+To be fair to Matt, all atheists sooner rather than later fall in the same inanity of denying that they deny the existence of God, for it doesn't take much to realize the futility of trying to prove rationally a negative. So it all comes down not to a debate over the existence or nonexistence of God, but rather to a debate over whether the existence of God can or cannot be rationally justified. But that's, again, a debate that can only be held between theists, for an atheist cannot possibly engage in a rational argument over whether the existence of a non existing entity can be rationally justified anymore than I can engage in a rational argument over the rational justification for the existence of unicorns. 
+
+If we really think deeply about it, we should soon conclude that there's no point for theists and atheists to debate about the existence of what for one of them is the most basic reality, upon which everything else depends, and without which nothing else can possibly exist, and for the other, just nonsense, nonexistent entity. For the latter, God is a figment of the former's imagination; for the former, the latter is a figment of God's imagination. What can possibly be the common ground for fruitful intellectual exchange?
+
+If we could imagine Voldemort and Dumbledore arguing over the existence of J.K. Rowling, we might have a faint glimmer of what a theist vs atheist debate should look like. And it gets even worse when one considers that, in the case of a non deistic theist it would be more like them arguing over her existence while J.K. Rowling is still in the process of writing Harry Potter.
+
+
+
+
+You function everyday on metaphysical realities that are immaterial, unchanging and universal; logic, math, morality, belief you can know reality, trustworthiness of the senses, reality of the external world, uniformity of nature over time....these have to be and are assumed without "proof" and "evidence" because you cannot have any kind of proof or evidence if you do not rely upon them. What you allow as evidence is consistent with your empiricist and naturalist philosophy which themselves cannot be "proved". Inference to the best explanation is used in science all the time to come to conclusions. Again most atheists have a deficient philosophy of science, I suggest you read Michael Polanyi's Personal Knowledge on that fact.  It does not matter what "evidence" I offer, the cosmological arguments, the design argument that made Anthony Flew abandon his atheism, or the evidence of eye witness reports of the resurrection or personal religious experience....you will reject them all because you are committed to naturalism with its empiricist epistemology.....it is a metaphysical strait jacket you cannot get out of because you are "religiously" committed to it. You do not live your life totally on "evidence".......you depend on authority, eye witness testimony, hunches and intutions, shear guesses, and personal impressions in your life, every single day. David Hume was clear that society could not function based on the skepticism of his empiricism. To function, you live outside your philosophy. Your intellect affirms naturalism but you live outside of it everytime you use or affirm the metaphsycal realities it cannot explain,
+
+
+
+theists believe in eternal life, so I understand that for them the stakes are infinitely high, and I understand that, seeing as they see other people's lives as missing out on it, they go out and preach their beliefs. But, for the life of me, I cannot understand what's in it for somebody who does not believe in eternal life. This life is way too short to be wasting it trying to debunk the beliefs of them believers! I can understand somebody like Matt, who makes a living out of it, so he's in it for the money. But the bulk of his acolytes....? They are miserably wasting their lives! Incomprehensible.
+
+
+
+
 
 ## References
 

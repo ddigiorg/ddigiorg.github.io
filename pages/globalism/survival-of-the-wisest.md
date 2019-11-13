@@ -1,9 +1,8 @@
 # Survival of the Wisest
 
-- Author: Dr. Jonas E. Salk
-- Date: 1973
+**Author**: Dr. Jonas E. Salk
+**Date**: 1972
 
-- The Survival of the Wisest, Jonas E. Salk (1972)
 - Thesis: The elite (scientific class) are the wisest and represent the highest form of evolution and therefore are the arbiters of evolution/nature and should have the powers to decide who lives and dies.  Man will not survive without the scientific priest class.
 - Establishment mutates you through RNA viruses, DNA, and experimenting on female eggs (ch. 7, Mutations).  Introduce mass diseases.
 - Inoculations can be a means by which they could engineer evolution/devolution by manipulating the genetic code
@@ -32,5 +31,6 @@
 Book contains lots of metaphysics
 
 ## Links
+
 - <https://www.youtube.com/watch?v=s09unra20ZM>
 - <https://www.youtube.com/watch?v=zhIcWb7IqGE>
