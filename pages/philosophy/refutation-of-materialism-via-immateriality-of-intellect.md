@@ -6,28 +6,58 @@ Father Deacon Ananias Sorem
 
 ### Terms
 
-- **Syllogism**: The formal structure of a logical argument.  A set of two premises that lead to a conclusion (P1 P2 -> C).
-- **Deductive Argument**: If the premises are true then it is necessary that the conclusion must be true (impossible that the conclusion is false)
-- **Sounds Argument**: A valid argument in which the premises of the argument are true
-- **Subject(S)**:
-- **Predicate(P)**:
+- **Syllogism**: `P1 P2 -> C` The formal structure of a logical argument where two premises (major and minor) lead to a conclusion.
+- **Premise**: A proposition that is used as evidence in an argument.
+- **Conclusion**: Asserted by the logical result of an argument based on the relationship of the stated premises.
+- **Thesis**: The final conclusion and ultimate point proven by the premises.
+- **Valid Argument**: An argument that contains no logical fallacies.
+- **Sound Argument**: An argument that is valid and whose premises are true, therefore it is necessary that the conclusion is true.
+
 - **Conversion**: Switch S and P to get an equivalent meaning
 
-### List of Propositional Forms
+### Syllogism
 
-- `A = All S are P`: A universal positive proposition(e.g. All dogs are animals)
-- `E = No S are P`: A universal negative proposition(e.g. No dogs are houses)
-- `I = Some S are P`: A proposition that contains a particular positive (e.g. Some dogs are German Shepherds)
-- `O = Some S are not P`: A proposition that contains a particular negative (e.g. Some dogs are not Beagles)
+Major premise: All M are P.
+Minor premise: All S are M.
+Conclusion: All S are P.
 
-### List of Valid Syllogistic Forms
+- `M`: Middle term
+- `S`: Subject of the conclusion
+- `P`: Predicate of the conclusion
+- Major: Links M with P
+- Minor: Links M with S
 
-| Fig.1 | Fig.2 | Fig.3 | Fig.4 |
-|:-----:|:------|:------|:-----:|
-|  AAA  |  EAE  |  IAI  |  AEE  |
-|  EAE  |  AEE  |  AII  |  IAI  |
-|  AII  |  EIO  |  OAO  |  EIO  |
-|  EIO  |  AOO  |  EIO  |       |
+### Types of Propositions
+
+The premises and conclusions of a syllogism can be any 4 types:
+
+| code | quantifier | subject | copula  | predicate | type                   |
+|:-----|:-----------|:--------|:-------:|:---------:|:-----------------------|
+| `A`  | All        | S       | are     | P         | universal affirmative  |
+| `E`  | No         | S       | are     | P         | universal negative     |
+| `I`  | Some       | S       | are     | P         | particular affirmative |
+| `O`  | Some       | S       | are not | P         | particular negative    |
+
+- Example A: All dogs are animals
+- Example E: No dogs are houses
+- Example I: Some dogs are German Shepherds
+- Example O: Some dogs are not Beagles
+
+### Syllogistic Figures
+
+A **figure** in logic is the classification of syllogisms according to the arrangement of the middle term.
+
+|          | Fig1 | Fig2 | Fig3 | Fig4 |
+|:---------|:-----|:-----|:-----|:-----|
+|**Major** | M-P  | P-M  | M-P  | P-M  |
+|**Minor** | S-M  | S-M  | M-S  | M-S  |
+|**Conc.** | S-P  | S-P  | S-P  | S-P  |
+|          | AAA  | EAE  | AII  | AEE  |
+|          | EAE  | AEE  | IAI  | IAI  |
+|          | AII  | EIO  | EIO  | EIO  |
+|          | EIO  | AOO  | OAO  | AEO  |
+|          | AAI  | EAO  | EAO  | EAO  |
+|          | EAO  | AEO  | AAI  | AAI  |
 
 ### Modern Square of Opposition
 
@@ -39,12 +69,12 @@ A --- E
 I --- O
 ```
 
-- `A<->O`: Contradiction
-- `E<->I`: Contradiction
-- `A<->E`: Undetermined
-- `E<->O`: Undetermined
-- `O<->I`: Undetermined
-- `I<->A`: Undetermined
+- `A <-> O`: Contradiction
+- `E <-> I`: Contradiction
+- `A <-> E`: Undetermined
+- `E <-> O`: Undetermined
+- `O <-> I`: Undetermined
+- `I <-> A`: Undetermined
 - Example: If you know proposition A to be true, then you know proposition O to be false.
 - Example: If you know proposition A to be true, then you do not know whether proposition E is true or false.
 
