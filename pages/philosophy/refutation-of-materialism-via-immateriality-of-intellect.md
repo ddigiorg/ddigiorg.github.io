@@ -4,7 +4,7 @@ Father Deacon Ananias Sorem
 
 ## Introduction to Syllogisms
 
-Terms:
+### Terms
 
 - **Syllogism**: The formal structure of a logical argument.  A set of two premises that lead to a conclusion (P1 P2 -> C).
 - **Deductive Argument**: If the premises are true then it is necessary that the conclusion must be true (impossible that the conclusion is false)
@@ -13,23 +13,23 @@ Terms:
 - **Predicate(P)**:
 - **Conversion**: Switch S and P to get an equivalent meaning
 
-List of Propositional Forms:
+### List of Propositional Forms
 
-- **A = All S are P**: A universal positive proposition(e.g. All dogs are animals)
-- **E = No S are P**: A universal negative proposition(e.g. No dogs are houses)
-- **I = Some S are P**: A proposition that contains a particular positive (e.g. Some dogs are German Shepherds)
-- **O = Some S are not P**: A proposition that contains a particular negative (e.g. Some dogs are not Beagles)
+- `A = All S are P`: A universal positive proposition(e.g. All dogs are animals)
+- `E = No S are P`: A universal negative proposition(e.g. No dogs are houses)
+- `I = Some S are P`: A proposition that contains a particular positive (e.g. Some dogs are German Shepherds)
+- `O = Some S are not P`: A proposition that contains a particular negative (e.g. Some dogs are not Beagles)
 
-List of Valid Syllogistic Forms:
+### List of Valid Syllogistic Forms
 
 | Fig.1 | Fig.2 | Fig.3 | Fig.4 |
-|:-----:|:------|:------|:------|
+|:-----:|:------|:------|:-----:|
 |  AAA  |  EAE  |  IAI  |  AEE  |
 |  EAE  |  AEE  |  AII  |  IAI  |
 |  AII  |  EIO  |  OAO  |  EIO  |
 |  EIO  |  AOO  |  EIO  |       |
 
-Modern Square of Opposition:
+### Modern Square of Opposition
 
 ```
 A --- E
@@ -39,12 +39,12 @@ A --- E
 I --- O
 ```
 
-- **A<->O**: Contradiction
-- **E<->I**: Contradiction
-- **A<->E**: Undetermined
-- **E<->O**: Undetermined
-- **O<->I**: Undetermined
-- **I<->A**: Undetermined
+- `A<->O`: Contradiction
+- `E<->I`: Contradiction
+- `A<->E`: Undetermined
+- `E<->O`: Undetermined
+- `O<->I`: Undetermined
+- `I<->A`: Undetermined
 - Example: If you know proposition A to be true, then you know proposition O to be false.
 - Example: If you know proposition A to be true, then you do not know whether proposition E is true or false.
 
@@ -55,7 +55,7 @@ Forms:
 
 - Universals is the set that contains all members of that set
 
-### Argument
+## Argument
 
 ```
 A All physical things are particulars (E.G. This pen is a particular pen.  It does not represent the class of all markers.  It's one marker.)
