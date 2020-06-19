@@ -45,17 +45,53 @@
 
 ## Pragmatism
 
-15:20
+- Do atheist societies "work"?  This is conditioned on your presuppositions/assumptions themselves because by what metric do we evaluate "work".  If these presuppositions are false then it will lead you to incorrect conclusions.
+- For example, if I think depopulation is "good" then getting rid of lots of people via mass death "works"
+- Problem of pragmatism: It assumes an objective standard while at the same time denying objective standards.  That's incoherent.
+- For example, if we want to protect x,y,z and not protect a,b,c then there's really no objective reason why we should or should not (domain of ethics) do as such because in this worldview there's no coherent basis for objective ethics
+- Most modern atheism comes out of the tradition of David Hume (classic skeptic) and the denial of metaphysics (and concrete metaphysical principles).  This position boxes yourself in to a position of subjectivity if you are being coherent.
+- This position is actually personal preference rather than brute pragmatism because it's completely arbitrary and ad-hoc because there's no underlying basis or reason to hold the position
+- Atheism ultimately boils down to subjectivism and not able to be grounded in objective principles because atheism is grounded in a movement against objective metaphysical principles
 
 ## Anti-humanism
 
+- Atheist thinkers tend to have a dialectical tension between humanism vs. anti-humanism
+- History of depopulation movement, Rockefeller foundation, communist regimes, and utopian systems are disastrous and anti-human
+- When you have a system where man is not made in the image of God then all human rights are meaningless because you're not held to an objective standard because all standards are relative
+- Atheism is the dehumanization of man and the globalist elite believe that and foster atheism to demoralize population so they are more malleable to social engineering: soy wars, video games, sports, other idols from the system to make you feel like a male (synthetic masculinity) rather than being grounded in a coherent worldview
+
 ## Materialism
+
+- Atheism tends to be extremely materialistic (minus the solypsists or "simulation" believers)
+- Atheism cant account for the senses matching up to the external world because you cant know/prove there's an external world (David Hume)(Two Dogmas of Empiricism)
+- A materialist philosophy puts one in a box that undermines philosophy and knowledge at all
+- If all that exists is matter then not only can you not know that because it's a metaphysical universal claim but also you cant ultimately know that the external world is not just a projection of your on psyche
+- If we're just basing the world on our sense-data all we have is impressions of our experiences and not direct access to what's actually out there (Kant Ding an sich or thing-in-itself).  We only know the phenomenal experiences that we have so its possible that all those external sense impressions we experience are just mental phantasms.  If they're just mental phantasms then we don't actually know if there's an external world because we cant empirically demonstrate that.
+- Ashiest take what we would say is in the Mind of God and smush that into the mind of man and ultimately man tries to take on the role of God.  Ultimately they still believe in God because they use the attributes and necessities of God but they all place that in the mind of finite meaningless man.
 
 ## Meaninglessness
 
+- Man is a bag of cells and chemical reactions in an infinite vast universe of meaninglessness doing meaningless things and then turns to meaningless dust
+- Your words, conscience, etc are just meaningless chemical reactions
+- Yet the atheist spends his days fighting theism... but it's all meaningless so why even care about people being "suppressed" or "superstition"?  Why care about being noble, fighting for what's rational, being logical?  Its a giant meaningless universe so those things are all meaningless.
+- If it's all ultimately meaningless then the atheist's words and argument are ultimately meaningless.  This is incoherent on their position.
+- If God exists then there are metaphysical principles, ethical absolutes, and knowledge and certitude.  There is regularity in nature because of Divine Providence
+
 ## Assumptions
 
+- Atheism assumes standards like morals and absolutes.  It assumes the things that are necessary to refute Christianity (that only make sense in a Christian worldview) to try to argue against it.  It's like sitting on a limb of a tree and sawing the limb off
+- Example: Ludwig Wittgenstein said all language is just word games and trickery and if you deconstruct all language it is meaningless.  But he wrote a book... with words... he used words to convince you that words are meaningless
+- Atheism winds up in incoherence at a fundamental level
+
 ## Outlandish Claims
+
+- Relies on miracles and postulations, not empirical evidence
+- Example: knowing there was a past and claims about what happened aeons ago... what the monkey was doing 11 million years ago in Africa... no one has observed this
+- these outlandish claims are usually argued for on the basis of authority
+- You cant prove the self... it is assumed in every argument the atheist uses
+- You cant prove meaning and yet the atheist argues that the world is ultimately meaningless as he utilizes words to argue against words and meaning
+- You cant know or prove the past (its a transcendental category) but yet these things are magically believed to exist and to have occurred
+- The whole universe coming out of nothing for no reason... life/conscientiousness came from nothing... this is a secular miracle
 
 ## References
 

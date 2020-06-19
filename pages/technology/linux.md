@@ -36,10 +36,12 @@
 * [Luke Smith Full Arch Linux Install](https://www.youtube.com/watch?v=4PBqpX0_UOc)
 * [Installing Arch Linux in VirtualBox](https://www.youtube.com/watch?v=HpskN_jKyhc)
 
- 1. Download `archlinux-YYYY.MM.DD-x86_64.iso` from [Arch Linux Downloads](https://www.archlinux.org/download/) and put it on a CS or USB
- 2. Mount and off the CD or USB that contains the .iso file (or see VirtualBox install if you want to run it on a VM)
- 3. Select `Boot Arch Linux (x64_64)`
+ 1. Download `archlinux-YYYY.MM.DD-x86_64.iso` from [Arch Linux Downloads](https://www.archlinux.org/download/)
+ 2. Make bootable USB stick (see [Arch USB flash installation guide](https://wiki.archlinux.org/index.php/USB_flash_installation_media#In_Windows)
+    * On Windows use Rufus
+ 3. Mount USB onto the target device and select `Boot Arch Linux (x64_64)`
  4. Verify internet connection by typing `ping archlinux.org` then use `ctrl+c` to stop pinging
+    * If no ethernet connection
  5. Update the system clock by typeing `timedatectl set-ntp true` then check it with `timedatectl status`
  6. Partition the disks (usually boot, swap, root, and home partitions)
     * Type `lsblk` or `fdisk -l` to see your disk devices

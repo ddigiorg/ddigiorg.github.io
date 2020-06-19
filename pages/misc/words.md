@@ -31,3 +31,4 @@
 - **Prevaricate**:
 - **Pertinacious**:
 - **Halcyon**:
+- **Curse of Cassandra**:
