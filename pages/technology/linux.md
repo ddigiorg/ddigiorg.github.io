@@ -20,25 +20,25 @@
  4. **Update System Clock**
     - Type `timedatectl set-ntp true` to update the system clock
     - Type `timedatectl status` to check it
- 5. ** Partition Disks**
+ 5. **Partition Disks**
     - Type `lsblk` or `fdisk -l` to see your disk devices
     - Type `fdisk /dev/sda`, you may type `m` for help
     - Type `p` to print out everything that is in the drive
     - Type `d` to delete partitions for each partition in the list
-    - Create **Boot Partition**
+    - **Boot Partition**
         - Type `n` to create a new partition and type `p` for primary and type `1` to give it a number
         - Type `Enter` to keep first sector default
         - Type `+256M` to set the partition size to 256MB
         - If asked to remove the signature type `Y`
-    - Create a **Swap Partition** (mostly used for computer hybernation)
+    - **Swap Partition** (mostly used for computer hybernation)
         - Type `n` to create a new partition and type `p` for primary and type `2` to give it a number
         - Type `Enter` to keep first sector default
         - Type `+8G` to set the partition size to 8GB (The rule of thumb these days is 1x of RAM size.  My RAM was 8GB)
-    - Create a **Root Partition** (where all the programs and packages are installed)
+    - **Root Partition** (where all the programs and packages are installed)
         - Type `n` to create a new partition and type `p` for primary and type `3` to give it a number
         - Type `Enter` to keep first sector default
         - Type `+24G` to set the partition size to 24GB
-    - Create a **Home Partition** (your files)
+    - **Home Partition** (your files)
         - Type `n` to create a new partition and type `p` for primary and type `4` to give it a number
         - Type `Enter` to keep first sector default
         - Type `Enter` to fill up the last sector will the remaining space
