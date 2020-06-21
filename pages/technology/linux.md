@@ -5,16 +5,22 @@
 - [Arch Linux Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide)
 - [Luke Smith Full Arch Linux Install](https://www.youtube.com/watch?v=4PBqpX0_UOc)
 
- 1. Download `archlinux-YYYY.MM.DD-x86_64.iso` from [Arch Linux Downloads](https://www.archlinux.org/download/)
- 2. Make bootable USB stick (see [Arch USB flash installation guide](https://wiki.archlinux.org/index.php/USB_flash_installation_media#In_Windows))
-    - On Windows use Rufus
- 3. Mount USB onto the target device and select `Boot Arch Linux (x64_64)`
- 4. Type `ls /sys/firmware/efi/efivars` to check if you need UEFI
-    - If there's no directory then continue
-    - If there's files here you may need to do the UEFI install procedure
- 5. Type `ping archlinux.org` to verify internet connection and type `ctrl+c` to stop pinging
- 6. Type `timedatectl set-ntp true` to update the system clock by and type `timedatectl status` to check it
- 7. Partition the drives (usually boot, swap, root, and home partitions)
+ 1. **Boot Arch USB**
+    - Download `archlinux-YYYY.MM.DD-x86_64.iso` from [Arch Linux Downloads](https://www.archlinux.org/download/)
+    - Make bootable USB stick by following the [Arch USB flash installation guide](https://wiki.archlinux.org/index.php/USB_flash_installation_media#In_Windows)
+        - On Windows use Rufus
+    - Mount USB onto the target device and select `Boot Arch Linux (x64_64)`
+ 2. **Verify Boot Mode**
+    - Type `ls /sys/firmware/efi/efivars` to check if you need UEFI
+        - If there's no directory then continue
+        - If there's files here you may need to do the UEFI install procedure
+ 3. **Connect to Internet**
+    - Type `ping archlinux.org` to verify internet connection
+    - Type `ctrl+c` to stop pinging
+ 4. **Update System Clock**
+    - Type `timedatectl set-ntp true` to update the system clock
+    - Type `timedatectl status` to check it
+ 5. ** Partition Disks**
     - Type `lsblk` or `fdisk -l` to see your disk devices
     - Type `fdisk /dev/sda`, you may type `m` for help
     - Type `p` to print out everything that is in the drive
@@ -27,7 +33,7 @@
     - Create a **Swap Partition** (mostly used for computer hybernation)
         - Type `n` to create a new partition and type `p` for primary and type `2` to give it a number
         - Type `Enter` to keep first sector default
-        - Type `+12G` to set the partition size to 12GB (The rule of thumb is 150% of RAM size.  My RAM was 8GB)
+        - Type `+8G` to set the partition size to 8GB (The rule of thumb these days is 1x of RAM size.  My RAM was 8GB)
     - Create a **Root Partition** (where all the programs and packages are installed)
         - Type `n` to create a new partition and type `p` for primary and type `3` to give it a number
         - Type `Enter` to keep first sector default
@@ -39,44 +45,57 @@
     - Type `p` to print everything. DOUBLE CHECK BEFORE MOVING ON!
     - Type `w` to write
     - Type `lsblk` to see your disk devices
- 8. Make the file systems
+ 6. **Format Partitions**
     - Type `mkfs.ext4 /dev/sda1` for boot partition
     - Type `mkfs.ext4 /dev/sda3` for root partition
     - Type `mkfs.ext4 /dev/sda4` for home partition
- 9. Type `mkswap /dev/sda2` to make the swap partition and then type `swapon /dev/sda2`
-10. Mount the file systems
+    - Type `mkswap /dev/sda2` to make the swap partition
+    - Type `swapon /dev/sda2` to initialize it
+ 7. **Mount File Systems**
     - Type `mount /dev/sda3 /mnt` to mount the root partition
     - Type `mkdir /mnt/boot` to create the boot directory
     - Type `mkdir /mnt/home` to create the home directory
     - Type `ls /mnt` and you should see "boot home lost+found"
     - Type `mount /dev/sda1 /mnt/boot` to mount the boot directory
     - Type `mount /dev/sda4 /mnt/home` to mount the home directory
-11. Type `pacstrap /mnt base base-devel vim` to install Arch
-12. Generate an fstab file
-    - Type `genfstab -U /mnt >> /mnt/etc/fstab`
+ 8. **Install Essential Packages**
+    - Type `pacstrap /mnt base base-devel linux linux-firmware vim`
+ 9. **Fstab**
+    - Type `genfstab -U /mnt >> /mnt/etc/fstab` to generate an fstab file
     - Type `vim /mnt/etc/fstab` to check it
-13. Type `arch-chroot /mnt` to navigate out of the usb arch linux and into the computer's root directory.  Verify by typing `ls`
-14. Install network manager
-    - Type `pacman -S networkmanager` to install it
-    - Type `systemctl enable NetworkManager` to automatically start it on boot
-15. Install boot loader
-    - Type `pacman -S grub` to install it
-    - Type `grub-install --target=i386-pc /dev/sda` to install grub on your machine
-    - Type `grub-mkconfig -o /boot/grub/grub.cfg` to make the configuration file
-16. Type `passwd` to set the root password
-17. Generate the locale
-    - Type `vim /etc/locale.gen`
-    - In vim type `/en_US`, uncomment `en_US.UTF-8 UTF-8` and `en_US ISO-8859-1`, and type `:x` to save and exit
-    - Type `locale-gen` to generate the locales
-    - Type `vim /etc/locale.conf` to create the configuration file, put `LANG=en_US.UTF-8` in it, and save+exit
-18. Set the time zone
+10. **Chroot**
+    - Type `arch-chroot /mnt` to navigate out of the usb arch linux and into the computer's root directory.
+    - Type `ls` to verify
+11. **Time Zone**
     - Type `ls /usr/share/zoneinfo` to browse the time zone options
     - Type `ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime` to link the localtime file to your time zone
     - Type `date` and verify the date and time
-19. Type `vim /etc/hostname`, type the name for the computer, and save+exit
-20. Type `exit` to leave the computer's root directory and back to the usb arch linux directory
-21. Type `umount -R /mnt` to unmount all partitions and type `lsblk` to verify
-21. Type `shutdown now` to shutdown the computer, remove the usb drive, then start the computer
+    - Type `hwclock --systohc`
+12. **Localization**
+    - Type `vim /etc/locale.gen`
+    - Uncomment `en_US.UTF-8 UTF-8` and `en_US ISO-8859-1`
+    - Type `locale-gen` to generate the locales
+    - Type `vim /etc/locale.conf` to create the configuration file and write `LANG=en_US.UTF-8`
+13. **Network Configuration**
+    - Type `vim /etc/hostname` and write in a hostname
+    - Type `vim /etc/hosts` and add:
+        ```
+        127.0.0.1    localhost
+        ::1	       localhost
+        127.0.1.1    myhostname.localdomain    myhostname
+        ```
+    - Type `pacman -S networkmanager` to install it
+    - Type `systemctl enable NetworkManager` to automatically start it on boot
+14. **Root Password**
+    - Type `passwd` to set the root password
+15. **Boot Loader**
+    - Type `pacman -S grub` to install it
+    - Type `grub-install --target=i386-pc /dev/sda` to install grub on your machine
+    - Type `grub-mkconfig -o /boot/grub/grub.cfg` to make the configuration file
+16. **Cleanup**
+    - Type `exit` to leave the computer's root directory and back to the usb arch linux directory
+    - Type `umount -R /mnt` to unmount all partitions and type `lsblk` to verify
+    - Type `shutdown now` to shutdown the computer, remove the usb drive, then start the computer
 
 ## Installing VirtualBox for Windows Virtual Machines
 
