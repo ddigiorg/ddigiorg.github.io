@@ -15,6 +15,7 @@
         - If there's no directory then continue
         - If there's files here you may need to do the UEFI install procedure
  3. **Connect to Internet**
+    - Type `ip link` and verify the network intterface is listed and enabled
     - Type `ping archlinux.org` to verify internet connection
     - Type `ctrl+c` to stop pinging
  4. **Update System Clock**
@@ -26,20 +27,20 @@
     - Type `p` to print out everything that is in the drive
     - Type `d` to delete partitions for each partition in the list
     - **Boot Partition**
-        - Type `n` to create a new partition and type `p` for primary and type `1` to give it a number
+        - Type `n` to create a new partition, `p` for primary, and `1`
         - Type `Enter` to keep first sector default
         - Type `+256M` to set the partition size to 256MB
         - If asked to remove the signature type `Y`
     - **Swap Partition** (mostly used for computer hybernation)
-        - Type `n` to create a new partition and type `p` for primary and type `2` to give it a number
+        - Type `n` to create a new partition, `p` for primary, and `2`
         - Type `Enter` to keep first sector default
-        - Type `+8G` to set the partition size to 8GB (The rule of thumb these days is 1x of RAM size.  My RAM was 8GB)
+        - Type `+8G` to set the partition size to 8GB (Rule of thumb is 1x RAM size)
     - **Root Partition** (where all the programs and packages are installed)
-        - Type `n` to create a new partition and type `p` for primary and type `3` to give it a number
+        - Type `n` to create a new partition, `p` for primary, and `3`
         - Type `Enter` to keep first sector default
         - Type `+24G` to set the partition size to 24GB
     - **Home Partition** (your files)
-        - Type `n` to create a new partition and type `p` for primary and type `4` to give it a number
+        - Type `n` to create a new partition, `p` for primary, and `4`
         - Type `Enter` to keep first sector default
         - Type `Enter` to fill up the last sector will the remaining space
     - Type `p` to print everything. DOUBLE CHECK BEFORE MOVING ON!
@@ -96,6 +97,86 @@
     - Type `exit` to leave the computer's root directory and back to the usb arch linux directory
     - Type `umount -R /mnt` to unmount all partitions and type `lsblk` to verify
     - Type `shutdown now` to shutdown the computer, remove the usb drive, then start the computer
+17. **Login**
+    - Start up the computer and log in to root
+
+## Additional Packages
+
+- <https://lukesmith.xyz/programs>
+- [LukeSmithxyz/LARBS/progs.csv](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv)
+
+## Adding Users
+
+- [Arch Wiki Users and Groups](https://wiki.archlinux.org/index.php/users_and_groups)
+
+1. Add a user by typing `useradd -m -g wheel [username]`
+2. Add a password by typing `passwd [username]`
+3. Give your user sudo access by editing `/etc/sudoers`
+
+## Man
+
+Lets you read man pages of packages.
+
+- [ArchWiki man page](https://wiki.archlinux.org/index.php/Man_page)
+- Type `pacman -S man-db` to install
+- Type `man [package]` to view the package's manual
+
+## Pacman
+
+Package management utility that tracks installed packages.
+
+- [ArchWiki pacman](https://wiki.archlinux.org/index.php/pacman)
+- [Using Pacman on Arch Linux](https://www.youtube.com/watch?v=-dEuXTMzRKs)
+- pacman should already be installed through the base package
+
+| Command               | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| `pacman -S [package]` | install package                                                             |
+| `pacman -Syu`         | update package database and upgrade installed packages                      |
+| `pacman -Sy`          | update package database                                                     |
+| `pacman -Su`          | upgrade installed packages                                                  |
+| `pacman -Syy`         | force update of package database even if recently updated                   |
+| `pacman -Syyuw`       | download programs but leave them uninstalled (for manual install)           |
+| `pacman -R [package]` | remove package                                                              |
+| `pacman -Rs`          | remove package as well as unneeded dependencies                             |
+| `pacman -Rns`         | remove package, dependencies, and system config files (reccomended)         |
+| `pacman -Q`           | display all installed packages                                              |
+| `pacman -Q | wc -l`   | display total number of installed packages by countint lines of output      |
+| `pacman -Qe`          | display only packaged explicitly installed                                  |
+| `pacman -Qeq`         | display only names of explicitly installed packages and not version numbers |
+| `pacman -Qn`          | display only packages installed from main repositories                      |
+| `pacman -Qm`          | display only packages installed from AUR                                    |
+| `pacman -Qdt`         | display orphaned dependencies                                               |
+| `pacman -Ss`          | search remote repository for package                                        |
+| `pacman -Qs`          | search local repository for package                                         |
+
+## Xorg
+
+
+
+
+
+
+
+
+## Window Manager
+
+- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
+
+1. Install xorg packages: `pacman -S xorg-server xorg-xinit`
+2. Install i3-gaps and other related useful packages: `pacman -S i3-gaps i3status rxvt-unicode dmenu network-manager-applet`
+3. In `~/.xinitrc` put `exec i3`
+4. (If using VirtualBox) in `~/.config/i3/config` put `exec VBoxClient-all`
+5. Type `reboot`
+6. Login and type `startx`
+7. Open terminal with `Mod+ENTER`
+
+## Fonts
+
+- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
+
+1. Install fonts by typing `pacman -S ttf-linux-libertine ttf-inconsolata`
+2. (Maybe not necessary) Set fonts manually in `vim ~/.config/fontconfig/fonts.conf`
 
 ## Installing VirtualBox for Windows Virtual Machines
 
@@ -126,41 +207,3 @@
     - Type `pacman -S virtualbox-guest-utils xf86-video-vmware` and make sure you select `virtualbox-guest-modules-arch`
     - Configure to run on startup by typing `systemctl enable vboxservice.service`
     - Type `reboot`
-
-## Adding Users
-
-- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
-- [Arch Wiki Users and Groups](https://wiki.archlinux.org/index.php/users_and_groups)
-
-1. Add a user by typing `useradd -m -g wheel [username]`
-2. Add a password by typing `passwd [username]`
-3. Give your user sudo access by editing `/etc/sudoers`
-
-### Packages
-
-- <https://lukesmith.xyz/programs>
-- [LukeSmithxyz/LARBS/progs.csv](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv)
-
-| Package  | Description |
-|----------|-------------|
-|          |             |
-
-## Window Manager
-
-- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
-
-1. Install xorg packages: `pacman -S xorg-server xorg-xinit`
-2. Install i3-gaps and other related useful packages: `pacman -S i3-gaps i3status rxvt-unicode dmenu network-manager-applet`
-3. In `~/.xinitrc` put `exec i3`
-4. (If using VirtualBox) in `~/.config/i3/config` put `exec VBoxClient-all`
-5. Type `reboot`
-6. Login and type `startx`
-7. Open terminal with `Mod+ENTER`
-
-## Fonts
-
-- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
-
-1. Install fonts by typing `pacman -S ttf-linux-libertine ttf-inconsolata`
-2. (Maybe not necessary) Set fonts manually in `vim ~/.config/fontconfig/fonts.conf`
-
