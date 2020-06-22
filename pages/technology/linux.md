@@ -2,8 +2,7 @@
 
 ## Installing Arch Linux
 
-- [Arch Linux Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [Luke Smith Full Arch Linux Install](https://www.youtube.com/watch?v=4PBqpX0_UOc)
+[Arch Linux Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide)
 
  1. **Boot Arch USB**
     - Download `archlinux-YYYY.MM.DD-x86_64.iso` from [Arch Linux Downloads](https://www.archlinux.org/download/)
@@ -100,34 +99,34 @@
 17. **Login**
     - Start up the computer and log in to root
 
-## Additional Packages
+## Luke Smith
 
-- <https://lukesmith.xyz/programs>
-- [LukeSmithxyz/LARBS/progs.csv](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv)
+[Luke Smith](https://lukesmith.xyz/programs) is the based innawoods unaboomer who taught me how to be less of a cringe normie.
 
 ## Adding Users
 
-- [Arch Wiki Users and Groups](https://wiki.archlinux.org/index.php/users_and_groups)
+[Users and Groups](https://wiki.archlinux.org/index.php/users_and_groups) are used on GNU/Linux for access control to system files, directories, and peripherals.
 
-1. Add a user by typing `useradd -m -g wheel [username]`
-2. Add a password by typing `passwd [username]`
-3. Give your user sudo access by editing `/etc/sudoers`
+1. Ensure you are root
+2. Type `useradd -m [username]` to add a user
+3. Type `passwd [username]` to add a password
+4. Type `export EDITOR=vim` to set vim as the visudo editor
+5. Type `visudo` to properly edit `/etc/sudoers`
+6. Under `User privilege specification` type `[username] All=(All) All`
+7. Type `reboot` to restart computer
+8. Login as the user
+9. Type `sudo ls` to test if user has sudo access
 
 ## Man
 
-Lets you read man pages of packages.
+[Man](https://wiki.archlinux.org/index.php/Man_page) lets you read package manuals.
 
-- [ArchWiki man page](https://wiki.archlinux.org/index.php/Man_page)
-- Type `pacman -S man-db` to install
-- Type `man [package]` to view the package's manual
+1. Type `sudo pacman -S man-db` to install
+2. Type `man [package]` to view the package's manual
 
 ## Pacman
 
-Package management utility that tracks installed packages.
-
-- [ArchWiki pacman](https://wiki.archlinux.org/index.php/pacman)
-- [Using Pacman on Arch Linux](https://www.youtube.com/watch?v=-dEuXTMzRKs)
-- pacman should already be installed through the base package
+[Pacman](https://wiki.archlinux.org/index.php/pacman)Package is a package management utility that tracks installed packages.  It should already be installed through the base package.
 
 | Command               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
@@ -150,8 +149,34 @@ Package management utility that tracks installed packages.
 | `pacman -Ss`          | search remote repository for package                                        |
 | `pacman -Qs`          | search local repository for package                                         |
 
+## Git
+
+[Git](https://wiki.archlinux.org/index.php/git) is the version control system (VCS) designed and developed by Linus Torvalds, the creator of the Linux kernel.
+
+1. Type `sudo pacman -S git` to install git
+2. Type `mkdir ~/.config/git` to create a git config directory
+3. Type `git config --global user.name John Doe`
+4. Type `git config --global user.email johndoe@example.com`
+5. Type `git config --list` to check the user git settings
+6. Type `git clone https://github.com/ddigiorg/notes.git` to clone the notes repo as a test
+
 ## Xorg
 
+[Xorg](https://wiki.archlinux.org/index.php/Xorg) (commonly referred as simply X) is the most popular display server among Linux users.
+
+1. Type `sudo pacman -S xorg-server xorg-xinit xterm` to install X, xinit, and xterm
+2. Type `lspci | grep -e VGA -e 3D` to identify the graphics card
+3. Type `sudo pacman -Ss xf86-video` to search the remote package database for a list of open-source video drivers
+4. Type `sudo pacman -S [driver package]` to install the driver (My ThinkPad x220 uses `xf86-video-intel`)
+5. Type `startx` to test
+6. Type `exit` in left terminal to exit
+
+## DWM
+
+[DWM](https://dwm.suckless.org/) is a dynamic window manager for X.
+
+- 
+- [Literally stop using i3-gaps & use Suckless dwm rn](https://www.youtube.com/watch?v=B5r47Q1cn_o)
 
 
 
@@ -159,17 +184,6 @@ Package management utility that tracks installed packages.
 
 
 
-## Window Manager
-
-- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
-
-1. Install xorg packages: `pacman -S xorg-server xorg-xinit`
-2. Install i3-gaps and other related useful packages: `pacman -S i3-gaps i3status rxvt-unicode dmenu network-manager-applet`
-3. In `~/.xinitrc` put `exec i3`
-4. (If using VirtualBox) in `~/.config/i3/config` put `exec VBoxClient-all`
-5. Type `reboot`
-6. Login and type `startx`
-7. Open terminal with `Mod+ENTER`
 
 ## Fonts
 
