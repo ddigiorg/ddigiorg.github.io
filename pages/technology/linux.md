@@ -99,9 +99,40 @@
 17. **Login**
     - Start up the computer and log in to root
 
+## The Filesystem Hierarchy Standard (FHS)
+
+The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) (FHS) defines the directory structure and directory contents in Linux distributions.
+
+| Directory     | Description                                                                                                    |
+|---------------|----------------------------------------------------------------------------------------------------------------|
+| `/`           | Root directory of entire filesystem hierarchy.                                                                 |
+| `/bin`        | Essential command binaries that need to be available in single user mode; for all users, e.g., cat, ls, cp.    |
+| `/boot`       | Boot loader files, e.g., kernels, initrd.                                                                      |
+| `/dev`        | Device files.                                                                                                  |
+| `/etc`        | Host-specific system-wide configuration files.                                                                 |
+| `/home`       | Users' home directories, containing saved files, personal settings, etc.                                       |
+| `/lib`        | Libraries essential for the binaries in `/bin` and `/sbin`.                                                    |
+| `/lib64`      | Alternative format essential libraries.                                                                        |
+| `/lost+found` | Orphaned or corrupted files are places here.                                                                   |
+| `/mnt`        | Temporarily mounted filesystems.                                                                               |
+| `/opt`        | Optional application software packages.                                                                        |
+| `/proc`       | Virtual filesystem providing process and kernel information as files.                                          |
+| `/root`       | Home directory for the root user.                                                                              |
+| `/run`        | Run-time variable data.                                                                                        |
+| `/sbin`       | Essential system binaries, e.g., fsck, init, route.                                                            |
+| `/srv`        | Site-specific data served by this system.                                                                      |
+| `/sys`        | Contains information about devices, drivers, and some kernel features.                                         |
+| `/temp`       | Temporary files.                                                                                               |
+| `/usr`        | Secondary hierarchy for read-only user data; contains the majority of (multi-)user utilities and applications. |
+| `/var`        | Variable files—files whose content is expected to continually change during normal operation of the system.    |
+
 ## Luke Smith
 
-[Luke Smith](https://lukesmith.xyz/programs) is the based innawoods unaboomer who taught me how to be less of a cringe normie.
+[Luke Smith](https://lukesmith.xyz) is the based innawoods unaboomer who taught me how to be less of a cringe normie.
+
+- [LARBS](https://github.com/lukesmithxyz/larbs)
+- [dotfiles](https://github.com/lukesmithxyz/voidrice)
+- [A Friendly Guide to LARBS](https://larbs.xyz/dwm.pdf)
 
 ## Adding Users
 
@@ -126,7 +157,7 @@
 
 ## Pacman
 
-[Pacman](https://wiki.archlinux.org/index.php/pacman)Package is a package management utility that tracks installed packages.  It should already be installed through the base package.
+[Pacman](https://wiki.archlinux.org/index.php/pacman) is a package management utility that tracks installed packages.  It should already be installed through the base package.
 
 | Command               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
@@ -149,6 +180,15 @@
 | `pacman -Ss`          | search remote repository for package                                        |
 | `pacman -Qs`          | search local repository for package                                         |
 
+## Yay
+
+[Yay](https://github.com/Jguer/yay) or Yet Another Yogurt isa n AUR Helper Written in Go.
+
+1. Type `git clone https://aur.archlinux.org/yay.git` to clone the yay repo
+2. Type `cd yay`
+3. Type `makepkg -si`
+4. Type `yay --version` to verify install
+
 ## Git
 
 [Git](https://wiki.archlinux.org/index.php/git) is the version control system (VCS) designed and developed by Linus Torvalds, the creator of the Linux kernel.
@@ -160,6 +200,13 @@
 5. Type `git config --list` to check the user git settings
 6. Type `git clone https://github.com/ddigiorg/notes.git` to clone the notes repo as a test
 
+## Make
+
+[Make](https://en.wikipedia.org/wiki/Make_(software)) is a build automation tool that automatically builds executable programs and libraries from source code by reading files called Makefiles which specify how to derive the target program.
+
+1. Type `sudo pacman -S make` to install make
+2. Type `make --version` to verify installation
+
 ## Xorg
 
 [Xorg](https://wiki.archlinux.org/index.php/Xorg) (commonly referred as simply X) is the most popular display server among Linux users.
@@ -170,27 +217,48 @@
 4. Type `sudo pacman -S [driver package]` to install the driver (My ThinkPad x220 uses `xf86-video-intel`)
 5. Type `startx` to test
 6. Type `exit` in left terminal to exit
+7. Type `cp etc/X11/xinit/xinitrc .xinitrc` to copy root xinit config file to user
+
+- `.config/Xresources`
+- `!xrdb .config/Xresources`
+
+## Fonts
+
+1. Type `pacman -S ttf-linux-libertine ttf-liberation` to install these fonts
+2. Type `vim ~/.config/fontconfig/fonts.conf` and add:
+    ```
+    
+    ```
+
+## Brave
+
+[Brave](https://brave.com/) is a web browser that blcoks ads and trackers by default.
+
+1. Type `yay -S brave-bin` to install brave
+2. Type `brave --version` to verify install
+3. Type `brave` to launch brave
 
 ## DWM
 
 [DWM](https://dwm.suckless.org/) is a dynamic window manager for X.
 
-- 
-- [Literally stop using i3-gaps & use Suckless dwm rn](https://www.youtube.com/watch?v=B5r47Q1cn_o)
+1. Type `git clone https://git.suckless.org/dwm` to clone the dwm repo
+2. Type `sudo vim config.mk` and set:
+    ```
+    X11INC = /usr/include/X11
+    X11LIB = /usr/lib/X11
+    ```
+3. Type `sudo make clean install` to install dwm
+4. In `~/.xinitrc` add `exec dwm`
 
+## ST
 
+[ST](https://st.suckless.org/) is a simple terminal implementation for X.
 
+1. Type `git clone https://git.suckless.org/st` to clone st repo
+2. Type `sudo make clean install` to install st
 
-
-
-
-
-## Fonts
-
-- [After a Minimal Linux](https://www.youtube.com/watch?v=nSHOb8YU9Gw)
-
-1. Install fonts by typing `pacman -S ttf-linux-libertine ttf-inconsolata`
-2. (Maybe not necessary) Set fonts manually in `vim ~/.config/fontconfig/fonts.conf`
+- Default keybinding for opening up terminal is `Alt+Shift+Enter`
 
 ## Installing VirtualBox for Windows Virtual Machines
 
