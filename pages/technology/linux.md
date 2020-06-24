@@ -126,6 +126,42 @@ The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hie
 | `/usr`        | Secondary hierarchy for read-only user data; contains the majority of (multi-)user utilities and applications. |
 | `/var`        | Variable files—files whose content is expected to continually change during normal operation of the system.    |
 
+## Core Utilities
+
+The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are the basic, fundamental tools of a GNU/Linux system.
+
+| Utility  | Description                              |
+|----------|------------------------------------------|
+| `cd`     | change directory                         |
+| `ls`     | list directory                           |
+| `cat`    | concatenate files to stdout              |
+| `mkdir`  | make directory                           |
+| `rmdir`  | remove empty directory                   |
+| `rm`     | remove files or directories              |
+| `cp`     | copy files or directories                |
+| `mv`     | move files or directories                |
+| `ln`     | make hard or symbolic links              |
+| `chown`  | change file owner and group              |
+| `chmod`  | change file permissions                  |
+| `dd`     | convert and copy a file                  |
+| `df`     | report file system disk space usage      |
+| `tar`    | tar archiver                             |
+| `less`   | terminal pager                           |
+| `find`   | search files or directories              |
+| `diff`   | print lines matching a pattern           |
+| `grep`   | print lines matching a pattern           |
+| `sed`    | stream editor                            |
+| `awk`    | pattern scanning and processing language |
+| `dmesg`  | print or control the kernel ring buffer  |
+| `lsblk`  | list block devices                       |
+| `mount`  | mount a filesystem                       |
+| `umount` | unmount a filesystem                     |
+| `su`     | subsitute user                           |
+| `kill`   | terminate a process                      |
+| `pgrep`  | look up processes by name or attributes  |
+| `ps`     | show information about processes         |
+| `free`   | display amount of free and used memory   |
+
 ## Luke Smith
 
 [Luke Smith](https://lukesmith.xyz) is the based innawoods unaboomer who taught me how to be less of a cringe normie.
@@ -225,10 +261,6 @@ The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hie
 ## Fonts
 
 1. Type `pacman -S ttf-linux-libertine ttf-liberation` to install these fonts
-2. Type `vim ~/.config/fontconfig/fonts.conf` and add:
-    ```
-    
-    ```
 
 ## Brave
 
@@ -242,23 +274,34 @@ The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hie
 
 [DWM](https://dwm.suckless.org/) is a dynamic window manager for X.
 
-1. Type `git clone https://git.suckless.org/dwm` to clone the dwm repo
-2. Type `sudo vim config.mk` and set:
+1. Type `cd ~/.local/src` to navigate to the appropriate directory
+2. Type `git clone https://git.suckless.org/dwm` to clone the dwm repo
+3. Type `sudo vim config.mk` and set:
     ```
     X11INC = /usr/include/X11
     X11LIB = /usr/lib/X11
     ```
-3. Type `sudo make clean install` to install dwm
-4. In `~/.xinitrc` add `exec dwm`
+4. Type `sudo make clean install` to install dwm
+5. In `~/.xinitrc` add `exec dwm`
 
 ## ST
 
 [ST](https://st.suckless.org/) is a simple terminal implementation for X.
 
-1. Type `git clone https://git.suckless.org/st` to clone st repo
-2. Type `sudo make clean install` to install st
+1. Type `cd ~/.local/src` to navigate to the appropriate directory
+2. Type `git clone https://git.suckless.org/st` to clone st repo
+3. Type `sudo make clean install` to install st
 
 - Default keybinding for opening up terminal is `Alt+Shift+Enter`
+
+## SXHKD
+
+[SXHKD](https://wiki.archlinux.org/index.php/Sxhkd) is a simple X hotkey daemon that reacts to input events by executing commands.
+
+1. Type `sudo pacman -S sxhkd` to install sxhkd
+2. Type `vim ~/.config/sxhkd/sxhkdrc` to edit the config file
+3. In `~/.xinitrc` put `export XDG_CONFIG_HOME="$HOME/.config"` and `sxhkd &`
+3. Type `systemctl --user restart sxhkd` to reload the user's sxhkd service
 
 ## Installing VirtualBox for Windows Virtual Machines
 
