@@ -15,6 +15,7 @@
 - [Nvidia Drivers](https://www.nvidia.com/Download/index.aspx)
 - [Brave Browser](https://brave.com/)
 - [NotePad++](https://notepad-plus-plus.org/downloads/)
+- [Markdown++](https://github.com/Edditoria/markdown-plus-plus)
 - [CMake](https://cmake.org/download/)
 - [Git](https://git-scm.com/downloads)
 - [Python3](https://www.python.org/downloads/) (make sure the installer is python-x.x.x-amd64.exe)
