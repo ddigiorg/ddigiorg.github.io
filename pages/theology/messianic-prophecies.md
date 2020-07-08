@@ -261,3 +261,7 @@ We are told that Jesus died on a tree. One virgin eats fruit from a forbidden tr
 
 Death came into the world in a garden. The destruction of death came into the world in a garden. Also note in John 20 a woman,  Mary Magdalen, discovers Jesus and she sees 2 angels. This is a connection with the cherubim of Genesis 3!
 
+https://www.youtube.com/watch?v=pfZdqIDmsCE
+
+https://www.biblegateway.com/
+https://biblehub.com/

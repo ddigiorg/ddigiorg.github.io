@@ -40,7 +40,7 @@
 - [ ] The New World Order, H.G. Wells
 - [ ] The Open Conspiracy, HG Wells
 - [ ] Man Unfolding, Dr. Jonas Salk
-- [ ] Survival of the Wisest, Dr. Jonas Salk
+- [x] Survival of the Wisest, Dr. Jonas Salk
 - [ ] Brief History of the Future, Jacques Attali
 - [ ] The Pentagon's Brain, Annie Jacobsen
 - [ ] How the CIA Weaponizing Anthropology, David Price
@@ -61,7 +61,6 @@
 - [ ] The Perennial Philosophy, Aldous Huxley
 - [ ] Weaponizing Anthropology, David Price
 - [ ] The Turning Point, Frjitof Capra
-
 - [ ] Rand Corporation, Alex Abella
 - [ ] Operation Mind Control, Walter Bowart
 - [ ] Ghost in the Machine, Arthur Koestler
@@ -71,7 +70,7 @@
 - [ ] Devil's Game (American Empire Project), Robert Dreyfuss
 - [ ] Secret Affairs, Mark Curtis
 - [ ] Search for the Manchurian Candidate, John Marks
-
+- [ ] Propaganda, Edward Bernays
 
 ## Philosophy
 
@@ -83,4 +82,4 @@
 
 ## Primitive Technology
 
-- [ ] Primitive Technology, John Plant
+- [x] Primitive Technology, John Plant
