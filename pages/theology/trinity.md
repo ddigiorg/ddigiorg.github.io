@@ -238,7 +238,7 @@ This is a reference to Christ. David is given these things in material history b
 - Isaiah 9:6-7 NKJV
 ```
 
-This is a messianic prophecy about Christ: the eternal Divine person, Angel of the Lord, messenger of the covenant, identical in power and glory to the Ancient of Days.
+This is a messianic prophecy about Christ: the eternal Divine person, Angel of the Lord, messenger of the covenant, identical in power and glory to the Ancient of Days. Notice "his name will be called **Wonderful**" just like in Judges 13:18 when speaking to Manoah.
 
 ```
 1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was in the beginning with God. 3 All things were made through Him, and without Him nothing was made that was made. 4 In Him was life, and the life was the light of men. 5 And the light shines in the darkness, and the darkness did not comprehend it.
@@ -254,14 +254,23 @@ This is a recapitulation of Genesis 1, the first creation. John is speaking here
 
 Exactly what we've seen in the Old Testament.
 
+CHECK OUT ZACHARAIAH IN MY ORTHODOX STUDY BIBLE: HAS TRINITY
+
+```
+1 In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. 2 Above it stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew. 3 And one cried to another and said:
+
+“Holy, holy, holy is the Lord of hosts;
+The whole earth is full of His glory!”
+- Isaiah 6:1-3 NKJV
+```
+
+Notice here Isaiah **sees** the Lord, didn't die, and is sitting on a throne.
 
 
-
-STOPPED AT 1:16:30
-
+STOPPED at 1:42:00
 
 
-# Links
+## Links
 
 - <https://www.youtube.com/watch?v=y_uBaARATqs>
 
