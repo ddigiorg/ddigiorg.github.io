@@ -266,6 +266,43 @@ The whole earth is full of His glory!”
 
 Notice here Isaiah **sees** the Lord, didn't die, and is sitting on a throne.
 
+```
+11 Then the Angel of God spoke to me in a dream, saying, ‘Jacob.’ And I said, ‘Here I am.’ 12 And He said, ‘Lift your eyes now and see, all the rams which leap on the flocks are streaked, speckled, and gray-spotted; for I have seen all that Laban is doing to you. 13 I am the God of Bethel, where you anointed the pillar and where you made a vow to Me. Now arise, get out of this land, and return to the land of your family.’ ”
+- Genesis 31:11-13 NKJV
+```
+
+How can a mere angel say "I am the God of Bethel"?
+
+```
+1 Then God said to Jacob, “Arise, go up to Bethel and dwell there; and make an altar there to God, who appeared to you when you fled from the face of Esau your brother.”
+
+...
+
+7 And he built an altar there and called the place El Bethel, because there God appeared to him when he fled from the face of his brother.
+- Genesis 35:1,7 NKJV
+```
+
+Why is God speaking in the third person here?
+
+NEED TO LOOK INTO HEBREW FURTHER... see <https://www.youtube.com/watch?v=BekFQTFLK4E> at ~30:00
+
+```
+20 “Behold, I send an Angel before you to keep you in the way and to bring you into the place which I have prepared. 21 Beware of Him and obey His voice; do not provoke Him, for He will not pardon your transgressions; for My name is in Him.
+- Exodus 23:20-21 NKJV
+```
+
+This Angel embodies God's name which means the Angel can forgive sins. Is there someone other than God who forgives and removes sins?
+
+```
+3 Now Joshua was clothed with filthy garments, and was standing before the Angel.
+
+4 Then He answered and spoke to those who stood before Him, saying, “Take away the filthy garments from him.” And to him He said, “See, I have removed your iniquity from you, and I will clothe you with rich robes.”
+- Zachariah 3:3-4 NKJV
+```
+
+This is a vision where Zachariah sees the Angel in heaven remove the sins of Joshua ("I have removed your iniquity") and clothes him with pure garments.
+
+
 
 STOPPED at 1:42:00
 
