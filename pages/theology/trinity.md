@@ -1,16 +1,6 @@
 # Trinity
 
-- **Theophany**: A Divine manifestation in time and space.
-- **Angel**: [malachim](https://biblehub.com/hebrew/malachim_4397.htm). Messenger. Could be a Divine or creature (human or spiritual).
-- It is forbidden to worship creatures (see 10 commandments), but clearly the Theophanies are worshiped.
-- **Doctrine of Perichoresis**: Perichoresis is the Greek word for indwelling. Each of the 3 Persons of God are distinct and indwelling one another. Even though the persons are distinct and share the same nature, they also indwell one another.
-
-```
-And the Spirit of God was hovering over the face of the waters.
-- Genesis 1:2 NKJV
-```
-
-Holy Spirit is present at the creation of the world.
+One eternal God in 3 persons and relationships.  Each person is distinct but also in perfect communion with one another.
 
 ```
 26 Then God said, “Let Us make man in Our image, according to Our likeness...
@@ -304,13 +294,20 @@ This is a vision where Zachariah sees the Angel in heaven remove the sins of Jos
 
 
 
-STOPPED at 1:42:00
+STOPPED at 1:42:00 <https://www.youtube.com/watch?v=y_uBaARATqs>
 
 
 ## Links
 
 - <https://www.youtube.com/watch?v=y_uBaARATqs>
+- <https://www.youtube.com/watch?v=ynJMiJuzUNc>
 
 Other notes:
 
 - If God is an absolutely simple(all attributes are one, no parts, etc), invisible, spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1] (throw this in ADS vs EE section)
+
+
+- **Theophany**: A Divine manifestation in time and space.
+- **Angel**: [malachim](https://biblehub.com/hebrew/malachim_4397.htm). Messenger. Could be a Divine or creature (human or spiritual).
+- It is forbidden to worship creatures (see 10 commandments), but clearly the Theophanies are worshiped.
+- **Doctrine of Perichoresis**: Perichoresis is the Greek word for indwelling. Each of the 3 Persons of God are distinct and indwelling one another. Even though the persons are distinct and share the same nature, they also indwell one another.
