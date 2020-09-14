@@ -23,10 +23,9 @@
 - [ ] Ultimate Proof of Creation, Dr Jason Lisle
 - [ ] Darwin's God: Evolution and the Problem of Evil, Cornelius Hunter
 
-
 ## Science
 
-- [ ] The Mind of God, Paul Davies
+- [x] The Mind of God, Paul Davies
 
 ## Globalism Books
 

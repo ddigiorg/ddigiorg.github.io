@@ -32,3 +32,7 @@
 - Under `This PC` right click and select `Add a network location`
 - Enter `\\192.168.1.120\data_master`
 - Username is `admin`
+
+## References
+
+- [Install Gentoo Wiki - Windows 10](https://wiki.installgentoo.com/wiki/Windows_10)

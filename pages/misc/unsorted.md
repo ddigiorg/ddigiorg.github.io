@@ -1,47 +1,5 @@
 # Unsorted Notes
 
-[https://pastebin.com/1yqZ5THg](https://pastebin.com/1yqZ5THg "https://pastebin.com/1yqZ5THg")
-
-[https://www.amazon.com/Darwins-Doubt-Explosive-Origin-Intelligent/dp/0062071483](https://www.amazon.com/Darwins-Doubt-Explosive-Origin-Intelligent/dp/0062071483 "https://www.amazon.com/Darwins-Doubt-Explosive-Origin-Intelligent/dp/0062071483")
-
-[https://m.youtube.com/watch?v=ZD_3_gsgsnk](https://m.youtube.com/watch?v=ZD_3_gsgsnk "https://m.youtube.com/watch?v=ZD_3_gsgsnk")
-
-[http://archive.is/ud0OL](http://archive.is/ud0OL "http://archive.is/ud0OL")
-
-[http://www.igibud.com/petron/satyr/satyr01.html](http://www.igibud.com/petron/satyr/satyr01.html "http://www.igibud.com/petron/satyr/satyr01.html")
-
-[https://www.cdapress.com/archive/article-e294e430-9e29-11e6-abd5-9f4bbdfbe1a3.html](https://www.cdapress.com/archive/article-e294e430-9e29-11e6-abd5-9f4bbdfbe1a3.html "https://www.cdapress.com/archive/article-e294e430-9e29-11e6-abd5-9f4bbdfbe1a3.html")
-
-shelby cobra 2014
-
-[https://www.rt.com/usa/467836-darpa-deepfakes-disinfo-malicious-dissent/](https://www.rt.com/usa/467836-darpa-deepfakes-disinfo-malicious-dissent/ "https://www.rt.com/usa/467836-darpa-deepfakes-disinfo-malicious-dissent/")
-
-[https://pastebin.com/R59gRsPM](https://pastebin.com/R59gRsPM "https://pastebin.com/R59gRsPM")
-
-[https://en.m.wikipedia.org/wiki/Nootropic](https://en.m.wikipedia.org/wiki/Nootropic "https://en.m.wikipedia.org/wiki/Nootropic")
-
-[https://www.bbc.com/news/science-environment-39054778](https://www.bbc.com/news/science-environment-39054778 "https://www.bbc.com/news/science-environment-39054778")
-
-[https://www.washingtonpost.com/world/africa/an-african-country-reckons-with-its-history-of-selling-slaves/2018/01/29/5234f5aa-ff9a-11e7-86b9-8908743c79dd_story.html](https://www.washingtonpost.com/world/africa/an-african-country-reckons-with-its-history-of-selling-slaves/2018/01/29/5234f5aa-ff9a-11e7-86b9-8908743c79dd_story.html "https://www.washingtonpost.com/world/africa/an-african-country-reckons-with-its-history-of-selling-slaves/2018/01/29/5234f5aa-ff9a-11e7-86b9-8908743c79dd_story.html")
-
-[https://m.youtube.com/watch?v=ayrZP8O4sf4](https://m.youtube.com/watch?v=ayrZP8O4sf4 "https://m.youtube.com/watch?v=ayrZP8O4sf4")
-
-[https://m.youtube.com/playlist?list=PLYmIBQRIOqKlcj21QqqR6b91UcU7Bj-Ah](https://m.youtube.com/playlist?list=PLYmIBQRIOqKlcj21QqqR6b91UcU7Bj-Ah "https://m.youtube.com/playlist?list=PLYmIBQRIOqKlcj21QqqR6b91UcU7Bj-Ah")
-
-[https://www.amazon.com/John-Courtney-Murray-American-Proposition/dp/0929891155](https://www.amazon.com/John-Courtney-Murray-American-Proposition/dp/0929891155 "https://www.amazon.com/John-Courtney-Murray-American-Proposition/dp/0929891155")
-
-[https://m.youtube.com/watch?v=r4sP1E1Jd_Y](https://m.youtube.com/watch?v=r4sP1E1Jd_Y "https://m.youtube.com/watch?v=r4sP1E1Jd_Y")
-
-[https://wiki.installgentoo.com/wiki/Windows_10](https://wiki.installgentoo.com/wiki/Windows_10 "https://wiki.installgentoo.com/wiki/Windows_10")
-
-[https://archive.md/zK93U](https://archive.md/zK93U "https://archive.md/zK93U")
-
-[https://archive.md/n4UfW](https://archive.md/n4UfW "https://archive.md/n4UfW")
-
-- NOTE: ask dyer discord about differences between coherentism and foundationalism, specifically in the case where God is the ultimate authority of transcendentals but not in the foundationalist sense... how?
-  - Jay answers at 43:00 in this vid [https://www.youtube.com/watch?v=bRCmZhWdyDE&feature=youtu.be](https://www.youtube.com/watch?v=bRCmZhWdyDE&feature=youtu.be)
-- [https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY](https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY "https://strangenotions.com/gods-philosophers/?fbclid=IwAR0U_FhsvTxnsHQyyNtgzcG4C3SyuEBl-oKIHF8a1CQE_NRYRXsbetorhfY")
-
 ### Creation vs Evolution
 
 - make this page
@@ -49,16 +7,6 @@ shelby cobra 2014
 - Ultimate Proof, Dr. Jason Lisle
 - Darwin's God: Evolution and the Problem of Evil, Cornelius Hunter
 - Genesis, Creation, Early Man, Fr. Seripham Rose
-
-### Aesthetics
-
-- Hair
-  - [https://www.thestandardbarbershop.com/](https://www.thestandardbarbershop.com/)
-- Heavy Stubble
-  - [https://www.reddit.com/r/AskMen/comments/9zgvel/men_who_have_the_stubble_look_what_do_you_use_to/](https://www.reddit.com/r/AskMen/comments/9zgvel/men_who_have_the_stubble_look_what_do_you_use_to/)
-  - Conair iStubble
-- beard
-  - [https://www.youtube.com/watch?v=OdvgHaqrEWc](https://www.youtube.com/watch?v=OdvgHaqrEWc)
 
 ### For Website
 
@@ -122,17 +70,10 @@ shelby cobra 2014
 - https://www.nytimes.com/1977/07/21/archives/cia-data-show-14year-project-on-controlling-human-behavior-data.html
 - https://www.economist.com/science-and-technology/2018/06/23/some-science-journals-that-claim-to-peer-review-papers-do-not-do-so
 
-### Politics
-
-- https://thinkrealty.com/generational-housing-bubble-forming/
 
 ### Psychedelics
 
 - https://mobile.twitter.com/owenbroadcast/status/1096758520467333120
-
-### Primitive Tech
-
-- https://www.youtube.com/watch?v=STFeW0cbB7c
 
 ### Gardening
 
@@ -181,13 +122,6 @@ shelby cobra 2014
 
 - https://michaelbluejay.com/house/basics.html
 
-### Words
-
-
-
-### Todo
-
-- watch Gundam Thunderbolt
 
 ## Is Darwinism Collapsing?
 
