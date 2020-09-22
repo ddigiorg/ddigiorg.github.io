@@ -1,13 +1,14 @@
 # Transcendentals
 
-- Transcendentals are concepts that MUST exist for even the possibility of humans to exist and to have knowledge.
-- Transcendental can NOT be emperically proven.  In other words, they can not be seen in a microscope.
-- Emperical investigation is PRESUPPOSED BY transcendentals.
+Transcendant objects, or "transcendentals", are immaterial, invariant, universal, and interrelated concepts that must exist for the possibility of knowledge or predication.
+
 - The deniel of these preconditions leads to absurdity (fundamentally the destruction of even having knowledge or arguements).
-- Transcendentals are often used unintentionally to try to disprove transcendentals, which is self refuting.
+- Transcendentals are often used unintentionally to try to disprove transcendentals, which is an inherently self refuting argument.
+- Emperical investigation is presupposed by transcendentals.
+- Transcendental can not be emperically proven.  In other words, they can not be seen in a microscope.
 - Human experience of the world can not be reduced to a single transcendental ("Oneness" or "the monad").  Human experience requires ALL transcendentals that RELATE to one another and work together.
 
-## Example Transcendentals
+## Examples
 
 - **Space**: Space is a mathematical relationship between two concepts or phenomena.  It is presupposed in human worldviews because we are beings that experience things in in relation to one another.  For example, we may sense a ball (matter-energy) is some distance (relationship) from another ball (matter-energy).  Space can not be emperically verified because our senses only detect matter/energy.  Can you reach out and touch space?
 - **Time**: Time is another mathematical relationship between two concepts of phenomena, often used to denote change in matter/energy, although time can still progress even if matter/energy does not change.  Time is presupposed in human worldviews because we are beings that experience things from beginning to middle to end, although emperically we can only experience things in the ever-present now.  No one experiences things in reverse and even jumbled memories/thought-patterns are still experienced from one -> another -> another.

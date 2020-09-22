@@ -22,6 +22,7 @@
 
 ## Read (learning)
 
+- Orthodox Christian Discord > debate > September 14, 2020 3:57 AM onward
 - [Beginner's Health and Fitness Guide](http://liamrosen.com/fitness.html)
 - [MEGA of useful pdfs](https://mega.nz/folder/F5gWSC5Z#EBSiSty3JW9-uJ6BKGpIVw)
 - [Bill Mollison - PERMACULTURE A Designers Manual](https://drive.google.com/file/d/0Bw7yk9jZkHgHV1VwZ2Q4dGNxSW8/view)
