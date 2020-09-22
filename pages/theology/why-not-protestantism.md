@@ -1,4 +1,4 @@
-# Why Not Protestantism?
+# Why Not Protestantism
 
 Remember, we cant divorce Christianity from its history so we have to look at the traditions and teachings of the Church in the first millennia to see the true Church.
 

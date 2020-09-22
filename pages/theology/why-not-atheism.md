@@ -1,4 +1,4 @@
-# Why Not Atheism?
+# Why Not Atheism
 
 ## Transcendental Argument
 
