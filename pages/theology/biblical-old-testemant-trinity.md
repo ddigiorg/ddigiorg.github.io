@@ -1,6 +1,13 @@
-# Trinity
+# Biblical Old Testament Trinity
 
-One eternal God in 3 persons and relationships.  Each person is distinct but also in perfect communion with one another.
+- **Trinity**: One eternal God in 3 persons and relationships.  Each person is distinct but also in perfect communion with one another.
+- **Doctrine of Perichoresis**: Perichoresis is the Greek word for indwelling. Each of the 3 Persons of God are distinct and indwelling one another. Even though the persons are distinct and share the same nature, they also indwell one another.
+- **Theophany**: a Divine manifestation of God in time and space.
+- **Angel**: [malachim](https://biblehub.com/hebrew/malachim_4397.htm). Messenger. Could be a Divine or creature (human or spiritual).
+- It is forbidden to worship creatures (see 10 commandments), but clearly the Theophanies are worshiped.
+- You can not see God's essense lest you be destroyed.  Many old testemant people were afraid of seeing God because of this.
+
+## Genesis 1
 
 ```
 26 Then God said, “Let Us make man in Our image, according to Our likeness...
@@ -11,12 +18,16 @@ One eternal God in 3 persons and relationships.  Each person is distinct but als
 - [betzalmenu](https://biblehub.com/hebrew/betzalmenu_6754.htm): in Our image
 - [kidmutenu](https://biblehub.com/hebrew/kidmutenu_1823.htm): according to Our likeness
 
+## Theophany: God walks in the garden
+
 ```
 8 And they heard the sound of the Lord God walking in the garden in the cool of the day, and Adam and his wife hid themselves from the presence of the Lord God among the trees of the garden.
 - Genesis 3:8 NKJV
 ```
 
 This is one of the first Theophanies that is explicit in scripture. Although we don't know what the metaphysical experience of Eden was like, but we know Adam and Eve existed as beings created by God and had a direct relationship with God. They saw this manifestation of God and interacted with Him.
+
+## Theophany: The Angel of the Lord and Hagar
 
 ```
 10 Then the Angel of the Lord said to her, “I will multiply your descendants exceedingly, so that they shall not be counted for multitude.”
@@ -28,12 +39,16 @@ This is one of the first Theophanies that is explicit in scripture. Although we 
 
 This Angel of the Lord interacts with Hagar and is identified here as God.
 
+## Theophany: The Angel of the Lord and Abraham
+
 ```
 18 Then the Lord appeared to him by the terebinth trees of Mamre, as he was sitting in the tent door in the heat of the day. 2 So he lifted his eyes and looked, and behold, three men were standing by him; and when he saw them, he ran from the tent door to meet them, and bowed himself to the ground, 3 and said, “My Lord, if I have now found favor in Your sight, do not pass on by Your servant.
 - Genesis 18:1-3 NKJV
 ```
 
 In Genesis 18 and 19 The Lord appears with two angels within time and space and Abraham eats with God.
+
+## Theophany: The Burning Bush
 
 ```
 5 Then He said, “Do not draw near this place. Take your sandals off your feet, for the place where you stand is holy ground.”
@@ -45,12 +60,16 @@ In Genesis 18 and 19 The Lord appears with two angels within time and space and 
 
 Moses takes off his shoes because he's on holy ground and meets "I AM WHO AM", the God of Abraham, Isaac, and Jacob: Yahweh.
 
+## Theophany: God (Father) Sends His Angel (Son)
+
 ```
 20 “Behold, I send an Angel before you to keep you in the way and to bring you into the place which I have prepared. 21 Beware of Him and obey His voice; do not provoke Him, for He will not pardon your transgressions; for My name is in Him.
-- Genesis 23:20-21 NKJV
+- Exodus 23:20-21 NKJV
 ```
 
-Two persons are present here. Is the name of God, Yahweh, the eternally existing One, in a creature? No. This Angel of the Lord is the same Angel that's present in Exodus 3:14.
+Two persons are present here. Is the name of God, Yahweh, the eternally existing One, in a creature? No. This Angel of the Lord is the same Angel that's present all over the Old Testemant.
+
+## Theophany: Moses Sees God's Goodness
 
 ```
 18 And he said, “Please, show me Your glory.”
@@ -61,21 +80,7 @@ Two persons are present here. Is the name of God, Yahweh, the eternally existing
 
 In Exodus 33 Moses asks to see God's face. Notice that God says Moses cannot see His face, His glory, and live. However God shows Moses a **different attribute**, His **goodness**. St. Paul explains this text in 2 Corinthians 3 (written 55-56 AD). He said if Moses saw God and still had to veil his face, then it's more powerful with us that we see Christ face-to-face, our God. Arianism is dumb lol.
 
-```
-15 “Take careful heed to yourselves, for you saw no form when the Lord spoke to you at Horeb out of the midst of the fire, 16 lest you act corruptly and make for yourselves a carved image in the form of any figure: the likeness of male or female, 17 the likeness of any animal that is on the earth or the likeness of any winged bird that flies in the air, 18 the likeness of anything that creeps on the ground or the likeness of any fish that is in the water beneath the earth. 19 And take heed, lest you lift your eyes to heaven, and when you see the sun, the moon, and the stars, all the host of heaven, you feel driven to worship them and serve them, which the Lord your God has given to all the peoples under the whole heaven as a heritage.
-- Deuteronomy 4:15-19 NKJV
-```
-
-This is the root of the 10 commandments: that you can't worship creatures and attribute divinity to any created being. Creatures can not become God. Note: icons are not a representation of the Divine Nature, they represent the incarnate Christ.
-
-```
-8 Now I, John, saw and heard these things. And when I heard and saw, I fell down to worship before the feet of the angel who showed me these things.
-
-9 Then he said to me, “See that you do not do that. For I am your fellow servant, and of your brethren the prophets, and of those who keep the words of this book. Worship God.”
-- Revelation 22:8-9
-```
-
-This angel rebukes John for worshipping him and reminds him to only worship God. Again, you can not worship creatures.
+## Theophany: Commander of the Lord's Army
 
 ```
 13 And it came to pass, when Joshua was by Jericho, that he lifted his eyes and looked, and behold, a Man stood opposite him with His sword drawn in His hand. And Joshua went to Him and said to Him, “Are You for us or for our adversaries?”
@@ -89,6 +94,9 @@ And Joshua fell on his face to the earth and worshiped, and said to Him, “What
 ```
 
 Here the Commander of the Lord's Army is worshiped. Remember, you can not worship creatures. Notice He tells Joshua to take his shoes off because the place is holy, just like Exodus 3:5 when God spoke to Moses. This is the Son of God.
+
+
+## The Ancient of Days and Son of Man
 
 ```
  9 “I watched till thrones were put in place,
@@ -139,6 +147,8 @@ Ezekiel 1 in totality is pretty based. This cherubim is a living-being chariot a
 
 Notice here another Theophany, a Man that spoke. This person is the glory of the Lord, one like the Son of Man, the Angel of the Lord. When He speaks it's the Word of God.
 
+## Theophany: Angel of the Lord and Manoah
+
 ```
 16 And the Angel of the Lord said to Manoah, “Though you detain Me, I will not eat your food. But if you offer a burnt offering, you must offer it to the Lord.” (For Manoah did not know He was the Angel of the Lord.)
 
@@ -156,22 +166,25 @@ Notice here another Theophany, a Man that spoke. This person is the glory of the
 
 Here Manoah and his wife identify the Angel of the Lord as God who accepted the burnt goat offering. This is a pre-incarnate manifestation of Christ.
 
+## Isaiah Refers to God as Plural
+
 ```
-41 While the Pharisees were gathered together, Jesus asked them, 42 saying, “What do you think about the Christ? Whose Son is He?”
-
-They said to Him, “The Son of David.”
-
-43 He said to them, “How then does David in the Spirit call Him ‘Lord,’ saying:
-
-44 ‘The Lord said to my Lord,
-“Sit at My right hand,
-Till I make Your enemies Your footstool” ’?
-
-45 If David then calls Him ‘Lord,’ how is He his Son?” 46 And no one was able to answer Him a word, nor from that day on did anyone dare question Him anymore.
-- Matthew 22:41-45 NKJV
+5 For your Maker is your husband,
+  The Lord of hosts is His name;
+  And your Redeemer is the Holy One of Israel;
+  He is called the God of the whole earth.
+- Isaiah 54:5 NKJV
 ```
 
-The trinity is present in this section because Jesus is refuting the pharisees by saying "why does David call the messiah Lord?".
+Go to the hebrew interlinear for [Isaiah 54:5](https://biblehub.com/interlinear/isaiah/54-5.htm).  Notice the word "boalayik" meaning "your husband" is a masculine **plural** construct and the word "osayik" meaning "your Maker" is also a masculine **plural** construct.  Here Isaiah by inspiration of the Holy Spirit identifies the Lord of hosts as a **plural** God.  Here the trinity is implied because that's the only reason Isaiah would use a plural particable.
+
+
+
+
+
+
+
+
 
 ```
  1 Why do the nations rage,
@@ -293,21 +306,10 @@ This Angel embodies God's name which means the Angel can forgive sins. Is there 
 This is a vision where Zachariah sees the Angel in heaven remove the sins of Joshua ("I have removed your iniquity") and clothes him with pure garments.
 
 
-
 STOPPED at 1:42:00 <https://www.youtube.com/watch?v=y_uBaARATqs>
 
 
-## Links
 
-- <https://www.youtube.com/watch?v=y_uBaARATqs>
-- <https://www.youtube.com/watch?v=ynJMiJuzUNc>
+## References
 
-Other notes:
-
-- If God is an absolutely simple(all attributes are one, no parts, etc), invisible, spiritual Essence then its a problem to understand how there can be an Incarnation in time and space that doesn't incarnate the whole essence of God.  HOW COULD GOD WALK IN THE GARDEN IF HE DIDNT INCARNATE?  Note also that God had a body before taking on human nature. [1] (throw this in ADS vs EE section)
-
-
-- **Theophany**: A Divine manifestation in time and space.
-- **Angel**: [malachim](https://biblehub.com/hebrew/malachim_4397.htm). Messenger. Could be a Divine or creature (human or spiritual).
-- It is forbidden to worship creatures (see 10 commandments), but clearly the Theophanies are worshiped.
-- **Doctrine of Perichoresis**: Perichoresis is the Greek word for indwelling. Each of the 3 Persons of God are distinct and indwelling one another. Even though the persons are distinct and share the same nature, they also indwell one another.
+- [Is Jesus God? Is God A Trinity? Response to Critics - Jay Dyer](https://www.youtube.com/watch?v=y_uBaARATqs0

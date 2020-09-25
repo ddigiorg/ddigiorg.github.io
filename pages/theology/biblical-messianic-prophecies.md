@@ -1,4 +1,4 @@
-# Messianic Prophecies
+# Biblical Messianic Prophecies
 
 **Typology**: The way the New Testamant treats prophecy is not simply by finding statements that refer to future events or a person to come but by by treating the entire Old Testamant as foreshadowing the future. This method was part and parcel of Jewish interpertive methods that Jesus and the apostles also employed.
 
@@ -261,7 +261,6 @@ We are told that Jesus died on a tree. One virgin eats fruit from a forbidden tr
 
 Death came into the world in a garden. The destruction of death came into the world in a garden. Also note in John 20 a woman,  Mary Magdalen, discovers Jesus and she sees 2 angels. This is a connection with the cherubim of Genesis 3!
 
-https://www.youtube.com/watch?v=pfZdqIDmsCE
+## References
 
-https://www.biblegateway.com/
-https://biblehub.com/
+- [Messianic Prophecies? Sam Shamoun + Jay Dyer](https://www.youtube.com/watch?v=pfZdqIDmsCE)

@@ -1,3 +1,0 @@
-# Biblical Son
-
-WIP
