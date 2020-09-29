@@ -95,7 +95,7 @@ The Sabbath belongs to the Lord, not to a creature.  God owns the Sabbath and te
 
 In John 5:1-15 Jesus heals a paralyzed man on the Sabbath day.  Here in John 5:14-15 the Lord said to the paralyzed man that he's been healed and do not sin again or something worse will happen to you implying some physical ailments (not all) are the result of unrepentent unconfessed habitual sin.  He forgives him of his sin but does not give him a licesne to continue sinning.  Jesus is a God of love and compassion and his heart is open to forgive you for the sins you've committed, but he expects you to repent and sin no more otherwise that merciful God will turn into a righteous judge and punish you more severly.  Notice the pharisee's reaction.  Instead of marvelling at the miracle of a paralyzed man physically walking they were apalled that He healed this man on the Sabbath.
 
-## Jesus is Backed Up by Prophecies not Miracles
+## Jesus is Backed Up by Prophecies not just Miracles
 
 ```
 1 “If there arises among you a prophet or a dreamer of dreams, and he gives you a sign or a wonder, 2 and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let us go after other gods’—which you have not known—‘and let us serve them,’ 3 you shall not listen to the words of that prophet or that dreamer of dreams, for the Lord your God is testing you to know whether you love the Lord your God with all your heart and with all your soul. 4 You shall walk after the Lord your God and fear Him, and keep His commandments and obey His voice; you shall serve Him and hold fast to Him. 5 But that prophet or that dreamer of dreams shall be put to death, because he has spoken in order to turn you away from the Lord your God, who brought you out of the land of Egypt and redeemed you from the house of bondage, to entice you from the way in which the Lord your God commanded you to walk. So you shall put away the evil from your midst.
@@ -187,6 +187,107 @@ The Lord Jesus is the fountain of living waters referenced in Jeremiah 17:13.
 ```
 
 Jesus says he's the fountain of living water.
+
+## Jesus Worked on the Sabbath
+
+```
+17 But Jesus answered them, “My Father has been working until now, and I have been working.”
+18 Therefore the Jews sought all the more to kill Him, because He not only broke the Sabbath, but also said that God was His Father, making Himself equal with God. 19 Then Jesus answered and said to them, “Most assuredly, I say to you, the Son can do nothing of Himself, but what He sees the Father do; for whatever He does, the Son also does in like manner. 20 For the Father loves the Son, and shows Him all things that He Himself does; and He will show Him greater works than these, that you may marvel. 21 For as the Father raises the dead and gives life to them, even so the Son gives life to whom He will. 22 For the Father judges no one, but has committed all judgment to the Son, 23 that all should honor the Son just as they honor the Father. He who does not honor the Son does not honor the Father who sent Him.
+- John 5:17-23 NKJV
+```
+
+Here Jesus says God does not observe the weekly Sabbath because God has to be actively involved in preserving and giving life to creation through Providence.  God is not obligated to keep the Sabbath.  Can anyone other than God be exempt from the Sabbath without violating it?  No and teh Jews knew this.  But what about in Genesis 2 when it says God rested on the 7th day?  It does not mean God reamined inactive.  It means He did not add anything new to creation and entered His role in preserving and sustaining creation.  But then Jesus says he too is working.  In other words Jesus is saying "He is My Father and I am His Son and I do what My Father does every day that my Father does it".  Notice Jesus did not say "God" but he said "My Father".  This was astounding to the Jews and they sought to kill Him for making Himself equal with God.
+
+Notice Jesus responds by saying whatever the Father does I do it in the same way He does it.  Notice He's not the Father, but as the Son of the Father He can only do what He sees the Father doing and what the Father commands Him to do.  Can a creature say "I only do what God does and I can do whatever God does the same way He does it"?  No.  Also notice Jesus also is saying the Father demands every creature give the Son the same honor that we give to the Father.  Remember, we can not give the same honor we give to a creature that we give to the Creator.  So why then does the Father demand everyone give the same honor to the Son?
+
+```
+24 “Most assuredly, I say to you, he who hears My word and believes in Him who sent Me has everlasting life, and shall not come into judgment, but has passed from death into life. 25 Most assuredly, I say to you, the hour is coming, and now is, when the dead will hear the voice of the Son of God; and those who hear will live. 26 For as the Father has life in Himself, so He has granted the Son to have life in Himself, 27 and has given Him authority to execute judgment also, because He is the Son of Man. 28 Do not marvel at this; for the hour is coming in which all who are in the graves will hear His voice 29 and come forth—those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation. 30 I can of Myself do nothing. As I hear, I judge; and My judgment is righteous, because I do not seek My own will but the will of the Father who sent Me.
+- John 5:24-30 NKJV
+```
+
+Here Jesus says His voice is so powerful and sovereign that when spiritually dead people hear His voice they come to life spiritually when they hear and obey.  Jesus's voice speaks life.  The Father is please that the Son posesses the Father's ability to give life because that life indwells the Father and the Son.  The Father gives authority to the Son to judge man so those resting in tombs will hear the Son's voice and physically be resurrected at the last hour.  In John 5:30 Jesus is saying He is in perfect union with the Father.
+
+In summation, Jesus in John 5 is saying to the Jews "Why are you upset that I healed someone on the Sabbath?  I only do and say what the Father wants Me to do and say.  Do you think I would heal someone on the Sabbath if that wasn't My Father's will?  My Father is saying you have every right to give life sustain life, and restore life on the Sabbath like I do.  So who are you do condem Me when My Father wants Me to do what He does?".  Jesus here is BTFOing the Jews because no Jew in history spoke like Him.
+
+## Miracles, John the Baptist, and Old Testament Prophecies Prove Jesus is the Messiah
+
+```
+31 “If I bear witness of Myself, My witness is not true. 32 There is another who bears witness of Me, and I know that the witness which He witnesses of Me is true. 33 You have sent to John, and he has borne witness to the truth. 34 Yet I do not receive testimony from man, but I say these things that you may be saved. 35 He was the burning and shining lamp, and you were willing for a time to rejoice in his light. 36 But I have a greater witness than John’s; for the works which the Father has given Me to finish—the very works that I do—bear witness of Me, that the Father has sent Me. 37 And the Father Himself, who sent Me, has testified of Me. You have neither heard His voice at any time, nor seen His form. 38 But you do not have His word abiding in you, because whom He sent, Him you do not believe.
+- John 5:31-38 NKJV
+```
+
+Jesus is only appealing to John the Baptist, a prophet backed up by God, for the Jew's sake so they may be saved because He knows who He is.  But even Jesus knows John's witness and the miracles He performs is not enough because even false prophets can do miracles.
+
+```
+39 You search the Scriptures, for in them you think you have eternal life; and these are they which testify of Me. 40 But you are not willing to come to Me that you may have life.
+- John 5:39-40 NKJV
+```
+
+The Old Testament prophecied that the Messiah would say and do the things that only Jesus is saying and doing.  Now the Jews have no excuse for rejecting Him.
+
+## A Prophecy of Miracles Performed by Jesus
+
+```
+3 Strengthen the weak hands,
+  And make firm the feeble knees.
+4 Say to those who are fearful-hearted,
+  “Be strong, do not fear!
+  Behold, your God will come with vengeance,
+  With the recompense of God;
+  He will come and save you.”
+
+5 Then the eyes of the blind shall be opened,
+  And the ears of the deaf shall be unstopped.
+6 Then the lame shall leap like a deer,
+  And the tongue of the dumb sing.
+  For waters shall burst forth in the wilderness,
+  And streams in the desert.
+- Isaiah 35:3-6 NKJV
+```
+
+Notice in Isaiah 35:4-6 Israel's God is coming with vengence and coming to save.  Also notice when God shows up the blind will see, the deaf will hear, the mute will speak, the lame will walk and deserts will become bountiful with life.  Jesus did all of this.
+
+```
+18 Then the disciples of John reported to him concerning all these things. 19 And John, calling two of his disciples to him, sent them to Jesus, saying, “Are You the Coming One, or do we look for another?”
+
+20 When the men had come to Him, they said, “John the Baptist has sent us to You, saying, ‘Are You the Coming One, or do we look for another?’ ” 21 And that very hour He cured many of infirmities, afflictions, and evil spirits; and to many blind He gave sight.
+
+22 Jesus answered and said to them, “Go and tell John the things you have seen and heard: that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, the poor have the gospel preached to them.
+- Luke 7:18-22 NKJV
+```
+
+Notice how Jesus answers their question.
+
+## John the Baptist is the Messenger of the Lord Jesus
+
+```
+1 “Behold, I send My messenger,
+  And he will prepare the way before Me.
+  And the Lord, whom you seek,
+  Will suddenly come to His temple,
+  Even the Messenger of the covenant,
+  In whom you delight.
+  Behold, He is coming,”
+  Says the Lord of hosts.
+- Malachi 3:1 NKJV
+```
+
+```
+27 This is he of whom it is written:
+
+‘Behold, I send My messenger before Your face,
+Who will prepare Your way before You.’
+- Luke 7:27 NKJV
+```
+
+Jesus says John the Baptist is the messenger of the prophecy in Malaci 3:1.  Jesus is the Angel (Messenger) of the covenant that the messenger would be sent to prepare the people for the **sudden** coming of the true Lord.  Jesus just claimed to be the true Lord who owns the temple in Jerusalem where the Jews worship God in.  Also notice the Hebrew words for Lord is "HA ADON" which is never used for a creature and only used for God.
+
+```
+29 Furthermore King David said to all the assembly: “My son Solomon, whom alone God has chosen, is young and inexperienced; and the work is great, because the temple is not for man but for the Lord God.
+- 1 Chronicles 29:1 NKJV
+```
+
+The temple in Jerusalem is not for men.  It is the house of worship for God.
 
 ## References
 

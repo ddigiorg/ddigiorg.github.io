@@ -4,13 +4,16 @@
 
 ## Watch (casual)
 
-- [Welcome to BATTLETECH: An Introduction - The Rageaholic](https://www.youtube.com/watch?v=h92N63ElI4s&feature=youtu.be)
 - [The Entertainment Industry’s Satanic Roots With Sam Tripoli](https://censoredbyjack.com/watch?id=5f517dd4af4ce8069e63da9d)
-- [What is the Smallest Unit of Society?](https://www.youtube.com/watch?v=CALAI7YLWZI&feature=youtu.be)
 - [Primitive Skills: Making Axe from Iron Ore - Part1](https://www.youtube.com/watch?v=STFeW0cbB7c)
 
 ## Watch (learning)
 
+- [The Trinity Series Pt 3: The Messenger of God as the Prehuman Christ](https://www.youtube.com/watch?v=QsfdzNqE-sc)
+- [The Boundaries of Salvation: The 'Two Natures' of Communion in Christ](https://www.youtube.com/watch?v=9fxv_PTFcKk&feature=youtu.be)
+- [Fatima, Forgeries, Frauds & Fantasies Part 2](https://www.youtube.com/watch?v=gl-iALPStkA&feature=youtu.be)
+- [3 Tips for Catechumens](https://www.youtube.com/watch?v=iW3WIe0EAhY&feature=youtu.be)
+- [Orthodox Christian Terminology Explained](https://www.youtube.com/watch?v=-cewpEaOUEo)
 - [Sam Shamoun - Understanding Old Testament Violence](https://www.youtube.com/watch?v=ly-_DC7_CK8)
 - [Sam Shamoun - The Trinity Series Pt 1b](https://www.youtube.com/watch?v=VnRHvB_S_K4) continue biblical holy spirit page
 - [Information Enigma: Where does information come from?] (https://www.youtube.com/watch?v=aA-FcnLsF1g)
@@ -22,7 +25,7 @@
 
 ## Read (learning)
 
-- Orthodox Christian Discord > debate > September 14, 2020 3:57 AM onward
+- [Muhammad and the Ten Commandments](https://answeringislamblog.wordpress.com/2020/09/23/muhammad-and-the-ten-commandments/)
 - [Beginner's Health and Fitness Guide](http://liamrosen.com/fitness.html)
 - [MEGA of useful pdfs](https://mega.nz/folder/F5gWSC5Z#EBSiSty3JW9-uJ6BKGpIVw)
 - [Bill Mollison - PERMACULTURE A Designers Manual](https://drive.google.com/file/d/0Bw7yk9jZkHgHV1VwZ2Q4dGNxSW8/view)
