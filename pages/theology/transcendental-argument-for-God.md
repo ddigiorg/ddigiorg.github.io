@@ -45,8 +45,30 @@ stopped at 01:19:55
 
 ## References
 
-- [Stanford Encyclopedia of Philosophy - Transcendental Arguments](https://plato.stanford.edu/entries/transcendental-arguments/)
 - [Jay Dyer - God's Existence & Transcendental Arguments](https://www.youtube.com/watch?v=tx3ssbjb3Xs) starts at ~58:00 to ~1:05:00
 - [Jay Dyer, FrDcn Dr. Sorem - Billahunty/Dyer Debate](https://www.youtube.com/watch?v=bRCmZhWdyDE) need to review video and comments again
 - [Jay Dyer - Top 10 Bad arguments Against TAG](https://www.youtube.com/watch?v=4MZErPk3_MU)
 - [DrFrDcn Ananias - The Epistemological and Apologetic Methods of the Eastern Orthodox Church Fathers](https://www.youtube.com/watch?v=KcrrGPWMxfE) need to watch starts at 01:02:30
+- [COTEL - How to Prove God to an Atheist](https://www.youtube.com/watch?v=pbT_ZEPSgo4&feature=youtu.be)
+
+
+I understand your concern, but it certainly isn't reading post-Kantian idealism back into the Fathers. Although, we can point out similarities in that in some way Kant was hitting on, but eventually misses, the things that are present in the Fathers. Furthermore, it really comes down to this: where do we place our first principles concerning knowledge? Either we place our first principles in God (theonomous epistemology) or we place them in the world/man (autonomous epistemology). We see in the Fathers that their ordo theologiae is to start with divine revelation as the first principle to ground knowledge of the world and man. The West's project of Natural Theology and Classical Foundationalism places their first principles in either man or the world and reverses the Orthodox ordo theologiae. That is the only point I am making. Therefore, the Church Fathers have an apologetics and epistemology that is similar in form to a Transcendental argument, whereby the starting point for the possibility of knowledge is located first in presupposing the divine revelation of God as the necessary conditions for the possibility of experience and knowledge. They take for granted the reality of the external world and sense experience because they believe in God and His revelation. “God is the Lord and has revealed Himself to us; blessed is He who comes in the name of the Lord” (Psalm 117:27,26).
+
+
+ask FrDcn about coherentism vs foundationalism
+https://iep.utm.edu/coherent/#:~:text=Coherentism%20is%20a%20theory%20of,%E2%80%9Ccohere%E2%80%9D%20with%20one%20another.
+
+
+
+First it is the presupposition of God and His revelation that makes arguments possible. So in this sense the TAG is not an argument. The presupposition of God and His revelation make any arguments possible. That is why it doesn't fall victim to circular reasoning, because the conditions for the possibility of knowledge are located outside of the sphere of human reason, as presupposed for their to be any possibility of reason and arguments. Once one presupposes the necessary condition for knowledge, then you can formulate this into an argument for pedagogical purposes. The modens ponens (If X, then Y; X; therefore, Y) works to show that if God is the only unique necessary condition for the possibility of knowledge, which was illustrated in the disjunctive syllogism (A v  - A; not - A; therefore A), then if knowledge exists X, then the unique necessary condition Y (God); knowledge exists; therefore, X (God exists).
+
+
+
+that is why I argued towards the end of the video on how only the Orthodox notion of God would satisfy as the necessary conditions for knowledge. Other notions of God do not possess the necessary attributes that could provide us access to the necessary conditions for the possibility of knowledge; therefore, other gods would never provide justification or ground that or how we know.
+
+
+
+That is not the definition of an essence, either in Aristotle's view or anyone else. Essence in Greek is ousia, meaning the being of something. Since, as Aristotle states being is actuality, which is not a definition particular to Aristotle, but is agreed by all, we Orthodox have the same understanding of essence. For example, the essence of a triangle IS a three sided geometrical figure whose sum of angles is equal to 180 degrees. We Orthodox say that God's essence is What He Is in Himself, the difference here (unlike the triangle's essence), we don't know "what" the essence of God is. Therefore, there is no need to pit philosophical, common definitions of essence against the Orthodox understanding of the definition of essence. They are the same definition. We simply add further qualifications when discussing God's energies.
+
+
+

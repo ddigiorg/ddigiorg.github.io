@@ -25,6 +25,10 @@
 
 ## Read (learning)
 
+- [12 things about Ortho](https://blogs.ancientfaith.com/frederica/12-things)
+- [more ortho info](https://pastebin.com/Xrs3A3hM)
+- [death to the world](http://deathtotheworld.com/)
+- [The Sin We Stopped Feeling Sorry For](https://www.holytrinity-lansing.org/articles-from-father-mark-1/2020/1/20/the-sin-we-stopped-feeling-sorry-for)
 - [Muhammad and the Ten Commandments](https://answeringislamblog.wordpress.com/2020/09/23/muhammad-and-the-ten-commandments/)
 - [Beginner's Health and Fitness Guide](http://liamrosen.com/fitness.html)
 - [MEGA of useful pdfs](https://mega.nz/folder/F5gWSC5Z#EBSiSty3JW9-uJ6BKGpIVw)
@@ -44,6 +48,11 @@
 - Ultimate Proof, Dr. Jason Lisle
 - Darwin's God: Evolution and the Problem of Evil, Cornelius Hunter
 - Genesis, Creation, Early Man, Fr. Seripham Rose
+
+## Other
+
+- [buy icons](https://www.uncutmountainsupply.com/categories/icons/of-christ.html?sort=alphaasc&page=2)
+- [buy honey](https://www.holycross.org/)
 
 ## Notes
 

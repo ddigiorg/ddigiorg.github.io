@@ -32,3 +32,4 @@
 - **Pertinacious**:
 - **Halcyon**:
 - **Curse of Cassandra**:
+- **Dalliance**:
