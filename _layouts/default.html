@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
+
     {% include head.html %}
+
     <body>
-        {% include topbar.html %}
-        {% include leftbar.html %}
-        {% include content.html %}
+
+        <div id="content" class="markdown-body">
+            {{ content }}
+        </div>
+
     </body>
 </html>
