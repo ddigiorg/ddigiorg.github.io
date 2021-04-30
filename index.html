@@ -14,7 +14,6 @@ title: Home
 
 {% assign site.tags = "" %}
 {% for tag in rawtags %}
-  <p> {{ tag }} </p>
   {% if tag != "" %}
     {% if tags == "" %}
       {% assign tags = tag | split:'|' %}
@@ -25,10 +24,8 @@ title: Home
   {% endif %}
 {% endfor %}
 
-<p> {{ site.tags }} </p>
-
 <ul>
 {% for tag in site.tags %}
-  <h2>{{ tag }}</h2>
+  <h2>{{ tag[0] }}</h2>
 {% endfor %}
 </ul>
