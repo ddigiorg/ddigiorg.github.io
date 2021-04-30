@@ -1,8 +1,8 @@
 ---
 layout: page
-title: demo0
+title: demo1
 date: 2021-04-29
-tags: [demo]
+tags: demo-tag-0 demo-tag-1
 ---
 
 ## ABC
@@ -11,6 +11,6 @@ tags: [demo]
 - b
 - c
 
-## Demo0
+## Demo1
 
 demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo 

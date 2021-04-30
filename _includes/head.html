@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
 
-  <!-- Mobile device responsiveness-->
+  <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <!-- Title -->
@@ -15,5 +15,10 @@
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/assets/favicon.ico">
+
+  <!-- handle tags -->
+  {% if site.tags == "" %}
+    {% include collect-tags.html %}
+  {% endif %}
 
 </head>

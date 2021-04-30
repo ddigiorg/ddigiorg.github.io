@@ -1,8 +1,8 @@
 ---
 layout: page
-title: test0
+title: test1
 date: 2021-04-29
-tags: [test]
+tags: test-tag-0 test-tag-1
 ---
 
 ## XYZ
@@ -11,6 +11,6 @@ tags: [test]
 - y
 - z
 
-## Test0
+## Test1
 
 test test test test test test test test test test test test test test test test test 
