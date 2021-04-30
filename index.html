@@ -7,6 +7,7 @@ title: Home
 
 {% assign rawtags = "" %}
 {% for page in site.pages %}
+  <p> {{ page.title }} </p>
   {% assign ttags = page.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
@@ -24,7 +25,7 @@ title: Home
   {% endif %}
 {% endfor %}
 
-<p> {{site.tags}} </p>
+<p> {{ site.tags }} </p>
 
 <ul>
 {% for tag in site.tags %}
