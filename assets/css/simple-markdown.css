@@ -4,18 +4,6 @@
   box-sizing: border-box;
 }
 
-/*
-.markdown-body body {
-  font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;  
-  box-sizing: border-box;
-  min-width: 200px;
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 45px;
-  color: #3a414e;
-}
-*/
-
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -141,11 +129,13 @@
   line-height: 0;
 }
 
+/*
 @media (max-width: 767px) {
   .markdown-body {
     padding: 15px;
   }
 }
+*/
 
 @media print {
   body,code,pre code,h1,h2,h3,h4,h5,h6 {
