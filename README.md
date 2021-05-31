@@ -1,6 +1,6 @@
 # Notes Website
 
-A website for my notes. <https://ddigiorg.github.io/notes/>
+A website for my notes. <https://ddigiorg.github.io/>
 
 ## Links
 
