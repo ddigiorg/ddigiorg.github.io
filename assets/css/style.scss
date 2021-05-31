@@ -9,110 +9,27 @@
 ::-webkit-scrollbar-thumb:hover {background: #555555;}
 
 body {
-    padding: 0;
-    margin: 0;
-    background: #eeeeee;
-    font-family: Arial, Helvetica, sans-serif;
-    /*font-family: 'Public Sans','Helvetica Neue',sans-serif;*/
+  padding: 0;
+  margin: 0;
+  background: #eeeeee;
+  font-family: Arial, Helvetica, sans-serif;
+  /*font-family: 'Public Sans','Helvetica Neue',sans-serif;*/
 }
-
-/*NOTE SURE WHAT THIS DOES*/
-@media (max-width: 767px) {
-    .markdown-body {
-        padding: 15px;
-    }
-}
-
-
-
-#topbar {
-    position:fixed;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    background: #111111;
-    display: flex;
-    align-items: center;
-    line-height: 1em;
-    z-index: 1;
-}
-
-#topbar a {
-    text-decoration: none;
-    color: #ffffff;
-    padding: 12px;
-    font-size: 18px;
-}
-
-#topbar a:hover {
-    background-color: #5a5a5a;
-}
-
-#topbar.active {
-    background-color: #4CAF50;
-}
-
-
-
-#leftbar {
-    position: fixed;
-    display: block;
-    top: 40px;
-    width: 250px;
-    height: 100%;
-    padding-top: 20px;  
-    overflow-x: hidden;
-    background: #111111;
-    z-index: 1;
-}
-
-#leftbar h2 {
-    font-size: 16px;
-    padding-left: 16px;
-    margin: 14px 0 4px 0;
-    /*width: 100%;*/
-    color: #ffffff;
-}
-
-#leftbar a {
-    text-decoration: none;
-    display: block;
-    padding: 2px 1px 1px 16px;
-    margin: 2px 0 2px 0;
-    font-size: 12px;
-    color: #909090;
-}
-
-#leftbar a:hover {
-    color: #ffffff;
-}
-
-#leftbar a.active
-{
-    color:#ffffff;
-    background:#4CAF50;
-}
-
-#leftbar input.searchInput {
-    /*background-image: url('/css/searchicon.png');*/
-    /*background-position: 8px 6px;*/
-    /*background-repeat: no-repeat;*/
-    width: 85%;
-    font-size: 14px;
-    padding: 6px;
-    border: 1px solid #ddd;
-    margin: 0 0px 20px 10px;
-}
-
-
 
 .content-container {
-    position: relative;
-    top: 40px;
-    min-width: 200px;
-    max-width: 980px;
-    margin: 0 auto 120px auto;
-    padding: 42px;
-    background: #ffffff;
-    box-sizing: border-box;
+  position: relative;
+  top: 40px;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto 120px auto;
+  padding: 42px;
+  background: #ffffff;
+  box-sizing: border-box;
+}
+
+/* NOT SURE WHAT THIS DOES */
+@media (max-width: 767px) {
+  .markdown-body {
+    padding: 15px;
+  }
 }

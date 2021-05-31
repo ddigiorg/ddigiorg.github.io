@@ -1,11 +1,11 @@
 .markdown-body body {
-    font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;    
-    box-sizing: border-box;
-    min-width: 200px;
-    max-width: 980px;
-    margin: 0 auto;
-    padding: 45px;
-    color: #3a414e;
+  font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+  color: #3a414e;
 }
 
 .markdown-body h1,
@@ -14,140 +14,140 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-    color: #242931;
-    line-height: 36px;
-    margin: 0;
-    padding: 0;
+  color: #242931;
+  line-height: 36px;
+  margin: 0;
+  padding: 0;
 }
 
 .markdown-body h1 {
-    font-size: 46px;
-    margin-bottom: 18px;
+  font-size: 46px;
+  margin-bottom: 18px;
 }
 
 .markdown-body h2 {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .markdown-body h3 {
-    font-size: 26px;
+  font-size: 26px;
 }
 
 .markdown-body h4 {
-    font-size: 22px;
+  font-size: 22px;
 }
 
 .markdown-body h5 {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 .markdown-body h6 {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .markdown-body hr {
-    margin-bottom: 18px;
-    border: 0;
-    border-bottom: 1px solid #ccc;
+  margin-bottom: 18px;
+  border: 0;
+  border-bottom: 1px solid #ccc;
 }
 
 .markdown-body p { 
-    margin-bottom: 9px;
-    padding: 0;
-    line-height: 1.6;
+  margin-bottom: 9px;
+  padding: 0;
+  line-height: 1.6;
 }
 
 .markdown-body a {
-    color: #0069d6;
+  color: #0069d6;
 }
 
 .markdown-body a:hover {
-    color: #0050a3;
-    text-decoration: none;
+  color: #0050a3;
+  text-decoration: none;
 }
 
 .markdown-body a img {
-    border: none;
+  border: none;
 }
 
 .markdown-body li {
-    line-height: 1.6;
+  line-height: 1.6;
 }
 
 .markdown-body td,
 .markdown-body th {	
-    border: 1px solid #ddd;
-    padding: 3px 10px;
+  border: 1px solid #ddd;
+  padding: 3px 10px;
 }
 
 .markdown-body th {
-    padding: 5px 10px;	
+  padding: 5px 10px;	
 }
 
 .markdown-body table {
-    margin: 10px 0 15px 0;
-    border: 1px solid #dfe2e5;
-    border-collapse: collapse;
+  margin: 10px 0 15px 0;
+  border: 1px solid #dfe2e5;
+  border-collapse: collapse;
 }
 
 .markdown-body blockquote{
-    color: #666666;
-    padding-left: 3em;
-    border-left: 0.5em #EEE solid;
-    margin: 0;
+  color: #666666;
+  padding-left: 3em;
+  border-left: 0.5em #EEE solid;
+  margin: 0;
 }
 
 .markdown-body code,
 .markdown-body pre {
-    font-family: Hack, monospace;
+  font-family: Hack, monospace;
 }
 
 .markdown-body code {
-    font-size: 16px;
-    padding: 1px 3px;
-    color: #7676f4;
-    background-color: #f1f1fe;
+  font-size: 16px;
+  padding: 1px 3px;
+  color: #7676f4;
+  background-color: #f1f1fe;
 }
 
 .markdown-body pre {
-    display: block;
-    padding: 14px;
-    margin: 18px 0px;
-    line-height: 16px;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    background-color: #f6f8fa;
+  display: block;
+  padding: 14px;
+  margin: 18px 0px;
+  line-height: 16px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background-color: #f6f8fa;
 }
 
 .markdown-body pre code {
-    font-size: 14px;
-    padding: 0;
-    border: none;
-    color: #767693;
-    background-color: #f6f8fa;
+  font-size: 14px;
+  padding: 0;
+  border: none;
+  color: #767693;
+  background-color: #f6f8fa;
 }
 
 .markdown-body sup {
-    font-size: 0.83em;
-    vertical-align: super;
-    line-height: 0;
+  font-size: 0.83em;
+  vertical-align: super;
+  line-height: 0;
 }
 
 .markdown-body * {
-    -webkit-print-color-adjust: exact;
+  -webkit-print-color-adjust: exact;
 }
 
 @media (max-width: 767px) {
-    .markdown-body {
-        padding: 15px;
-    }
+  .markdown-body {
+    padding: 15px;
+  }
 }
 
 @media print {
-    body,code,pre code,h1,h2,h3,h4,h5,h6 {
-        color: black;
-    }
-    table, pre {
-        page-break-inside: avoid;
-    }
+  body,code,pre code,h1,h2,h3,h4,h5,h6 {
+    color: black;
+  }
+  table, pre {
+    page-break-inside: avoid;
+  }
 }
