@@ -1,3 +1,9 @@
+.markdown-body * {
+  -webkit-print-color-adjust: exact;
+  font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}
+
+/*
 .markdown-body body {
   font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;  
   box-sizing: border-box;
@@ -7,6 +13,7 @@
   padding: 45px;
   color: #3a414e;
 }
+*/
 
 .markdown-body h1,
 .markdown-body h2,
@@ -131,10 +138,6 @@
   font-size: 0.83em;
   vertical-align: super;
   line-height: 0;
-}
-
-.markdown-body * {
-  -webkit-print-color-adjust: exact;
 }
 
 @media (max-width: 767px) {
