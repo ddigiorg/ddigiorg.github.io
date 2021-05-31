@@ -2,13 +2,21 @@
 # Front matter added to ensure Jekyll processes file.
 ---
 
-.content-container {
-  position: relative;
-  top: 40px;
+body {
+  /*padding: 0;*/
+  /*margin: 0;*/
+  background: #eeeeee;
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  /*font-family: 'Public Sans','Helvetica Neue',sans-serif;*/
+}
+
+/*.content-container {*/
+  /*position: relative;*/
+  /*top: 40px;*/
   /*min-width: 200px;*/
   /*max-width: 980px;*/
   /*margin: 0 auto 120px auto;*/
   /*padding: 42px;*/
   /*background: #ffffff;*/
   /*box-sizing: border-box;*/
-}
+/*}*/
