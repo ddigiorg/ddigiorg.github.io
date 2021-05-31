@@ -1,6 +1,7 @@
 .markdown-body * {
   -webkit-print-color-adjust: exact;
-  font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+  font-family: "Public Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
 }
 
 /*
