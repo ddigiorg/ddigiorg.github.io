@@ -2,38 +2,13 @@
 # Front matter added to ensure Jekyll processes file.
 ---
 
-/* custom scrollbar */
-/*
-::-webkit-scrollbar {width: 10px;}
-::-webkit-scrollbar-track {background: #f1f1f1;}
-::-webkit-scrollbar-thumb {background: #888888;}
-::-webkit-scrollbar-thumb:hover {background: #555555;}
-*/
-
-/*
-body {
-  padding: 0;
-  margin: 0;
-  background: #eeeeee;
-  font-family: Arial, Helvetica, sans-serif;
-  font-family: 'Public Sans','Helvetica Neue',sans-serif;
-}
-*/
-
 .content-container {
   position: relative;
   top: 40px;
-  min-width: 200px;
-  max-width: 980px;
-  margin: 0 auto 120px auto;
-  padding: 42px;
-  background: #ffffff;
-  box-sizing: border-box;
-}
-
-/* NOT SURE WHAT THIS DOES */
-@media (max-width: 767px) {
-  .markdown-body {
-    padding: 15px;
-  }
+  /*min-width: 200px;*/
+  /*max-width: 980px;*/
+  /*margin: 0 auto 120px auto;*/
+  /*padding: 42px;*/
+  /*background: #ffffff;*/
+  /*box-sizing: border-box;*/
 }
