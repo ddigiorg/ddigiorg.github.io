@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 date: 2021-05-31
 tags: ["tag0", "tag1"]
 ---
