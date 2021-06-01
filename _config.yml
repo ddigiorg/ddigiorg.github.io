@@ -1,5 +1,10 @@
 markdown: kramdown
 title: ddigiorg.github.io
 url: https://ddigiorg.github.io/
-permalink: /:name
 exclude: ["README.md"]
+
+# Setup a pages collection (see `./_pages/')
+collections:
+  pages:
+    output: true
+    permalink: /:path/
