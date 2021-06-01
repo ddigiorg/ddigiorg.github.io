@@ -7,6 +7,10 @@ date: 2021-05-31
 
 <p>The home page.</p>
 
+{% for page in site.pages %}
+  <a href="{{ page.url }}">{{ page.title }}</a>
 {% for tag in site.tags %}
-  <p>{{ tag }}</p>
+
+{% for tag in site.tags %}
+  <p>{{ tag[0] }}</p>
 {% endfor %}
