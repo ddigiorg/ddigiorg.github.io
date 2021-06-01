@@ -1,14 +1,13 @@
 ---
+title: Index
 layout: page
 date: 2021-05-31
 ---
 
 <!-- Collect Tags -->
-{% if site.tags != "" %}
+{% if tags != "" %}
   {% include collect-tags.html %}
 {% endif %}
-
-<h1>Home</h1>
 
 <p>The home page.</p>
 
@@ -23,8 +22,8 @@ date: 2021-05-31
 {% endfor %}
 
 <!-- Print Tags -->
-<p>{{ site.tags }}</p>
+<p>{{ tags }}</p>
 
-{% for tag in site.tags %}
+{% for tag in tags %}
   <p>{{ tag }}</p>
 {% endfor %}
