@@ -6,10 +6,9 @@
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
-<h2>{{ rawtags }}</h2>
-
 {% assign site.tags = "" %}
 {% for tag in rawtags %}
+  <h2>{{ tag }}</h2>
   {% if tag != "" %}
     {% if tags == "" %}
       {% assign tags = tag | split:'|' %}
