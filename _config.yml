@@ -1,4 +1,5 @@
 markdown: kramdown
 title: ddigiorg.github.io
 url: https://ddigiorg.github.io/
+permalink: /:name
 exclude: ["README.md"]
