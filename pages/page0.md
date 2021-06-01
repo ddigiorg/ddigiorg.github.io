@@ -6,6 +6,10 @@ tags: ["tag0", "tag1"]
 
 # Markdown Sample
 
+This page provides an example of simple markdown capabilities.
+
+## Headers
+
 # This is an <h1> tag
 ## This is an <h2> tag
 ### This is an <h3> tag
@@ -16,8 +20,10 @@ tags: ["tag0", "tag1"]
 ## Emphasis
 
 *This text will be italic*
+
 **This text will be bold**
-*You **can** combine them*
+
+~~This text will be striked through~~
 
 ## Lists
 
@@ -66,8 +72,16 @@ This is an example code block
 
 ## Tables
 
-| header 0  | header 1  |
-|-----------|-----------|
-| content 0 | content 1 |
-| content 0 | content 1 |
-| content 0 | content 1 |
+| header 0  | header 1  | header 2  |
+|:----------|:---------:|----------:|
+| content 0 | content 1 | content 2 |
+| content 0 | content 1 | content 2 |
+| content 0 | content 1 | content 2 |
+
+## Horizontal Line
+
+---
+
+## Comments
+
+<!-- This comment wont show on webpage-->
