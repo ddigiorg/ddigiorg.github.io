@@ -129,14 +129,6 @@
   line-height: 0;
 }
 
-/*
-@media (max-width: 767px) {
-  .markdown-body {
-    padding: 15px;
-  }
-}
-*/
-
 @media print {
   body,code,pre code,h1,h2,h3,h4,h5,h6 {
     color: black;
