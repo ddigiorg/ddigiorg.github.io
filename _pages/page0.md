@@ -1,7 +1,8 @@
 ---
+title: Markdown Sample
 layout: page
 date: 2021-05-31
-tags: tag0 tag1
+tags: [tag0, tag1]
 ---
 
 # Markdown Sample

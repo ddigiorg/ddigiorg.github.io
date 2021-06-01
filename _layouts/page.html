@@ -6,5 +6,12 @@
 <div class="content-container">
 <div class="markdown-body">{{ content }}</div>
 </div>
+
+
+{% for tag in page.tags %}
+  <p>{{ tag }}</p>
+{% endfor %}
+
+
 </body>
 </html>
