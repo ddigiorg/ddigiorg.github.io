@@ -5,14 +5,14 @@
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
-{% assign tags = "" %}
+{% assign sitetags = "" %}
 {% for tag in rawtags %}
   {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
+    {% if sitetags == "" %}
+      {% assign sitetags = tag | split:'|' %}
     {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% unless sitetags contains tag %}
+      {% assign sitetags = sitetags | join:'|' | append:'|' | append:tag | split:'|' %}
     {% endunless %}
   {% endif %}
 {% endfor %}
