@@ -9,7 +9,7 @@ date: 2021-05-31
 
 {% for page in site.pages %}
   <a href="{{ page.url }}">{{ page.title }}</a>
-{% for tag in site.tags %}
+{% endfor %}
 
 {% for tag in site.tags %}
   <p>{{ tag[0] }}</p>
