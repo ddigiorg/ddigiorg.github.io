@@ -24,16 +24,14 @@ This page provides an example of simple markdown capabilities.
 
 ~~This text will be striked through~~
 
-## Lists
-
-### Unordered
+## Unordered Lists
 
 - Item 1
 - Item 2
   - Item 2a
   - Item 2b
 
-### Ordered
+### Ordered Lists
 
 1. Item 1
 1. Item 2

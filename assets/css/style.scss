@@ -8,12 +8,38 @@ body {
 }
 
 .content-container {
-  /*position: relative;*/
-  /*top: 40px;*/
+  top: 40px;
   min-width: 200px;
   max-width: 980px;
   margin: 0 auto 120px auto;
   padding: 42px;
   background: #ffffff;
   box-sizing: border-box;
+}
+
+.topbar {
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background: #111111;
+    display: flex;
+    align-items: center;
+    line-height: 1em;
+    z-index: 1;
+}
+
+.topbar a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 12px;
+    font-size: 18px;
+}
+
+.topbar a:hover {
+    background-color: #5a5a5a;
+}
+
+.topbar.active {
+    background-color: #4CAF50;
 }
