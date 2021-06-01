@@ -3,12 +3,21 @@ layout: page
 date: 2021-05-31
 ---
 
+<!-- Collect Tags -->
+{% if site.tags != "" %}
+  {% include collect-tags.html %}
+{% endif %}
+
 <h1>Home</h1>
 
 <p>The home page.</p>
 
 {% for page in site.pages %}
   <a href="{{ page.url }}">{{ page.title }}</a>
+{% endfor %}
+
+{% for post in site.posts %}
+  <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
 
