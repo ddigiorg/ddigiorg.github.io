@@ -1,11 +1,9 @@
 ---
-title: Markdown Sample
 layout: page
+title: Markdown Sample
 date: 2021-05-31
 tags: [tag0, tag1]
 ---
-
-# Markdown Sample
 
 This page provides an example of simple markdown capabilities.
 
