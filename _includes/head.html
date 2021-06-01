@@ -13,4 +13,9 @@
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/assets/favicon.ico">
+
+  <!-- Collect Tags -->
+  {% if site.tags != "" %}
+    {% include collect-tags.html %}
+  {% endif %}
 </head>

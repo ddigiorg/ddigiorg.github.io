@@ -12,18 +12,8 @@ date: 2021-05-31
 {% endfor %}
 
 
+<p>{{ site.tags }}</p>
 
-
-<!-- extract tags from each page and sort tags -->
-{% assign rawtags = "" %}
-{% for page in site.page %}
-  {% assign ttags = page.tags | join:'|' | append:'|' %}
-  {% assign rawtags = rawtags | append:ttags %}
-{% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
-
-<p>{{ rawtags }}</p>
-
-{% for tag in rawtags %}
+{% for tag in site.tags %}
   <p>{{ tag }}</p>
 {% endfor %}
