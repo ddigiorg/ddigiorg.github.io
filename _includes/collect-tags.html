@@ -1,5 +1,6 @@
 {% assign rawtags = "" %}
 {% for page in site.pages%}
+  <p>{{ page.tags }}</p>
   {% assign ttags = page.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}

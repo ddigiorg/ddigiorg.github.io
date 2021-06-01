@@ -12,15 +12,17 @@ date: 2021-05-31
 
 <p>The home page.</p>
 
+<!-- Print Pages -->
 {% for page in site.pages %}
   <a href="{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
 
+<!-- Print Posts -->
 {% for post in site.posts %}
   <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
-
+<!-- Print Tags -->
 <p>{{ site.tags }}</p>
 
 {% for tag in site.tags %}
