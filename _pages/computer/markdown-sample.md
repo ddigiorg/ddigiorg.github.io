@@ -2,7 +2,7 @@
 layout: page
 title: Markdown Sample
 date: 2021-06-01
-tags: website
+tags: computer website
 ---
 
 This page provides an example of simple markdown capabilities.
