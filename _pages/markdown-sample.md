@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Markdown Sample
-date: 2021-05-31
-tags: tag0 tag1
+date: 2021-06-01
+tags: website
 ---
 
 This page provides an example of simple markdown capabilities.
