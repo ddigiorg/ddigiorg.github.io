@@ -4,15 +4,19 @@ layout: page
 date: 2021-05-31
 ---
 
+<p>The home page.</p>
+
 <!-- Collect Tags -->
 {% if sitetags != "" %}
   {% include collect-tags.html %}
 {% endif %}
 
-<p>The home page.</p>
+<!-- Display Tags -->
+{% for tag in sitetags %}
+<a href="#{{ tag }}"> {{ tag }} </a>
+{% endfor %}
 
-
-
+<!-- Display Tags and Their Pages-->
 {% for tag in sitetags %}
   <h2 id="{{ tag }}">{{ tag }}</h2>
   <ul>
