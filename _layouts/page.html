@@ -7,9 +7,12 @@
 <div class="content-container">
   <div class="markdown-body">
     <h1>{{ page.title }}</h1>
+    <span class="page-date">{{ page.date | date_to_string }}</span>
+    {% if page.tags %} | 
     {% for tag in page.tags %}
-      <a class="tag" href="/#{{ tag }}">{{ tag }}</a>
+      <a class="page-tag" href="/#{{ tag }}">{{ tag }}</a>
     {% endfor %}
+    {% endif}
     {{ content }}
   </div>
 </div>
