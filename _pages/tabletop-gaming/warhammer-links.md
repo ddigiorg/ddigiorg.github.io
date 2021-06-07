@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Third Party Shops
-date: 2021-06-01
+title: Warhammer Links
+date: 2021-06-06
 tags: tabletop warhammer
 ---
+
+## Rules
+
+- <http://wahapedia.ru/>
+
+
+## Third Party Sites
 
 - <https://puppetswar.eu>
 - <https://wargameexclusive.com/>
