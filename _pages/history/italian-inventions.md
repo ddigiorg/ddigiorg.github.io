@@ -2,7 +2,7 @@
 layout: page
 title: Italian Inventions
 date: 2021-06-01
-tags: history italian technology
+tags: history
 ---
 
 - [The nuclear reactor](https://en.wikipedia.org/wiki/Enrico_Fermi)

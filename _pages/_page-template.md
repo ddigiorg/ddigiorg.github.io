@@ -1,8 +1,8 @@
 ---
 layout: page
 title: <title>
-date: <date>
-tags: <tags>
+date: <YYYY-MM-DD>
+tags: <tag0 tag1 ...>
 ---
 
 <markdown content>
