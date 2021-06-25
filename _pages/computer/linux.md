@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux
-date: 2021-06-01
+date: 2021-06-24
 tags: computer linux
 ---
 
@@ -103,6 +103,24 @@ tags: computer linux
     - Type `shutdown now` to shutdown the computer, remove the usb drive, then start the computer
 17. **Login**
     - Start up the computer and log in to root
+18. I reccomend from here to directly install LARBS
+
+## Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+
+Installing and Updating LARBS:
+
+- Type `sudo su` to ensure you are super user
+- Type `cd ~` to navigate too the `root/` directory
+- Type `Pacman -Syu` to ensure all the arch packages are up to date
+- Type `curl -LO larbs.xyz/larbs.sh` to get the larbs shell script
+- Type `sh larbs.sh` and follow the promps
+
+Notes:
+
+- [LARBS](https://github.com/lukesmithxyz/larbs)
+- [dotfiles](https://github.com/lukesmithxyz/voidrice)
+- [A Friendly Guide to LARBS](https://larbs.xyz/dwm.pdf)
+- [Luke Smith](https://lukesmith.xyz), innawoods unaboomer
 
 ## The Filesystem Hierarchy Standard (FHS)
 
@@ -166,14 +184,6 @@ The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are th
 | `pgrep`  | look up processes by name or attributes  |
 | `ps`     | show information about processes         |
 | `free`   | display amount of free and used memory   |
-
-## Luke Smith
-
-[Luke Smith](https://lukesmith.xyz) is the based innawoods unaboomer who taught me how to be less of a cringe normie.
-
-- [LARBS](https://github.com/lukesmithxyz/larbs)
-- [dotfiles](https://github.com/lukesmithxyz/voidrice)
-- [A Friendly Guide to LARBS](https://larbs.xyz/dwm.pdf)
 
 ## Adding Users
 
