@@ -111,7 +111,7 @@ Installing and Updating LARBS:
 
 - Type `sudo su` to ensure you are super user
 - Type `cd ~` to navigate too the `root/` directory
-- Type `Pacman -Syu` to ensure all the arch packages are up to date
+- Type `pacman -Syu` to ensure all the arch packages are up to date
 - Type `curl -LO larbs.xyz/larbs.sh` to get the larbs shell script
 - Type `sh larbs.sh` and follow the promps
 
