@@ -31,6 +31,9 @@ tags: outdoors
 - <https://www.youtube.com/watch?v=qpOKUEMScZg>
 - <https://www.youtube.com/watch?v=3g2k92YzGL0>
 - <https://www.youtube.com/watch?v=Y5FzTdZ2cBc>
+- <https://www.youtube.com/watch?v=znlONAN86Nw>
+- <https://www.youtube.com/watch?v=7ybCbkNH6PE>
+- <https://www.youtube.com/watch?v=hQ49wiiL_Wo>
 
 # Electricity
 
