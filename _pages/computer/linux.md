@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux
-date: 2021-06-24
+date: 2021-08-08
 tags: computer linux
 ---
 
@@ -244,7 +244,7 @@ Adding users:
 
 Adding a group:
 
-1 Type `sudo groupadd [groupname]`
+1 Type `sudo groupadd [groupname]` 
 2. (optional) Type `sudo gpasswd [groupname]` to add a password
 3. Type `cat /etc/group` to view the group file: `[groupname]:x:[group_id]
 
