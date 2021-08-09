@@ -244,7 +244,7 @@ Adding users:
 
 Adding a group:
 
-1 Type `sudo groupadd [groupname]` 
+1. Type `sudo groupadd [groupname]`
 2. (optional) Type `sudo gpasswd [groupname]` to add a password
 3. Type `cat /etc/group` to view the group file: `[groupname]:x:[group_id]
 
