@@ -107,7 +107,7 @@ tags: computer linux
 
 ## Luke's Auto-Rice Bootstrapping Scripts (LARBS)
 
-Installing and Updating LARBS:
+Installing or reinstalling(or updating) LARBS:
 
 - Type `sudo su` to ensure you are super user
 - Type `cd ~` to navigate too the `root/` directory
@@ -122,9 +122,92 @@ Notes:
 - [A Friendly Guide to LARBS](https://larbs.xyz/dwm.pdf)
 - [Luke Smith](https://lukesmith.xyz), innawoods unaboomer
 
+## Definitions
+
+| Definition         | Description |
+|--------------------|-------------|
+| `kernel`           | A program at the core of a computer's operating system and has complete control over everything in the system (e.g. Linux). |
+| `operating system` | Software that manages computer hardware, software resources, and provides common services for computer programs (e.g GNU, Ubuntu, Arch, etc.). |
+| `terminal`         | Device or emulator used to execute commands to interact with the computer. |
+| `shell`            | The user interface used to interact with the linux kernel and operating system (e.g. sh, bash). |
+| `$`                | Indicates you are logged in as a user. |
+| `#`                | Indicates you are logged in as root. |
+| `root`             | The superuser account with all administrative capabilities. |
+| `user`             | An entity that can perform operations. |
+| `group`            | A collection of users. |
+| `package`          | A collection of files that perform a task. |
+| `package manager`  | A program that manages packages (e.g. dpkg, apt, pacman). |
+| `repository`       | A storage location (typically a server) that has a collection of software. |
+| `daemon`           | A long-running backgroung process that answers requests for services. |
+| `process`          | An instance of a running program. |
+
+## Commands
+
+Helpful tips:
+
+- The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are the basic, fundamental tools of a GNU/Linux system
+- Commands are stored in files called "binaries"
+- Type `compgen -c` to list all commands that could be executed
+- Type `man [command]` to print the user manual for that command
+- Type `[command] -h (or --help)` to also view information about that command
+- Type `apropos [keyword]` to search the manuals for that keyword
+- Type `ctrl+a` to get to the front of your command (useful if you forgot to type sudo in front of a command)
+- Use `uparrow` to get previous commands
+- Use `&&` between commands to execute them one one line in the terminal
+- Use `|` between commands to pipe, or send output, of one command to another for further processing
+
+| Command    | Description                                       |
+|------------|---------------------------------------------------|
+| `compgen`  | list all the commands that could be executed      |
+| `man`      | an interface to the system reference manuals      |
+| `apropos`  | search the manual page names and descriptions     |
+| `cat`      | concatenate files and print on stdout (or shell)  |
+| `pwd`      | print workind directory                           |
+| `ls`       | list directory                                    |
+| `cd`       | change directory                                  |
+| `whoami`   | who am I (prints current user name)               |
+| `clear`    | clear terminal screen                             |
+| `mkdir`    | make directory                                    |
+| `rmdir`    | remove empty directory                            |
+| `rm`       | remove files or directories                       |
+| `cp`       | copy files or directories                         |
+| `mv`       | move files or directories                         |
+| `ln`       | make hard or symbolic links                       |
+| `chown`    | change file owner and group                       |
+| `chmod`    | change file permissions                           |
+| `dd`       | convert and copy a file                           |
+| `df`       | report file system disk space usage               |
+| `tar`      | tar archiver                                      |
+| `less`     | terminal pager                                    |
+| `find`     | search files or directories                       |
+| `diff`     | compare files line by line                        |
+| `grep`     | print lines matching a pattern                    |
+| `sed`      | stream editor                                     |
+| `awk`      | pattern scanning and processing language          |
+| `dmesg`    | print or control the kernel ring buffer           |
+| `lsblk`    | list block devices                                |
+| `mount`    | mount a filesystem                                |
+| `umount`   | unmount a filesystem                              |
+| `su`       | substitute user                                   |
+| `sudo`     | superuser do                                      |
+| `exit`     | cause normal process termination                  |
+| `kill`     | terminate a process                               |
+| `pgrep`    | look up processes by name or attributes           |
+| `ps`       | report a snapshot of the current processes        |
+| `pstree`   | shows running processes as a tree                 |
+| `free`     | display amount of free and used memory            |
+| `which`    | identify the location of executables              |
+| `id`       | print real and effective user and group IDs       |
+| `uname`    | print system information                          |
+| `ip`       | print network information                         |
+| `netstat`  | print status of the network                       |
+| `ifconfig` | configure a network interface                     |
+| `who`      | show who is logged on                             |
+| `env`      | print environment variables                       |
+
 ## The Filesystem Hierarchy Standard (FHS)
 
-The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) (FHS) defines the directory structure and directory contents in Linux distributions.
+The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) (FHS) defines the directory structure and directory contents in Linux distributions.  Everything in linux is represented by a file including devices, commands, and settings.
 
 | Directory     | Description                                                                                                    |
 |---------------|----------------------------------------------------------------------------------------------------------------|
@@ -137,7 +220,7 @@ The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hie
 | `/lib`        | Libraries essential for the binaries in `/bin` and `/sbin`.                                                    |
 | `/lib64`      | Alternative format essential libraries.                                                                        |
 | `/lost+found` | Orphaned or corrupted files are places here.                                                                   |
-| `/mnt`        | Temporarily mounted filesystems.                                                                               |
+| `/mnt`        | Temporarily mounted filesystems. (or /media)                                                                   |
 | `/opt`        | Optional application software packages.                                                                        |
 | `/proc`       | Virtual filesystem providing process and kernel information as files.                                          |
 | `/root`       | Home directory for the root user.                                                                              |
@@ -145,70 +228,49 @@ The [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hie
 | `/sbin`       | Essential system binaries, e.g., fsck, init, route.                                                            |
 | `/srv`        | Site-specific data served by this system.                                                                      |
 | `/sys`        | Contains information about devices, drivers, and some kernel features.                                         |
-| `/temp`       | Temporary files.                                                                                               |
+| `/tmp`        | Temporary files. (or /temp)                                                                                    |
 | `/usr`        | Secondary hierarchy for read-only user data; contains the majority of (multi-)user utilities and applications. |
 | `/var`        | Variable files—files whose content is expected to continually change during normal operation of the system.    |
 
-## Core Utilities
-
-The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are the basic, fundamental tools of a GNU/Linux system.
-
-| Utility  | Description                              |
-|----------|------------------------------------------|
-| `cd`     | change directory                         |
-| `ls`     | list directory                           |
-| `cat`    | concatenate files to stdout              |
-| `mkdir`  | make directory                           |
-| `rmdir`  | remove empty directory                   |
-| `rm`     | remove files or directories              |
-| `cp`     | copy files or directories                |
-| `mv`     | move files or directories                |
-| `ln`     | make hard or symbolic links              |
-| `chown`  | change file owner and group              |
-| `chmod`  | change file permissions                  |
-| `dd`     | convert and copy a file                  |
-| `df`     | report file system disk space usage      |
-| `tar`    | tar archiver                             |
-| `less`   | terminal pager                           |
-| `find`   | search files or directories              |
-| `diff`   | print lines matching a pattern           |
-| `grep`   | print lines matching a pattern           |
-| `sed`    | stream editor                            |
-| `awk`    | pattern scanning and processing language |
-| `dmesg`  | print or control the kernel ring buffer  |
-| `lsblk`  | list block devices                       |
-| `mount`  | mount a filesystem                       |
-| `umount` | unmount a filesystem                     |
-| `su`     | subsitute user                           |
-| `kill`   | terminate a process                      |
-| `pgrep`  | look up processes by name or attributes  |
-| `ps`     | show information about processes         |
-| `free`   | display amount of free and used memory   |
-
-## Adding Users
+## Managing Users
 
 [Users and Groups](https://wiki.archlinux.org/index.php/users_and_groups) are used on GNU/Linux for access control to system files, directories, and peripherals.
 
-1. Ensure you are root
-2. Type `useradd -m [username]` to add a user
-3. Type `passwd [username]` to add a password
-4. Type `export EDITOR=vim` to set vim as the visudo editor
-5. Type `visudo` to properly edit `/etc/sudoers`
-6. Under `User privilege specification` type `[username] All=(All) All`
-7. Type `reboot` to restart computer
-8. Login as the user
-9. Type `sudo ls` to test if user has sudo access
+Adding users:
 
-## Man
+1. Type `sudo useradd -m [username]` to add a user (-m creates home directory)
+2. Type `sudo passwd [username]` to add a password
+3. Type `cat /etc/passwd` to view the user file: `[username]:x:[user_id]:[group_id]:[name_and_comments]:[home_dir]:[default_shell]`
 
-[Man](https://wiki.archlinux.org/index.php/Man_page) lets you read package manuals.
+Adding a group:
 
-1. Type `sudo pacman -S man-db` to install
-2. Type `man [package]` to view the package's manual
+1 Type `sudo groupadd [groupname]`
+2. (optional) Type `sudo gpasswd [groupname]` to add a password
+3. Type `cat /etc/group` to view the group file: `[groupname]:x:[group_id]
 
-## Pacman
+Modifying user account:
 
-[Pacman](https://wiki.archlinux.org/index.php/pacman) is a package management utility that tracks installed packages.  It should already be installed through the base package.
+- Use `usermod` (to view capabilities type `man usermod`)
+
+Giving a user admin privileges:
+
+1. Ensure you are root (or type `sudo` before commands)
+2. (optional) Type `export EDITOR=vim` to set vim as the visudo editor instead of nano
+3. Type `visudo` to properly edit `/etc/sudoers`
+4. Under `User privilege specification` type `[username] All=(All) All`
+5. Type `ctrl+x` to exit out of the file if using nano
+6. Type `reboot` to restart computer
+7. Login as the user
+8. Type `sudo ls` to test if user has sudo access
+
+Deleting users or groups:
+
+- Type `sudo userdel [username]` to delete user
+- Type `sudo groupdel [groupname]` to delete a group
+
+## Managing Packages using Pacman (for Arch Linux)
+
+[Pacman](https://wiki.archlinux.org/index.php/pacman) is an Arch Linux package management utility that tracks installed packages.  It should already be installed through the base package.
 
 | Command               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
@@ -231,9 +293,44 @@ The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are th
 | `pacman -Ss`          | search remote repository for package                                        |
 | `pacman -Qs`          | search local repository for package                                         |
 
+## Managing Daemons, Processes, and Services
+
+- Note: may need to enable sudo for these commands
+
+Listing processes:
+
+- Note: Daemons will have a "d" at the end of the process name (e.g. "sshd" for the ssh daemon)
+- Note: `systemd` is the "master daemon" or a system and service manager.  When linux boots, systemd is the first service started and controls mounting the file system and starting all the services.  Also note that systemd calls services or daemons "units".
+- Type `ps -aux` to see every process on the system (remember a **process** is an instance of a **running** program.
+- Type `ps -aux | grep [process]` to filter out all but the particular process
+- Type `pstree` to see every process as a tree
+
+Using `systemctl` to control services:
+
+- Note: systemctl is a utility responsible for examining and controlling the systemd system and service manager
+- Type `systemctl status [service]` to view the status of a service
+- Type `systemctl is-active [service]` to view if the service is currently active
+- Type `systemctl is-enabled [service]` to view if the service is currently enabled to start at boot
+- Type `systemctl start [service]` to start a service
+- Type `systemctl stop [service]` to stop a service
+- Type `systemctl restart [service]` to restart a service
+- Type `systemctl reload [service]` to reload a service
+- Type `systemctl enable [service]` to start a service at boot
+- Type `systemctl disable [service]` to not start a service at boot
+- Type `systemctl list-units` to list all active (in memory) services, devices, et. al. (use `-t service` to only list services)
+- Type `systemctl list-units | grep [service]` to list the particular service
+- Type `systemctl list-unit-files` to list all services, devices, et. al.
+
+## Man
+
+[Man](https://wiki.archlinux.org/index.php/Man_page) lets you read package manuals.
+
+1. Type `sudo pacman -S man-db` to install
+2. Type `man [package]` to view the package's manual
+
 ## Yay
 
-[Yay](https://github.com/Jguer/yay) or Yet Another Yogurt isa n AUR Helper Written in Go.
+[Yay](https://github.com/Jguer/yay) or Yet Another Yogurt is a n AUR Helper Written in Go.
 
 1. Type `git clone https://aur.archlinux.org/yay.git` to clone the yay repo
 2. Type `cd yay`
@@ -249,7 +346,14 @@ The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are th
 3. Type `git config --global user.name John Doe`
 4. Type `git config --global user.email johndoe@example.com`
 5. Type `git config --list` to check the user git settings
-6. Type `git clone https://github.com/ddigiorg/notes.git` to clone the notes repo as a test
+6. Type `git clone https://github.com/ddigiorg/ddigiorg.github.io.git` to clone ddigiorg's website
+
+## Pip
+
+[Pip](https://pip.pypa.io/en/stable/) is the package installer for Python.
+
+- Type `pip install [package]` to install a particular Python package (might need to use pip3 to specify Python3)
+- Type `pip install -r requirements.txt` to install the Python packages listed in the requirements.txt file
 
 ## Make
 
@@ -347,3 +451,14 @@ The [Core Utilities](https://wiki.archlinux.org/index.php/Core_utilities) are th
     - Type `pacman -S virtualbox-guest-utils xf86-video-vmware` and make sure you select `virtualbox-guest-modules-arch`
     - Configure to run on startup by typing `systemctl enable vboxservice.service`
     - Type `reboot`
+
+## Tutorials
+
+NetworkChuck's tutorials (for complete newbies):
+
+- [Linux for Hackers EP 1](https://www.youtube.com/watch?v=VbEx7B_PTOE)
+- [Linux for Hackers EP 2](https://www.youtube.com/watch?v=A3G-3hp88mo)
+- [Linux for Hackers EP 3](https://www.youtube.com/watch?v=Y17KTiJLcyQ)
+- [Linux for Hackers EP 4](https://www.youtube.com/watch?v=jwnvKOjmtEA)
+- [Linux for Hackers EP 5](https://www.youtube.com/watch?v=vX3krP6JmOY)
+- [Linux for Hackers EP 6](https://www.youtube.com/watch?v=wOWhfNB_r-0)
