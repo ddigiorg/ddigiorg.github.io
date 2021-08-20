@@ -422,9 +422,10 @@ Using `systemctl` to control services:
 3. In `~/.xinitrc` put `export XDG_CONFIG_HOME="$HOME/.config"` and `sxhkd &`
 3. Type `systemctl --user restart sxhkd` to reload the user's sxhkd service
 
-## Installing VirtualBox for Windows Virtual Machines
+## Using VirtualBox for Windows 10
 
 - [Installing Arch Linux in VirtualBox](https://www.youtube.com/watch?v=HpskN_jKyhc)
+- [Installing Ubuntu](https://www.youtube.com/watch?v=x5MhydijWmc)
 
  1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
  2. Create a new Virtual Machine
