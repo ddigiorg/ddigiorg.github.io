@@ -1,4 +1,9 @@
-# Words
+---
+layout: page
+title: Words
+date: 2021-08-20
+tags: humanities
+---
 
 - **Encephalon**:
 - **Abendrot**:

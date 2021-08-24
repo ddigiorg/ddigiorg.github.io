@@ -2,7 +2,7 @@
 layout: page
 title: Warhammer Links
 date: 2021-06-06
-tags: tabletop warhammer
+tags: tabletop
 ---
 
 ## Rules
