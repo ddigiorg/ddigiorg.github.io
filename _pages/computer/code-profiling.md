@@ -1,9 +1,15 @@
 ---
 layout: page
 title: Code Profiling
-date: 2021-06-25
+date: 2021-11-22
 tags: computer programming
 ---
+
+## Optimizing
+
+- <https://en.wikibooks.org/wiki/Optimizing_C%2B%2B>
+- <https://www.slideshare.net/EmertxeSlides/embedded-c-optimization-techniques>
+
 
 ## Perf
 
