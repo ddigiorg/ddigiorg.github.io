@@ -14,12 +14,12 @@ tags: computer
 | Motherboard  | Gigabyte GA-Z170N-Gaming 5                                 |    reuse |          |
 | CPU          | Intel Core i5 6600K 3.90GHz                                |    reuse |          |
 | CPU Cooler   | Noctua NH-L9i                                              |    reuse |          |
-| Memory       | Corsair Vengeance LPX DDR4 2x8GB 3200MHz (repurchased)     |   $84.99 | amazon   |
+| Memory       | Corsair Vengeance LPX DDR4 2x8GB 3200MHz (replaced)        |   $84.99 | amazon   |
 | Storage      | Samsung SSD 860 EVO 250GB SSD (boot)                       |    reuse |          |
 | Storage      | WD5000HHTZ 500GB 10000 RPM (storage)                       |    reuse |          |
 | Storage      | Crucial MX500 2TB 3D NAND CT2000MX500SSD1 (storage)        |  $167.99 |          |
 | Video Card   | GeForce TURBO-GTX1070-8G                                   |    reuse | amazon   |
-|              |                                                            | $1037.30 |          |
+|              |                                                            |  $252.98 |          |
 
 ## Linux Laptop Build (2020)
 
