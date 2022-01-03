@@ -15,6 +15,14 @@ tags: computer
 - Press `start` and type `windows updates` and select `Windows Update Settings`
 - Click `Check for updates` and let it download, restart, and install updates
 
+## Installing Windows Subsystem for Linux (WSL)
+
+- Open Powershell in administrator mode
+- Type `wsl -l -o` to list the valid distributions to be installed
+- Type `wsl --install -d <distribution>` to install
+
+See <https://docs.microsoft.com/en-us/windows/wsl/install> for more details
+
 ## Typical Programs
 
 - [Nvidia Drivers](https://www.nvidia.com/Download/index.aspx)
