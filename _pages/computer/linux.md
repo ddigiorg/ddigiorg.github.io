@@ -321,6 +321,18 @@ Using `systemctl` to control services:
 - Type `systemctl list-units | grep [service]` to list the particular service
 - Type `systemctl list-unit-files` to list all services, devices, et. al.
 
+## SSH into Linux Machine
+
+- Switch to your host machine (linux in this case)
+- Type `sudo pacman -S openssh` to install ssh
+- Type `sudo vim /etc/ssh/sshd_config` to edit the config file
+- Change default port by uncommenting "Port" and set preferred one (usually 22)
+- Type `sudo systemctl enable sshd.service` to enable service startup on boot
+- Type `sudo systemctl start sshd.service` to start the service
+- Type `ip addr` to retrieve your local IP address (it's by "inet", for example 192.168.1.xxx/yy)
+- Switch to your client machine (e.g. windows or otherwise)
+- Type `ssh -p 22 <username>@<ipaddress>` to ssh into the machine
+
 ## Man
 
 [Man](https://wiki.archlinux.org/index.php/Man_page) lets you read package manuals.

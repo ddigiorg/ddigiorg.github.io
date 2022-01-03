@@ -77,3 +77,4 @@ tags: computer
 ## Links
 
 - <https://pcpartpicker.com/>
+- <https://www.reddit.com/r/buildapc/wiki/index>
