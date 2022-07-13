@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux
-date: 2021-08-08
+date: 2022-07-13
 tags: computer linux
 ---
 
@@ -332,6 +332,17 @@ Using `systemctl` to control services:
 - Type `ip addr` to retrieve your local IP address (it's by "inet", for example 192.168.1.xxx/yy)
 - Switch to your client machine (e.g. windows or otherwise)
 - Type `ssh -p 22 <username>@<ipaddress>` to ssh into the machine
+
+## Mounting a Device (USB, SD Card, etc.)
+
+- Plug in the device and linux should add a new block device into `/dev`
+- Type `dmesg | tail`, `fdisk -1`, or `lsblk` to see the assigned disk device name and partition name
+- Type `mkdir /mnt/<directory>` to create a new mount point
+- Type `mount /dev/<partition> /mnt/<directory>` to mount the device filesystem to your linux filesystem
+- Type `mount | grep <partition>` to verify device has been mounted correctly (no output means partition was not mounted)
+- Type `cd /mnt/<directory>` to access the data from the mount point
+- Type `umount` to make sure no process is currently using the mount point directory
+- Type `umount /mnt/<directory>` to unmount the device partition
 
 ## Man
 
