@@ -156,54 +156,55 @@ Helpful tips:
 - Use `&&` between commands to execute them one one line in the terminal
 - Use `|` between commands to pipe, or send output, of one command to another for further processing
 
-| Command    | Description                                       |
-|------------|---------------------------------------------------|
-| `compgen`  | list all the commands that could be executed      |
-| `man`      | an interface to the system reference manuals      |
-| `apropos`  | search the manual page names and descriptions     |
-| `cat`      | concatenate files and print on stdout (or shell)  |
-| `pwd`      | print workind directory                           |
-| `ls`       | list directory                                    |
-| `cd`       | change directory                                  |
-| `whoami`   | who am I (prints current user name)               |
-| `clear`    | clear terminal screen                             |
-| `mkdir`    | make directory                                    |
-| `rmdir`    | remove empty directory                            |
-| `rm`       | remove files or directories                       |
-| `cp`       | copy files or directories                         |
-| `mv`       | move files or directories                         |
-| `ln`       | make hard or symbolic links                       |
-| `chown`    | change file owner and group                       |
-| `chmod`    | change file permissions                           |
-| `dd`       | convert and copy a file                           |
-| `df`       | report file system disk space usage               |
-| `tar`      | tar archiver                                      |
-| `less`     | terminal pager                                    |
-| `find`     | search files or directories                       |
-| `diff`     | compare files line by line                        |
-| `grep`     | print lines matching a pattern                    |
-| `sed`      | stream editor                                     |
-| `awk`      | pattern scanning and processing language          |
-| `dmesg`    | print or control the kernel ring buffer           |
-| `lsblk`    | list block devices                                |
-| `mount`    | mount a filesystem                                |
-| `umount`   | unmount a filesystem                              |
-| `su`       | substitute user                                   |
-| `sudo`     | superuser do                                      |
-| `exit`     | cause normal process termination                  |
-| `kill`     | terminate a process                               |
-| `pgrep`    | look up processes by name or attributes           |
-| `ps`       | report a snapshot of the current processes        |
-| `pstree`   | shows running processes as a tree                 |
-| `free`     | display amount of free and used memory            |
-| `which`    | identify the location of executables              |
-| `id`       | print real and effective user and group IDs       |
-| `uname`    | print system information                          |
-| `ip`       | print network information                         |
-| `netstat`  | print status of the network                       |
-| `ifconfig` | configure a network interface                     |
-| `who`      | show who is logged on                             |
-| `env`      | print environment variables                       |
+| Command    | Description                                         |
+|------------|-----------------------------------------------------|
+| `compgen`  | list all the commands that could be executed        |
+| `man`      | an interface to the system reference manuals        |
+| `apropos`  | search the manual page names and descriptions       |
+| `cat`      | concatenate files and print on stdout (or shell)    |
+| `pwd`      | print workind directory                             |
+| `ls`       | list directory                                      |
+| `cd`       | change directory                                    |
+| `whoami`   | who am I (prints current user name)                 |
+| `clear`    | clear terminal screen                               |
+| `mkdir`    | make directory                                      |
+| `rmdir`    | remove empty directory                              |
+| `rm`       | remove files or directories                         |
+| `cp`       | copy files or directories                           |
+| `mv`       | move files or directories                           |
+| `ln`       | make hard or symbolic links                         |
+| `chown`    | change file owner and group                         |
+| `chmod`    | change file permissions                             |
+| `dd`       | convert and copy a file                             |
+| `df`       | report file system disk space usage                 |
+| `tar`      | tar archiver                                        |
+| `less`     | terminal pager                                      |
+| `find`     | search files or directories                         |
+| `diff`     | compare files line by line                          |
+| `grep`     | print lines matching a pattern                      |
+| `sed`      | stream editor                                       |
+| `awk`      | pattern scanning and processing language            |
+| `dmesg`    | print or control the kernel ring buffer             |
+| `lsblk`    | list block devices                                  |
+| `mount`    | mount a filesystem                                  |
+| `umount`   | unmount a filesystem                                |
+| `su`       | substitute user                                     |
+| `sudo`     | superuser do                                        |
+| `exit`     | cause normal process termination                    |
+| `kill`     | terminate a process                                 |
+| `pgrep`    | look up processes by name or attributes             |
+| `ps`       | report a snapshot of the current processes          |
+| `pstree`   | shows running processes as a tree                   |
+| `free`     | display amount of free and used memory              |
+| `which`    | identify the location of executables                |
+| `id`       | print real and effective user and group IDs         |
+| `uname`    | print system information                            |
+| `ip`       | print network information                           |
+| `netstat`  | print status of the network                         |
+| `ifconfig` | configure a network interface                       |
+| `who`      | show who is logged on                               |
+| `env`      | print environment variables                         |
+| `scp`      | secure copy files and directories between locations |
 
 ## The Filesystem Hierarchy Standard (FHS)
 
@@ -343,6 +344,7 @@ Using `systemctl` to control services:
 - Type `cd /mnt/<directory>` to access the data from the mount point
 - Type `umount` to make sure no process is currently using the mount point directory
 - Type `umount /mnt/<directory>` to unmount the device partition
+- Type `eject /dev/<partition>` to safely eject the device from your computer
 
 ## Man
 
