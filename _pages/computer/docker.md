@@ -7,13 +7,13 @@ tags: computer
 
 ## Instructions
 
-`docker --version`
-`docker build -t <imagename> . -f Dockerfile`
-`docker image ls -a`
-`docker run -d --name <containername> <imagename>`
-`docker container ls -a`
-`docker container rm <containername>`
-`docker image rm <iamgename>`
+- show version: `docker --version`
+- build image: `docker build -t <imagename> . -f Dockerfile`
+- list images: `docker image ls -a`
+- run container: `docker run -d --name <containername> <imagename>`
+- list containers: `docker container ls -a`
+- remove container: `docker container rm <containername>`
+- remove image: `docker image rm <iamgename>`
 
 ## Links
 
