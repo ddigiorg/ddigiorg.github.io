@@ -1,42 +1,20 @@
 ---
 layout: page
 title: Python Virtual Environments
-date: 2022-08-12
+date: 2022-10-05
 tags: computer
 ---
 
 ## Instructions
 
-Create a virtual environment
-
-```bash
-python -m venv <path>
-```
-
-Activate (Linux)
-
-```bash
-source <path>/bin/activate
-```
-
-Deactivate (Linux)
-
-```bash
-deactivate
-```
-
-Activate (Windows)
-
-```bash
-<path>\Scripts\activate.bat
-```
-
-Deactivate (Windows)
-
-```bash
-<path>\Scripts\deactivate.bat
-```
-
+| instruction                  | command                         |
+|------------------------------|---------------------------------|
+| Create a virtual environment | `python -m venv <path>`         |
+| Activate (Linux)             | `source <path>/bin/activate`    |
+| Activate (Windows)           | `<path>\Scripts\activate.bat`   |
+| Deactivate (Linux)           | `deactivate`                    |
+| Deactivate (Windows)         | `<path>\Scripts\deactivate.bat` |
+| Create a Requirements File   | `pip freeze > requirements.txt` |
 
 ## Links
 
