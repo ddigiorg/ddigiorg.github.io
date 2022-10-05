@@ -11,22 +11,32 @@ Create a virtual environment
 
 ```bash
 python -m venv <path>
-
 ```
 
-Activate a virtual environment on Linux
+Activate (Linux)
 
 ```bash
-which pip
 source <path>/bin/activate
-which pip
 ```
 
-Deactivate the active virtual environment
+Deactivate (Linux)
 
 ```bash
 deactivate
 ```
+
+Activate (Windows)
+
+```bash
+<path>\Scripts\activate.bat
+```
+
+Deactivate (Windows)
+
+```bash
+<path>\Scripts\deactivate.bat
+```
+
 
 ## Links
 
